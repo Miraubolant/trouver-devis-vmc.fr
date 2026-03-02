@@ -1,0 +1,309 @@
+{
+    "departement": {
+        "code": "2A",
+        "nom": "Corse-du-Sud",
+        "slug": "corse-du-sud"
+    },
+    "region": {
+        "id": 6,
+        "code": "05",
+        "nom": "Corse",
+        "slug": "corse"
+    },
+    "voisins": [
+        {
+            "dep_code": "2B",
+            "dep_nom": "Haute-Corse",
+            "dep_slug": "haute-corse"
+        }
+    ],
+    "villes_count": 26,
+    "villes": [
+        {
+            "id": 2393,
+            "code_insee": "2A001",
+            "nom_standard": "Afa",
+            "slug_ville": "afa",
+            "code_postal": "20167",
+            "population": 3336,
+            "superficie_km2": "12.00",
+            "latitude_centre": "41.9840012",
+            "longitude_centre": "8.7980003"
+        },
+        {
+            "id": 2394,
+            "code_insee": "2A004",
+            "nom_standard": "Ajaccio",
+            "slug_ville": "ajaccio",
+            "code_postal": "20000",
+            "population": 73822,
+            "superficie_km2": "83.00",
+            "latitude_centre": "41.9350014",
+            "longitude_centre": "8.7010002"
+        },
+        {
+            "id": 2395,
+            "code_insee": "2A006",
+            "nom_standard": "Alata",
+            "slug_ville": "alata",
+            "code_postal": "20167",
+            "population": 3587,
+            "superficie_km2": "31.00",
+            "latitude_centre": "41.9739990",
+            "longitude_centre": "8.7309999"
+        },
+        {
+            "id": 2396,
+            "code_insee": "2A008",
+            "nom_standard": "Albitreccia",
+            "slug_ville": "albitreccia",
+            "code_postal": "20128",
+            "population": 1775,
+            "superficie_km2": "46.00",
+            "latitude_centre": "41.8600006",
+            "longitude_centre": "8.8780003"
+        },
+        {
+            "id": 2397,
+            "code_insee": "2A017",
+            "nom_standard": "Appietto",
+            "slug_ville": "appietto",
+            "code_postal": "20167",
+            "population": 1773,
+            "superficie_km2": "35.00",
+            "latitude_centre": "42.0029984",
+            "longitude_centre": "8.7340002"
+        },
+        {
+            "id": 2398,
+            "code_insee": "2A032",
+            "nom_standard": "Bastelicaccia",
+            "slug_ville": "bastelicaccia",
+            "code_postal": "20129",
+            "population": 4251,
+            "superficie_km2": "18.00",
+            "latitude_centre": "41.9350014",
+            "longitude_centre": "8.8360004"
+        },
+        {
+            "id": 2399,
+            "code_insee": "2A041",
+            "nom_standard": "Bonifacio",
+            "slug_ville": "bonifacio",
+            "code_postal": "20169",
+            "population": 3200,
+            "superficie_km2": "141.00",
+            "latitude_centre": "41.4360008",
+            "longitude_centre": "9.1850004"
+        },
+        {
+            "id": 2400,
+            "code_insee": "2A065",
+            "nom_standard": "Cargèse",
+            "slug_ville": "cargese",
+            "code_postal": "20130",
+            "population": 1237,
+            "superficie_km2": "47.00",
+            "latitude_centre": "42.1539993",
+            "longitude_centre": "8.6269999"
+        },
+        {
+            "id": 2401,
+            "code_insee": "2A085",
+            "nom_standard": "Cauro",
+            "slug_ville": "cauro",
+            "code_postal": "20117",
+            "population": 1481,
+            "superficie_km2": "28.00",
+            "latitude_centre": "41.9039993",
+            "longitude_centre": "8.8940001"
+        },
+        {
+            "id": 2402,
+            "code_insee": "2A092",
+            "nom_standard": "Conca",
+            "slug_ville": "conca",
+            "code_postal": "20135",
+            "population": 1159,
+            "superficie_km2": "78.00",
+            "latitude_centre": "41.7529984",
+            "longitude_centre": "9.3299999"
+        },
+        {
+            "id": 2403,
+            "code_insee": "2A103",
+            "nom_standard": "Cuttoli-Corticchiato",
+            "slug_ville": "cuttoli-corticchiato",
+            "code_postal": "20167",
+            "population": 2030,
+            "superficie_km2": "31.00",
+            "latitude_centre": "41.9770012",
+            "longitude_centre": "8.8839998"
+        },
+        {
+            "id": 2404,
+            "code_insee": "2A104",
+            "nom_standard": "Eccica-Suarella",
+            "slug_ville": "eccica-suarella",
+            "code_postal": "20117",
+            "population": 1357,
+            "superficie_km2": "14.00",
+            "latitude_centre": "41.9230003",
+            "longitude_centre": "8.8940001"
+        },
+        {
+            "id": 2405,
+            "code_insee": "2A114",
+            "nom_standard": "Figari",
+            "slug_ville": "figari",
+            "code_postal": "20114",
+            "population": 1651,
+            "superficie_km2": "101.00",
+            "latitude_centre": "41.5159988",
+            "longitude_centre": "9.1210003"
+        },
+        {
+            "id": 2406,
+            "code_insee": "2A130",
+            "nom_standard": "Grosseto-Prugna",
+            "slug_ville": "grosseto-prugna",
+            "code_postal": "20128",
+            "population": 3349,
+            "superficie_km2": "32.00",
+            "latitude_centre": "41.8839989",
+            "longitude_centre": "8.8739996"
+        },
+        {
+            "id": 2407,
+            "code_insee": "2A139",
+            "nom_standard": "Lecci",
+            "slug_ville": "lecci",
+            "code_postal": "20137",
+            "population": 1939,
+            "superficie_km2": "27.00",
+            "latitude_centre": "41.6660004",
+            "longitude_centre": "9.3190002"
+        },
+        {
+            "id": 2408,
+            "code_insee": "2A189",
+            "nom_standard": "Olmeto",
+            "slug_ville": "olmeto",
+            "code_postal": "20113",
+            "population": 1241,
+            "superficie_km2": "44.00",
+            "latitude_centre": "41.7120018",
+            "longitude_centre": "8.9049997"
+        },
+        {
+            "id": 2409,
+            "code_insee": "2A209",
+            "nom_standard": "Peri",
+            "slug_ville": "peri",
+            "code_postal": "20167",
+            "population": 2040,
+            "superficie_km2": "24.00",
+            "latitude_centre": "42.0040016",
+            "longitude_centre": "8.9119997"
+        },
+        {
+            "id": 2410,
+            "code_insee": "2A228",
+            "nom_standard": "Pietrosella",
+            "slug_ville": "pietrosella",
+            "code_postal": "20166",
+            "population": 1968,
+            "superficie_km2": "36.00",
+            "latitude_centre": "41.8279991",
+            "longitude_centre": "8.8140001"
+        },
+        {
+            "id": 2411,
+            "code_insee": "2A247",
+            "nom_standard": "Porto-Vecchio",
+            "slug_ville": "porto-vecchio",
+            "code_postal": "20137",
+            "population": 11229,
+            "superficie_km2": "169.00",
+            "latitude_centre": "41.5919991",
+            "longitude_centre": "9.2539997"
+        },
+        {
+            "id": 2412,
+            "code_insee": "2A249",
+            "nom_standard": "Propriano",
+            "slug_ville": "propriano",
+            "code_postal": "20110",
+            "population": 3741,
+            "superficie_km2": "19.00",
+            "latitude_centre": "41.6500015",
+            "longitude_centre": "8.8940001"
+        },
+        {
+            "id": 2413,
+            "code_insee": "2A269",
+            "nom_standard": "Sari-Solenzara",
+            "slug_ville": "sari-solenzara",
+            "code_postal": "20145",
+            "population": 1429,
+            "superficie_km2": "75.00",
+            "latitude_centre": "41.8129997",
+            "longitude_centre": "9.3520002"
+        },
+        {
+            "id": 2414,
+            "code_insee": "2A271",
+            "nom_standard": "Sarrola-Carcopino",
+            "slug_ville": "sarrola-carcopino",
+            "code_postal": "20167",
+            "population": 3278,
+            "superficie_km2": "27.00",
+            "latitude_centre": "42.0009995",
+            "longitude_centre": "8.8339996"
+        },
+        {
+            "id": 2415,
+            "code_insee": "2A272",
+            "nom_standard": "Sartène",
+            "slug_ville": "sartene",
+            "code_postal": "20100",
+            "population": 3570,
+            "superficie_km2": "202.00",
+            "latitude_centre": "41.5719986",
+            "longitude_centre": "8.9350004"
+        },
+        {
+            "id": 2416,
+            "code_insee": "2A288",
+            "nom_standard": "Sotta",
+            "slug_ville": "sotta",
+            "code_postal": "20146",
+            "population": 1711,
+            "superficie_km2": "67.00",
+            "latitude_centre": "41.5559998",
+            "longitude_centre": "9.1820002"
+        },
+        {
+            "id": 2417,
+            "code_insee": "2A300",
+            "nom_standard": "San-Gavino-di-Carbini",
+            "slug_ville": "san-gavino-di-carbini",
+            "code_postal": "20170",
+            "population": 1120,
+            "superficie_km2": "48.00",
+            "latitude_centre": "41.6809998",
+            "longitude_centre": "9.2329998"
+        },
+        {
+            "id": 2418,
+            "code_insee": "2A362",
+            "nom_standard": "Zonza",
+            "slug_ville": "zonza",
+            "code_postal": "20144",
+            "population": 2748,
+            "superficie_km2": "135.00",
+            "latitude_centre": "41.7210007",
+            "longitude_centre": "9.2659998"
+        }
+    ]
+}

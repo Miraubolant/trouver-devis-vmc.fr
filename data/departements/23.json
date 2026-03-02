@@ -1,0 +1,291 @@
+{
+    "departement": {
+        "code": "23",
+        "nom": "Creuse",
+        "slug": "creuse"
+    },
+    "region": {
+        "id": 16,
+        "code": "15",
+        "nom": "Nouvelle-Aquitaine",
+        "slug": "nouvelle-aquitaine"
+    },
+    "voisins": [
+        {
+            "dep_code": "16",
+            "dep_nom": "Charente",
+            "dep_slug": "charente"
+        },
+        {
+            "dep_code": "17",
+            "dep_nom": "Charente-Maritime",
+            "dep_slug": "charente-maritime"
+        },
+        {
+            "dep_code": "19",
+            "dep_nom": "Corrèze",
+            "dep_slug": "correze"
+        },
+        {
+            "dep_code": "24",
+            "dep_nom": "Dordogne",
+            "dep_slug": "dordogne"
+        }
+    ],
+    "villes_count": 23,
+    "villes": [
+        {
+            "id": 1669,
+            "code_insee": "23001",
+            "nom_standard": "Ahun",
+            "slug_ville": "ahun",
+            "code_postal": "23150",
+            "population": 1433,
+            "superficie_km2": "34.00",
+            "latitude_centre": "46.0859985",
+            "longitude_centre": "2.0239999"
+        },
+        {
+            "id": 1670,
+            "code_insee": "23002",
+            "nom_standard": "Ajain",
+            "slug_ville": "ajain",
+            "code_postal": "23380",
+            "population": 1032,
+            "superficie_km2": "33.00",
+            "latitude_centre": "46.2109985",
+            "longitude_centre": "1.9960001"
+        },
+        {
+            "id": 1671,
+            "code_insee": "23008",
+            "nom_standard": "Aubusson",
+            "slug_ville": "aubusson",
+            "code_postal": "23200",
+            "population": 3108,
+            "superficie_km2": "19.00",
+            "latitude_centre": "45.9510002",
+            "longitude_centre": "2.1659999"
+        },
+        {
+            "id": 1672,
+            "code_insee": "23013",
+            "nom_standard": "Auzances",
+            "slug_ville": "auzances",
+            "code_postal": "23700",
+            "population": 1177,
+            "superficie_km2": "7.00",
+            "latitude_centre": "46.0260010",
+            "longitude_centre": "2.5070000"
+        },
+        {
+            "id": 1673,
+            "code_insee": "23025",
+            "nom_standard": "Bonnat",
+            "slug_ville": "bonnat",
+            "code_postal": "23220",
+            "population": 1352,
+            "superficie_km2": "46.00",
+            "latitude_centre": "46.3230019",
+            "longitude_centre": "1.9140000"
+        },
+        {
+            "id": 1674,
+            "code_insee": "23030",
+            "nom_standard": "Bourganeuf",
+            "slug_ville": "bourganeuf",
+            "code_postal": "23400",
+            "population": 2450,
+            "superficie_km2": "22.00",
+            "latitude_centre": "45.9490013",
+            "longitude_centre": "1.7490000"
+        },
+        {
+            "id": 1675,
+            "code_insee": "23031",
+            "nom_standard": "Boussac",
+            "slug_ville": "boussac",
+            "code_postal": "23600",
+            "population": 1242,
+            "superficie_km2": "2.00",
+            "latitude_centre": "46.3479996",
+            "longitude_centre": "2.2230001"
+        },
+        {
+            "id": 1676,
+            "code_insee": "23036",
+            "nom_standard": "Bussière-Dunoise",
+            "slug_ville": "bussiere-dunoise",
+            "code_postal": "23320",
+            "population": 1040,
+            "superficie_km2": "42.00",
+            "latitude_centre": "46.2560005",
+            "longitude_centre": "1.7600000"
+        },
+        {
+            "id": 1677,
+            "code_insee": "23075",
+            "nom_standard": "Dun-le-Palestel",
+            "slug_ville": "dun-le-palestel",
+            "code_postal": "23800",
+            "population": 1091,
+            "superficie_km2": "10.00",
+            "latitude_centre": "46.3030014",
+            "longitude_centre": "1.6619999"
+        },
+        {
+            "id": 1678,
+            "code_insee": "23076",
+            "nom_standard": "Évaux-les-Bains",
+            "slug_ville": "evaux-les-bains",
+            "code_postal": "23110",
+            "population": 1291,
+            "superficie_km2": "45.00",
+            "latitude_centre": "46.1689987",
+            "longitude_centre": "2.4990001"
+        },
+        {
+            "id": 1679,
+            "code_insee": "23079",
+            "nom_standard": "Felletin",
+            "slug_ville": "felletin",
+            "code_postal": "23500",
+            "population": 1536,
+            "superficie_km2": "14.00",
+            "latitude_centre": "45.8899994",
+            "longitude_centre": "2.1830001"
+        },
+        {
+            "id": 1680,
+            "code_insee": "23093",
+            "nom_standard": "Gouzon",
+            "slug_ville": "gouzon",
+            "code_postal": "23230",
+            "population": 1560,
+            "superficie_km2": "51.00",
+            "latitude_centre": "46.1870003",
+            "longitude_centre": "2.2309999"
+        },
+        {
+            "id": 1681,
+            "code_insee": "23095",
+            "nom_standard": "Le Grand-Bourg",
+            "slug_ville": "le-grand-bourg",
+            "code_postal": "23240",
+            "population": 1195,
+            "superficie_km2": "79.00",
+            "latitude_centre": "46.1599999",
+            "longitude_centre": "1.6550000"
+        },
+        {
+            "id": 1682,
+            "code_insee": "23096",
+            "nom_standard": "Guéret",
+            "slug_ville": "gueret",
+            "code_postal": "23000",
+            "population": 12840,
+            "superficie_km2": "26.00",
+            "latitude_centre": "46.1629982",
+            "longitude_centre": "1.8710001"
+        },
+        {
+            "id": 1683,
+            "code_insee": "23176",
+            "nom_standard": "La Souterraine",
+            "slug_ville": "la-souterraine",
+            "code_postal": "23300",
+            "population": 4933,
+            "superficie_km2": "37.00",
+            "latitude_centre": "46.2369995",
+            "longitude_centre": "1.4760000"
+        },
+        {
+            "id": 1684,
+            "code_insee": "23177",
+            "nom_standard": "Saint-Agnant-de-Versillat",
+            "slug_ville": "saint-agnant-de-versillat",
+            "code_postal": "23300",
+            "population": 1079,
+            "superficie_km2": "51.00",
+            "latitude_centre": "46.2809982",
+            "longitude_centre": "1.5060000"
+        },
+        {
+            "id": 1685,
+            "code_insee": "23189",
+            "nom_standard": "Saint-Dizier-Masbaraud",
+            "slug_ville": "saint-dizier-masbaraud",
+            "code_postal": "23400",
+            "population": 1125,
+            "superficie_km2": "47.00",
+            "latitude_centre": "46.0270004",
+            "longitude_centre": "1.7050000"
+        },
+        {
+            "id": 1686,
+            "code_insee": "23192",
+            "nom_standard": "Fursac",
+            "slug_ville": "fursac",
+            "code_postal": "23290",
+            "population": 1437,
+            "superficie_km2": "32.00",
+            "latitude_centre": "46.1269989",
+            "longitude_centre": "1.5319999"
+        },
+        {
+            "id": 1687,
+            "code_insee": "23193",
+            "nom_standard": "Sainte-Feyre",
+            "slug_ville": "sainte-feyre",
+            "code_postal": "23000",
+            "population": 2497,
+            "superficie_km2": "30.00",
+            "latitude_centre": "46.1570015",
+            "longitude_centre": "1.9130000"
+        },
+        {
+            "id": 1688,
+            "code_insee": "23195",
+            "nom_standard": "Saint-Fiel",
+            "slug_ville": "saint-fiel",
+            "code_postal": "23000",
+            "population": 1061,
+            "superficie_km2": "17.00",
+            "latitude_centre": "46.2130013",
+            "longitude_centre": "1.8950000"
+        },
+        {
+            "id": 1689,
+            "code_insee": "23219",
+            "nom_standard": "Saint-Maurice-la-Souterraine",
+            "slug_ville": "saint-maurice-la-souterraine",
+            "code_postal": "23300",
+            "population": 1158,
+            "superficie_km2": "40.00",
+            "latitude_centre": "46.2109985",
+            "longitude_centre": "1.4260000"
+        },
+        {
+            "id": 1690,
+            "code_insee": "23245",
+            "nom_standard": "Saint-Sulpice-le-Guérétois",
+            "slug_ville": "saint-sulpice-le-gueretois",
+            "code_postal": "23000",
+            "population": 1911,
+            "superficie_km2": "36.00",
+            "latitude_centre": "46.2019997",
+            "longitude_centre": "1.8279999"
+        },
+        {
+            "id": 1691,
+            "code_insee": "23247",
+            "nom_standard": "Saint-Vaury",
+            "slug_ville": "saint-vaury",
+            "code_postal": "23320",
+            "population": 1732,
+            "superficie_km2": "47.00",
+            "latitude_centre": "46.2000008",
+            "longitude_centre": "1.7490000"
+        }
+    ]
+}

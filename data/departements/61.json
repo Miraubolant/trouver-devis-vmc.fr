@@ -1,0 +1,709 @@
+{
+    "departement": {
+        "code": "61",
+        "nom": "Orne",
+        "slug": "orne"
+    },
+    "region": {
+        "id": 15,
+        "code": "14",
+        "nom": "Normandie",
+        "slug": "normandie"
+    },
+    "voisins": [
+        {
+            "dep_code": "14",
+            "dep_nom": "Calvados",
+            "dep_slug": "calvados"
+        },
+        {
+            "dep_code": "27",
+            "dep_nom": "Eure",
+            "dep_slug": "eure"
+        },
+        {
+            "dep_code": "50",
+            "dep_nom": "Manche",
+            "dep_slug": "manche"
+        },
+        {
+            "dep_code": "76",
+            "dep_nom": "Seine-Maritime",
+            "dep_slug": "seine-maritime"
+        }
+    ],
+    "villes_count": 61,
+    "villes": [
+        {
+            "id": 6187,
+            "code_insee": "61001",
+            "nom_standard": "Alençon",
+            "slug_ville": "alencon",
+            "code_postal": "61000",
+            "population": 25555,
+            "superficie_km2": "11.00",
+            "latitude_centre": "48.4319992",
+            "longitude_centre": "0.0920000"
+        },
+        {
+            "id": 6188,
+            "code_insee": "61006",
+            "nom_standard": "Argentan",
+            "slug_ville": "argentan",
+            "code_postal": "61200",
+            "population": 13291,
+            "superficie_km2": "18.00",
+            "latitude_centre": "48.7319984",
+            "longitude_centre": "-0.0130000"
+        },
+        {
+            "id": 6189,
+            "code_insee": "61007",
+            "nom_standard": "Athis-Val de Rouvre",
+            "slug_ville": "athis-val-de-rouvre",
+            "code_postal": "61100",
+            "population": 4216,
+            "superficie_km2": "33.00",
+            "latitude_centre": "48.7949982",
+            "longitude_centre": "-0.5100000"
+        },
+        {
+            "id": 6190,
+            "code_insee": "61008",
+            "nom_standard": "Aube",
+            "slug_ville": "aube",
+            "code_postal": "61270",
+            "population": 1247,
+            "superficie_km2": "6.00",
+            "latitude_centre": "48.7319984",
+            "longitude_centre": "0.5460000"
+        },
+        {
+            "id": 6191,
+            "code_insee": "61038",
+            "nom_standard": "Bellême",
+            "slug_ville": "belleme",
+            "code_postal": "61130",
+            "population": 1456,
+            "superficie_km2": "2.00",
+            "latitude_centre": "48.3730011",
+            "longitude_centre": "0.5630000"
+        },
+        {
+            "id": 6192,
+            "code_insee": "61040",
+            "nom_standard": "Bellou-en-Houlme",
+            "slug_ville": "bellou-en-houlme",
+            "code_postal": "61220",
+            "population": 1042,
+            "superficie_km2": "39.00",
+            "latitude_centre": "48.6910019",
+            "longitude_centre": "-0.4440000"
+        },
+        {
+            "id": 6193,
+            "code_insee": "61043",
+            "nom_standard": "Berd'huis",
+            "slug_ville": "berd-huis",
+            "code_postal": "61340",
+            "population": 1094,
+            "superficie_km2": "11.00",
+            "latitude_centre": "48.3499985",
+            "longitude_centre": "0.7400000"
+        },
+        {
+            "id": 6194,
+            "code_insee": "61061",
+            "nom_standard": "Bretoncelles",
+            "slug_ville": "bretoncelles",
+            "code_postal": "61110",
+            "population": 1469,
+            "superficie_km2": "40.00",
+            "latitude_centre": "48.4360008",
+            "longitude_centre": "0.9010000"
+        },
+        {
+            "id": 6195,
+            "code_insee": "61063",
+            "nom_standard": "Briouze",
+            "slug_ville": "briouze",
+            "code_postal": "61220",
+            "population": 1513,
+            "superficie_km2": "17.00",
+            "latitude_centre": "48.7109985",
+            "longitude_centre": "-0.3780000"
+        },
+        {
+            "id": 6196,
+            "code_insee": "61075",
+            "nom_standard": "Ceaucé",
+            "slug_ville": "ceauce",
+            "code_postal": "61330",
+            "population": 1162,
+            "superficie_km2": "42.00",
+            "latitude_centre": "48.4939995",
+            "longitude_centre": "-0.6350000"
+        },
+        {
+            "id": 6197,
+            "code_insee": "61079",
+            "nom_standard": "Ceton",
+            "slug_ville": "ceton",
+            "code_postal": "61260",
+            "population": 1765,
+            "superficie_km2": "60.00",
+            "latitude_centre": "48.2249985",
+            "longitude_centre": "0.7580000"
+        },
+        {
+            "id": 6198,
+            "code_insee": "61093",
+            "nom_standard": "Chanu",
+            "slug_ville": "chanu",
+            "code_postal": "61800",
+            "population": 1253,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.7220001",
+            "longitude_centre": "-0.6730000"
+        },
+        {
+            "id": 6199,
+            "code_insee": "61096",
+            "nom_standard": "Rives d'Andaine",
+            "slug_ville": "rives-d-andaine",
+            "code_postal": "61140",
+            "population": 2924,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.5439987",
+            "longitude_centre": "-0.4660000"
+        },
+        {
+            "id": 6200,
+            "code_insee": "61116",
+            "nom_standard": "Sablons sur Huisne",
+            "slug_ville": "sablons-sur-huisne",
+            "code_postal": "61110",
+            "population": 1983,
+            "superficie_km2": "18.00",
+            "latitude_centre": "48.3790016",
+            "longitude_centre": "0.8650000"
+        },
+        {
+            "id": 6201,
+            "code_insee": "61117",
+            "nom_standard": "Condé-sur-Sarthe",
+            "slug_ville": "conde-sur-sarthe",
+            "code_postal": "61250",
+            "population": 2490,
+            "superficie_km2": "8.00",
+            "latitude_centre": "48.4339981",
+            "longitude_centre": "0.0340000"
+        },
+        {
+            "id": 6202,
+            "code_insee": "61143",
+            "nom_standard": "Damigny",
+            "slug_ville": "damigny",
+            "code_postal": "61250",
+            "population": 2406,
+            "superficie_km2": "5.00",
+            "latitude_centre": "48.4510002",
+            "longitude_centre": "0.0720000"
+        },
+        {
+            "id": 6203,
+            "code_insee": "61145",
+            "nom_standard": "Domfront en Poiraie",
+            "slug_ville": "domfront-en-poiraie",
+            "code_postal": "61700",
+            "population": 4155,
+            "superficie_km2": "35.00",
+            "latitude_centre": "48.5820007",
+            "longitude_centre": "-0.6140000"
+        },
+        {
+            "id": 6204,
+            "code_insee": "61153",
+            "nom_standard": "Écouché-les-Vallées",
+            "slug_ville": "ecouche-les-vallees",
+            "code_postal": "61150",
+            "population": 2197,
+            "superficie_km2": "5.00",
+            "latitude_centre": "48.7150002",
+            "longitude_centre": "-0.1110000"
+        },
+        {
+            "id": 6205,
+            "code_insee": "61163",
+            "nom_standard": "La Ferrière-aux-Étangs",
+            "slug_ville": "la-ferriere-aux-etangs",
+            "code_postal": "61450",
+            "population": 1556,
+            "superficie_km2": "11.00",
+            "latitude_centre": "48.6520004",
+            "longitude_centre": "-0.5090000"
+        },
+        {
+            "id": 6206,
+            "code_insee": "61167",
+            "nom_standard": "La Ferté-en-Ouche",
+            "slug_ville": "la-ferte-en-ouche",
+            "code_postal": "61550",
+            "population": 2993,
+            "superficie_km2": "8.00",
+            "latitude_centre": "48.8359985",
+            "longitude_centre": "0.5080000"
+        },
+        {
+            "id": 6207,
+            "code_insee": "61168",
+            "nom_standard": "La Ferté Macé",
+            "slug_ville": "la-ferte-mace",
+            "code_postal": "61600",
+            "population": 5116,
+            "superficie_km2": "27.00",
+            "latitude_centre": "48.5820007",
+            "longitude_centre": "-0.3670000"
+        },
+        {
+            "id": 6208,
+            "code_insee": "61169",
+            "nom_standard": "Flers",
+            "slug_ville": "flers",
+            "code_postal": "61100",
+            "population": 14482,
+            "superficie_km2": "21.00",
+            "latitude_centre": "48.7400017",
+            "longitude_centre": "-0.5620000"
+        },
+        {
+            "id": 6209,
+            "code_insee": "61181",
+            "nom_standard": "Gacé",
+            "slug_ville": "gace",
+            "code_postal": "61230",
+            "population": 1786,
+            "superficie_km2": "7.00",
+            "latitude_centre": "48.7900009",
+            "longitude_centre": "0.3080000"
+        },
+        {
+            "id": 6210,
+            "code_insee": "61196",
+            "nom_standard": "Belforêt-en-Perche",
+            "slug_ville": "belforet-en-perche",
+            "code_postal": "61130",
+            "population": 1491,
+            "superficie_km2": "19.00",
+            "latitude_centre": "48.3720017",
+            "longitude_centre": "0.5100000"
+        },
+        {
+            "id": 6211,
+            "code_insee": "61211",
+            "nom_standard": "Juvigny Val d'Andaine",
+            "slug_ville": "juvigny-val-d-andaine",
+            "code_postal": "61140",
+            "population": 2114,
+            "superficie_km2": "22.00",
+            "latitude_centre": "48.5579987",
+            "longitude_centre": "-0.4970000"
+        },
+        {
+            "id": 6212,
+            "code_insee": "61214",
+            "nom_standard": "L'Aigle",
+            "slug_ville": "l-aigle",
+            "code_postal": "61300",
+            "population": 7824,
+            "superficie_km2": "18.00",
+            "latitude_centre": "48.7560005",
+            "longitude_centre": "0.6110000"
+        },
+        {
+            "id": 6213,
+            "code_insee": "61218",
+            "nom_standard": "La Lande-Patry",
+            "slug_ville": "la-lande-patry",
+            "code_postal": "61100",
+            "population": 1774,
+            "superficie_km2": "6.00",
+            "latitude_centre": "48.7540016",
+            "longitude_centre": "-0.5980000"
+        },
+        {
+            "id": 6214,
+            "code_insee": "61230",
+            "nom_standard": "Longny les Villages",
+            "slug_ville": "longny-les-villages",
+            "code_postal": "61290",
+            "population": 2878,
+            "superficie_km2": "40.00",
+            "latitude_centre": "48.5289993",
+            "longitude_centre": "0.7580000"
+        },
+        {
+            "id": 6215,
+            "code_insee": "61232",
+            "nom_standard": "Lonlay-l'Abbaye",
+            "slug_ville": "lonlay-l-abbaye",
+            "code_postal": "61700",
+            "population": 1116,
+            "superficie_km2": "53.00",
+            "latitude_centre": "48.6500015",
+            "longitude_centre": "-0.7050000"
+        },
+        {
+            "id": 6216,
+            "code_insee": "61234",
+            "nom_standard": "Lonrai",
+            "slug_ville": "lonrai",
+            "code_postal": "61250",
+            "population": 1105,
+            "superficie_km2": "6.00",
+            "latitude_centre": "48.4529991",
+            "longitude_centre": "0.0360000"
+        },
+        {
+            "id": 6217,
+            "code_insee": "61243",
+            "nom_standard": "Magny-le-Désert",
+            "slug_ville": "magny-le-desert",
+            "code_postal": "61600",
+            "population": 1382,
+            "superficie_km2": "34.00",
+            "latitude_centre": "48.5709992",
+            "longitude_centre": "-0.3230000"
+        },
+        {
+            "id": 6218,
+            "code_insee": "61278",
+            "nom_standard": "Messei",
+            "slug_ville": "messei",
+            "code_postal": "61440",
+            "population": 1831,
+            "superficie_km2": "13.00",
+            "latitude_centre": "48.7140007",
+            "longitude_centre": "-0.5390000"
+        },
+        {
+            "id": 6219,
+            "code_insee": "61293",
+            "nom_standard": "Mortagne-au-Perche",
+            "slug_ville": "mortagne-au-perche",
+            "code_postal": "61400",
+            "population": 3815,
+            "superficie_km2": "9.00",
+            "latitude_centre": "48.5200005",
+            "longitude_centre": "0.5610000"
+        },
+        {
+            "id": 6220,
+            "code_insee": "61294",
+            "nom_standard": "Mortrée",
+            "slug_ville": "mortree",
+            "code_postal": "61570",
+            "population": 1134,
+            "superficie_km2": "24.00",
+            "latitude_centre": "48.6380005",
+            "longitude_centre": "0.0800000"
+        },
+        {
+            "id": 6221,
+            "code_insee": "61309",
+            "nom_standard": "Perche en Nocé",
+            "slug_ville": "perche-en-noce",
+            "code_postal": "61340",
+            "population": 2001,
+            "superficie_km2": "21.00",
+            "latitude_centre": "48.3810005",
+            "longitude_centre": "0.6870000"
+        },
+        {
+            "id": 6222,
+            "code_insee": "61324",
+            "nom_standard": "Passais Villages",
+            "slug_ville": "passais-villages",
+            "code_postal": "61350",
+            "population": 1162,
+            "superficie_km2": "17.00",
+            "latitude_centre": "48.5139999",
+            "longitude_centre": "-0.7600000"
+        },
+        {
+            "id": 6223,
+            "code_insee": "61339",
+            "nom_standard": "Putanges-le-Lac",
+            "slug_ville": "putanges-le-lac",
+            "code_postal": "61210",
+            "population": 2125,
+            "superficie_km2": "10.00",
+            "latitude_centre": "48.7659988",
+            "longitude_centre": "-0.2520000"
+        },
+        {
+            "id": 6224,
+            "code_insee": "61341",
+            "nom_standard": "Écouves",
+            "slug_ville": "ecouves",
+            "code_postal": "61250",
+            "population": 1664,
+            "superficie_km2": "20.00",
+            "latitude_centre": "48.5089989",
+            "longitude_centre": "0.0860000"
+        },
+        {
+            "id": 6225,
+            "code_insee": "61342",
+            "nom_standard": "Rai",
+            "slug_ville": "rai",
+            "code_postal": "61270",
+            "population": 1427,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.7560005",
+            "longitude_centre": "0.5630000"
+        },
+        {
+            "id": 6226,
+            "code_insee": "61344",
+            "nom_standard": "Rânes",
+            "slug_ville": "ranes",
+            "code_postal": "61150",
+            "population": 1047,
+            "superficie_km2": "34.00",
+            "latitude_centre": "48.6440010",
+            "longitude_centre": "-0.2180000"
+        },
+        {
+            "id": 6227,
+            "code_insee": "61345",
+            "nom_standard": "Rémalard en Perche",
+            "slug_ville": "remalard-en-perche",
+            "code_postal": "61110",
+            "population": 1896,
+            "superficie_km2": "21.00",
+            "latitude_centre": "48.4500008",
+            "longitude_centre": "0.7790000"
+        },
+        {
+            "id": 6228,
+            "code_insee": "61369",
+            "nom_standard": "Saint-Bômer-les-Forges",
+            "slug_ville": "saint-bomer-les-forges",
+            "code_postal": "61700",
+            "population": 1024,
+            "superficie_km2": "31.00",
+            "latitude_centre": "48.6450005",
+            "longitude_centre": "-0.6230000"
+        },
+        {
+            "id": 6229,
+            "code_insee": "61375",
+            "nom_standard": "Boischampré",
+            "slug_ville": "boischampre",
+            "code_postal": "61570",
+            "population": 1181,
+            "superficie_km2": "12.00",
+            "latitude_centre": "48.6570015",
+            "longitude_centre": "0.0020000"
+        },
+        {
+            "id": 6230,
+            "code_insee": "61382",
+            "nom_standard": "Saint-Denis-sur-Sarthon",
+            "slug_ville": "saint-denis-sur-sarthon",
+            "code_postal": "61420",
+            "population": 1101,
+            "superficie_km2": "14.00",
+            "latitude_centre": "48.4580002",
+            "longitude_centre": "-0.0370000"
+        },
+        {
+            "id": 6231,
+            "code_insee": "61389",
+            "nom_standard": "Sainte-Gauburge-Sainte-Colombe",
+            "slug_ville": "sainte-gauburge-sainte-colombe",
+            "code_postal": "61370",
+            "population": 1017,
+            "superficie_km2": "21.00",
+            "latitude_centre": "48.7080002",
+            "longitude_centre": "0.4440000"
+        },
+        {
+            "id": 6232,
+            "code_insee": "61391",
+            "nom_standard": "Saint-Georges-des-Groseillers",
+            "slug_ville": "saint-georges-des-groseillers",
+            "code_postal": "61100",
+            "population": 3164,
+            "superficie_km2": "7.00",
+            "latitude_centre": "48.7669983",
+            "longitude_centre": "-0.5680000"
+        },
+        {
+            "id": 6233,
+            "code_insee": "61397",
+            "nom_standard": "Saint-Germain-du-Corbéis",
+            "slug_ville": "saint-germain-du-corbeis",
+            "code_postal": "61000",
+            "population": 3693,
+            "superficie_km2": "8.00",
+            "latitude_centre": "48.4179993",
+            "longitude_centre": "0.0580000"
+        },
+        {
+            "id": 6234,
+            "code_insee": "61447",
+            "nom_standard": "Saint-Pierre-du-Regard",
+            "slug_ville": "saint-pierre-du-regard",
+            "code_postal": "61790",
+            "population": 1358,
+            "superficie_km2": "9.00",
+            "latitude_centre": "48.8339996",
+            "longitude_centre": "-0.5410000"
+        },
+        {
+            "id": 6235,
+            "code_insee": "61456",
+            "nom_standard": "Saint-Sulpice-sur-Risle",
+            "slug_ville": "saint-sulpice-sur-risle",
+            "code_postal": "61300",
+            "population": 1615,
+            "superficie_km2": "29.00",
+            "latitude_centre": "48.7760010",
+            "longitude_centre": "0.6710000"
+        },
+        {
+            "id": 6236,
+            "code_insee": "61462",
+            "nom_standard": "Sarceaux",
+            "slug_ville": "sarceaux",
+            "code_postal": "61200",
+            "population": 1049,
+            "superficie_km2": "11.00",
+            "latitude_centre": "48.7159996",
+            "longitude_centre": "-0.0350000"
+        },
+        {
+            "id": 6237,
+            "code_insee": "61463",
+            "nom_standard": "Les Monts d'Andaine",
+            "slug_ville": "les-monts-d-andaine",
+            "code_postal": "61600",
+            "population": 1735,
+            "superficie_km2": "27.00",
+            "latitude_centre": "48.6129990",
+            "longitude_centre": "-0.4360000"
+        },
+        {
+            "id": 6238,
+            "code_insee": "61464",
+            "nom_standard": "Sées",
+            "slug_ville": "sees",
+            "code_postal": "61500",
+            "population": 4191,
+            "superficie_km2": "41.00",
+            "latitude_centre": "48.6049995",
+            "longitude_centre": "0.1690000"
+        },
+        {
+            "id": 6239,
+            "code_insee": "61466",
+            "nom_standard": "La Selle-la-Forge",
+            "slug_ville": "la-selle-la-forge",
+            "code_postal": "61100",
+            "population": 1423,
+            "superficie_km2": "8.00",
+            "latitude_centre": "48.7350006",
+            "longitude_centre": "-0.5330000"
+        },
+        {
+            "id": 6240,
+            "code_insee": "61474",
+            "nom_standard": "Gouffern en Auge",
+            "slug_ville": "gouffern-en-auge",
+            "code_postal": "61310",
+            "population": 3660,
+            "superficie_km2": "40.00",
+            "latitude_centre": "48.7519989",
+            "longitude_centre": "0.0650000"
+        },
+        {
+            "id": 6241,
+            "code_insee": "61483",
+            "nom_standard": "Bagnoles de l'Orne Normandie",
+            "slug_ville": "bagnoles-de-l-orne-normandie",
+            "code_postal": "61140",
+            "population": 2704,
+            "superficie_km2": "9.00",
+            "latitude_centre": "48.5559998",
+            "longitude_centre": "-0.4200000"
+        },
+        {
+            "id": 6242,
+            "code_insee": "61484",
+            "nom_standard": "Val-au-Perche",
+            "slug_ville": "val-au-perche",
+            "code_postal": "61130",
+            "population": 3369,
+            "superficie_km2": "10.00",
+            "latitude_centre": "48.2680016",
+            "longitude_centre": "0.6510000"
+        },
+        {
+            "id": 6243,
+            "code_insee": "61486",
+            "nom_standard": "Tinchebray-Bocage",
+            "slug_ville": "tinchebray-bocage",
+            "code_postal": "61800",
+            "population": 4884,
+            "superficie_km2": "26.00",
+            "latitude_centre": "48.7560005",
+            "longitude_centre": "-0.7360000"
+        },
+        {
+            "id": 6244,
+            "code_insee": "61491",
+            "nom_standard": "Tourouvre au Perche",
+            "slug_ville": "tourouvre-au-perche",
+            "code_postal": "61190",
+            "population": 3023,
+            "superficie_km2": "24.00",
+            "latitude_centre": "48.5890007",
+            "longitude_centre": "0.6600000"
+        },
+        {
+            "id": 6245,
+            "code_insee": "61494",
+            "nom_standard": "Trun",
+            "slug_ville": "trun",
+            "code_postal": "61160",
+            "population": 1202,
+            "superficie_km2": "9.00",
+            "latitude_centre": "48.8510017",
+            "longitude_centre": "0.0460000"
+        },
+        {
+            "id": 6246,
+            "code_insee": "61497",
+            "nom_standard": "Valframbert",
+            "slug_ville": "valframbert",
+            "code_postal": "61250",
+            "population": 1721,
+            "superficie_km2": "14.00",
+            "latitude_centre": "48.4650002",
+            "longitude_centre": "0.1110000"
+        },
+        {
+            "id": 6247,
+            "code_insee": "61508",
+            "nom_standard": "Vimoutiers",
+            "slug_ville": "vimoutiers",
+            "code_postal": "61120",
+            "population": 3069,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.9239998",
+            "longitude_centre": "0.2010000"
+        }
+    ]
+}

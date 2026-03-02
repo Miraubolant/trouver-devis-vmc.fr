@@ -1,0 +1,709 @@
+{
+    "departement": {
+        "code": "43",
+        "nom": "Haute-Loire",
+        "slug": "haute-loire"
+    },
+    "region": {
+        "id": 2,
+        "code": "01",
+        "nom": "Auvergne-Rhône-Alpes",
+        "slug": "auvergne-rhone-alpes"
+    },
+    "voisins": [
+        {
+            "dep_code": "01",
+            "dep_nom": "Ain",
+            "dep_slug": "ain"
+        },
+        {
+            "dep_code": "03",
+            "dep_nom": "Allier",
+            "dep_slug": "allier"
+        },
+        {
+            "dep_code": "07",
+            "dep_nom": "Ardèche",
+            "dep_slug": "ardeche"
+        },
+        {
+            "dep_code": "15",
+            "dep_nom": "Cantal",
+            "dep_slug": "cantal"
+        }
+    ],
+    "villes_count": 61,
+    "villes": [
+        {
+            "id": 4205,
+            "code_insee": "43002",
+            "nom_standard": "Aiguilhe",
+            "slug_ville": "aiguilhe",
+            "code_postal": "43000",
+            "population": 1469,
+            "superficie_km2": "1.00",
+            "latitude_centre": "45.0530014",
+            "longitude_centre": "3.8850000"
+        },
+        {
+            "id": 4206,
+            "code_insee": "43010",
+            "nom_standard": "Arsac-en-Velay",
+            "slug_ville": "arsac-en-velay",
+            "code_postal": "43700",
+            "population": 1208,
+            "superficie_km2": "12.00",
+            "latitude_centre": "44.9939995",
+            "longitude_centre": "3.9549999"
+        },
+        {
+            "id": 4207,
+            "code_insee": "43012",
+            "nom_standard": "Aurec-sur-Loire",
+            "slug_ville": "aurec-sur-loire",
+            "code_postal": "43110",
+            "population": 6171,
+            "superficie_km2": "23.00",
+            "latitude_centre": "45.3689995",
+            "longitude_centre": "4.2049999"
+        },
+        {
+            "id": 4208,
+            "code_insee": "43018",
+            "nom_standard": "Bains",
+            "slug_ville": "bains",
+            "code_postal": "43370",
+            "population": 1382,
+            "superficie_km2": "38.00",
+            "latitude_centre": "44.9959984",
+            "longitude_centre": "3.7639999"
+        },
+        {
+            "id": 4209,
+            "code_insee": "43020",
+            "nom_standard": "Bas-en-Basset",
+            "slug_ville": "bas-en-basset",
+            "code_postal": "43210",
+            "population": 4546,
+            "superficie_km2": "47.00",
+            "latitude_centre": "45.3160019",
+            "longitude_centre": "4.1050000"
+        },
+        {
+            "id": 4210,
+            "code_insee": "43021",
+            "nom_standard": "Beaulieu",
+            "slug_ville": "beaulieu",
+            "code_postal": "43800",
+            "population": 1046,
+            "superficie_km2": "23.00",
+            "latitude_centre": "45.1430016",
+            "longitude_centre": "3.9510000"
+        },
+        {
+            "id": 4211,
+            "code_insee": "43025",
+            "nom_standard": "Beauzac",
+            "slug_ville": "beauzac",
+            "code_postal": "43590",
+            "population": 2971,
+            "superficie_km2": "36.00",
+            "latitude_centre": "45.2570000",
+            "longitude_centre": "4.0929999"
+        },
+        {
+            "id": 4212,
+            "code_insee": "43032",
+            "nom_standard": "Blavozy",
+            "slug_ville": "blavozy",
+            "code_postal": "43700",
+            "population": 1706,
+            "superficie_km2": "6.00",
+            "latitude_centre": "45.0620003",
+            "longitude_centre": "3.9719999"
+        },
+        {
+            "id": 4213,
+            "code_insee": "43038",
+            "nom_standard": "Bournoncle-Saint-Pierre",
+            "slug_ville": "bournoncle-saint-pierre",
+            "code_postal": "43360",
+            "population": 1027,
+            "superficie_km2": "16.00",
+            "latitude_centre": "45.3429985",
+            "longitude_centre": "3.3239999"
+        },
+        {
+            "id": 4214,
+            "code_insee": "43040",
+            "nom_standard": "Brioude",
+            "slug_ville": "brioude",
+            "code_postal": "43100",
+            "population": 6518,
+            "superficie_km2": "13.00",
+            "latitude_centre": "45.2960014",
+            "longitude_centre": "3.3850000"
+        },
+        {
+            "id": 4215,
+            "code_insee": "43041",
+            "nom_standard": "Brives-Charensac",
+            "slug_ville": "brives-charensac",
+            "code_postal": "43700",
+            "population": 4246,
+            "superficie_km2": "5.00",
+            "latitude_centre": "45.0460014",
+            "longitude_centre": "3.9240000"
+        },
+        {
+            "id": 4216,
+            "code_insee": "43046",
+            "nom_standard": "Chadrac",
+            "slug_ville": "chadrac",
+            "code_postal": "43770",
+            "population": 2463,
+            "superficie_km2": "2.00",
+            "latitude_centre": "45.0610008",
+            "longitude_centre": "3.9010000"
+        },
+        {
+            "id": 4217,
+            "code_insee": "43051",
+            "nom_standard": "Le Chambon-sur-Lignon",
+            "slug_ville": "le-chambon-sur-lignon",
+            "code_postal": "43400",
+            "population": 2400,
+            "superficie_km2": "42.00",
+            "latitude_centre": "45.0519981",
+            "longitude_centre": "4.3200002"
+        },
+        {
+            "id": 4218,
+            "code_insee": "43058",
+            "nom_standard": "La Chapelle-d'Aurec",
+            "slug_ville": "la-chapelle-d-aurec",
+            "code_postal": "43120",
+            "population": 1109,
+            "superficie_km2": "12.00",
+            "latitude_centre": "45.3310013",
+            "longitude_centre": "4.2049999"
+        },
+        {
+            "id": 4219,
+            "code_insee": "43078",
+            "nom_standard": "Coubon",
+            "slug_ville": "coubon",
+            "code_postal": "43700",
+            "population": 3177,
+            "superficie_km2": "23.00",
+            "latitude_centre": "45.0000000",
+            "longitude_centre": "3.9270000"
+        },
+        {
+            "id": 4220,
+            "code_insee": "43080",
+            "nom_standard": "Craponne-sur-Arzon",
+            "slug_ville": "craponne-sur-arzon",
+            "code_postal": "43500",
+            "population": 1986,
+            "superficie_km2": "33.00",
+            "latitude_centre": "45.3320007",
+            "longitude_centre": "3.8529999"
+        },
+        {
+            "id": 4221,
+            "code_insee": "43084",
+            "nom_standard": "Cussac-sur-Loire",
+            "slug_ville": "cussac-sur-loire",
+            "code_postal": "43370",
+            "population": 1663,
+            "superficie_km2": "10.00",
+            "latitude_centre": "44.9850006",
+            "longitude_centre": "3.8750000"
+        },
+        {
+            "id": 4222,
+            "code_insee": "43087",
+            "nom_standard": "Dunières",
+            "slug_ville": "dunieres",
+            "code_postal": "43220",
+            "population": 2631,
+            "superficie_km2": "35.00",
+            "latitude_centre": "45.2150002",
+            "longitude_centre": "4.3460002"
+        },
+        {
+            "id": 4223,
+            "code_insee": "43089",
+            "nom_standard": "Espaly-Saint-Marcel",
+            "slug_ville": "espaly-saint-marcel",
+            "code_postal": "43000",
+            "population": 3547,
+            "superficie_km2": "6.00",
+            "latitude_centre": "45.0460014",
+            "longitude_centre": "3.8580000"
+        },
+        {
+            "id": 4224,
+            "code_insee": "43102",
+            "nom_standard": "Grazac",
+            "slug_ville": "grazac",
+            "code_postal": "43200",
+            "population": 1122,
+            "superficie_km2": "22.00",
+            "latitude_centre": "45.1920013",
+            "longitude_centre": "4.1840000"
+        },
+        {
+            "id": 4225,
+            "code_insee": "43112",
+            "nom_standard": "Langeac",
+            "slug_ville": "langeac",
+            "code_postal": "43300",
+            "population": 3437,
+            "superficie_km2": "34.00",
+            "latitude_centre": "45.0820007",
+            "longitude_centre": "3.4779999"
+        },
+        {
+            "id": 4226,
+            "code_insee": "43113",
+            "nom_standard": "Lantriac",
+            "slug_ville": "lantriac",
+            "code_postal": "43260",
+            "population": 1938,
+            "superficie_km2": "23.00",
+            "latitude_centre": "44.9889984",
+            "longitude_centre": "4.0040002"
+        },
+        {
+            "id": 4227,
+            "code_insee": "43114",
+            "nom_standard": "Lapte",
+            "slug_ville": "lapte",
+            "code_postal": "43200",
+            "population": 1740,
+            "superficie_km2": "31.00",
+            "latitude_centre": "45.1800003",
+            "longitude_centre": "4.2350001"
+        },
+        {
+            "id": 4228,
+            "code_insee": "43115",
+            "nom_standard": "Laussonne",
+            "slug_ville": "laussonne",
+            "code_postal": "43150",
+            "population": 1017,
+            "superficie_km2": "25.00",
+            "latitude_centre": "44.9669991",
+            "longitude_centre": "4.0520000"
+        },
+        {
+            "id": 4229,
+            "code_insee": "43120",
+            "nom_standard": "Lempdes-sur-Allagnon",
+            "slug_ville": "lempdes-sur-allagnon",
+            "code_postal": "43410",
+            "population": 1307,
+            "superficie_km2": "10.00",
+            "latitude_centre": "45.3790016",
+            "longitude_centre": "3.2800000"
+        },
+        {
+            "id": 4230,
+            "code_insee": "43130",
+            "nom_standard": "Mazet-Saint-Voy",
+            "slug_ville": "mazet-saint-voy",
+            "code_postal": "43520",
+            "population": 1112,
+            "superficie_km2": "45.00",
+            "latitude_centre": "45.0439987",
+            "longitude_centre": "4.2399998"
+        },
+        {
+            "id": 4231,
+            "code_insee": "43132",
+            "nom_standard": "Mazeyrat-d'Allier",
+            "slug_ville": "mazeyrat-d-allier",
+            "code_postal": "43300",
+            "population": 1434,
+            "superficie_km2": "46.00",
+            "latitude_centre": "45.1279984",
+            "longitude_centre": "3.5280001"
+        },
+        {
+            "id": 4232,
+            "code_insee": "43135",
+            "nom_standard": "Le Monastier-sur-Gazeille",
+            "slug_ville": "le-monastier-sur-gazeille",
+            "code_postal": "43150",
+            "population": 1762,
+            "superficie_km2": "39.00",
+            "latitude_centre": "44.9339981",
+            "longitude_centre": "4.0070000"
+        },
+        {
+            "id": 4233,
+            "code_insee": "43137",
+            "nom_standard": "Monistrol-sur-Loire",
+            "slug_ville": "monistrol-sur-loire",
+            "code_postal": "43120",
+            "population": 8925,
+            "superficie_km2": "48.00",
+            "latitude_centre": "45.2910004",
+            "longitude_centre": "4.1840000"
+        },
+        {
+            "id": 4234,
+            "code_insee": "43141",
+            "nom_standard": "Montfaucon-en-Velay",
+            "slug_ville": "montfaucon-en-velay",
+            "code_postal": "43290",
+            "population": 1143,
+            "superficie_km2": "5.00",
+            "latitude_centre": "45.1839981",
+            "longitude_centre": "4.3230000"
+        },
+        {
+            "id": 4235,
+            "code_insee": "43152",
+            "nom_standard": "Polignac",
+            "slug_ville": "polignac",
+            "code_postal": "43000",
+            "population": 2831,
+            "superficie_km2": "33.00",
+            "latitude_centre": "45.0800018",
+            "longitude_centre": "3.8610001"
+        },
+        {
+            "id": 4236,
+            "code_insee": "43153",
+            "nom_standard": "Pont-Salomon",
+            "slug_ville": "pont-salomon",
+            "code_postal": "43330",
+            "population": 1876,
+            "superficie_km2": "9.00",
+            "latitude_centre": "45.3349991",
+            "longitude_centre": "4.2430000"
+        },
+        {
+            "id": 4237,
+            "code_insee": "43157",
+            "nom_standard": "Le Puy-en-Velay",
+            "slug_ville": "le-puy-en-velay",
+            "code_postal": "43000",
+            "population": 18629,
+            "superficie_km2": "17.00",
+            "latitude_centre": "45.0279999",
+            "longitude_centre": "3.8950000"
+        },
+        {
+            "id": 4238,
+            "code_insee": "43162",
+            "nom_standard": "Retournac",
+            "slug_ville": "retournac",
+            "code_postal": "43130",
+            "population": 2977,
+            "superficie_km2": "46.00",
+            "latitude_centre": "45.2190018",
+            "longitude_centre": "4.0279999"
+        },
+        {
+            "id": 4239,
+            "code_insee": "43163",
+            "nom_standard": "Riotord",
+            "slug_ville": "riotord",
+            "code_postal": "43220",
+            "population": 1184,
+            "superficie_km2": "52.00",
+            "latitude_centre": "45.2350006",
+            "longitude_centre": "4.4219999"
+        },
+        {
+            "id": 4240,
+            "code_insee": "43165",
+            "nom_standard": "Rosières",
+            "slug_ville": "rosieres",
+            "code_postal": "43800",
+            "population": 1523,
+            "superficie_km2": "27.00",
+            "latitude_centre": "45.1310005",
+            "longitude_centre": "4.0029998"
+        },
+        {
+            "id": 4241,
+            "code_insee": "43177",
+            "nom_standard": "Saint-Didier-en-Velay",
+            "slug_ville": "saint-didier-en-velay",
+            "code_postal": "43140",
+            "population": 3480,
+            "superficie_km2": "26.00",
+            "latitude_centre": "45.3100014",
+            "longitude_centre": "4.2849998"
+        },
+        {
+            "id": 4242,
+            "code_insee": "43184",
+            "nom_standard": "Saint-Ferréol-d'Auroure",
+            "slug_ville": "saint-ferreol-d-auroure",
+            "code_postal": "43330",
+            "population": 2462,
+            "superficie_km2": "11.00",
+            "latitude_centre": "45.3569984",
+            "longitude_centre": "4.2589998"
+        },
+        {
+            "id": 4243,
+            "code_insee": "43185",
+            "nom_standard": "Sainte-Florine",
+            "slug_ville": "sainte-florine",
+            "code_postal": "43250",
+            "population": 3253,
+            "superficie_km2": "8.00",
+            "latitude_centre": "45.4020004",
+            "longitude_centre": "3.3099999"
+        },
+        {
+            "id": 4244,
+            "code_insee": "43190",
+            "nom_standard": "Saint-Germain-Laprade",
+            "slug_ville": "saint-germain-laprade",
+            "code_postal": "43700",
+            "population": 3528,
+            "superficie_km2": "28.00",
+            "latitude_centre": "45.0330010",
+            "longitude_centre": "3.9779999"
+        },
+        {
+            "id": 4245,
+            "code_insee": "43200",
+            "nom_standard": "Saint-Julien-Chapteuil",
+            "slug_ville": "saint-julien-chapteuil",
+            "code_postal": "43260",
+            "population": 2017,
+            "superficie_km2": "29.00",
+            "latitude_centre": "45.0299988",
+            "longitude_centre": "4.0799999"
+        },
+        {
+            "id": 4246,
+            "code_insee": "43205",
+            "nom_standard": "Saint-Just-Malmont",
+            "slug_ville": "saint-just-malmont",
+            "code_postal": "43240",
+            "population": 4217,
+            "superficie_km2": "24.00",
+            "latitude_centre": "45.3460007",
+            "longitude_centre": "4.3220000"
+        },
+        {
+            "id": 4247,
+            "code_insee": "43211",
+            "nom_standard": "Saint-Maurice-de-Lignon",
+            "slug_ville": "saint-maurice-de-lignon",
+            "code_postal": "43200",
+            "population": 2643,
+            "superficie_km2": "30.00",
+            "latitude_centre": "45.2200012",
+            "longitude_centre": "4.1350002"
+        },
+        {
+            "id": 4248,
+            "code_insee": "43212",
+            "nom_standard": "Saint-Pal-de-Chalencon",
+            "slug_ville": "saint-pal-de-chalencon",
+            "code_postal": "43500",
+            "population": 1002,
+            "superficie_km2": "29.00",
+            "latitude_centre": "45.3479996",
+            "longitude_centre": "3.9630001"
+        },
+        {
+            "id": 4249,
+            "code_insee": "43213",
+            "nom_standard": "Saint-Pal-de-Mons",
+            "slug_ville": "saint-pal-de-mons",
+            "code_postal": "43620",
+            "population": 2291,
+            "superficie_km2": "27.00",
+            "latitude_centre": "45.2420006",
+            "longitude_centre": "4.2830000"
+        },
+        {
+            "id": 4250,
+            "code_insee": "43216",
+            "nom_standard": "Saint-Paulien",
+            "slug_ville": "saint-paulien",
+            "code_postal": "43350",
+            "population": 2420,
+            "superficie_km2": "40.00",
+            "latitude_centre": "45.1349983",
+            "longitude_centre": "3.8210001"
+        },
+        {
+            "id": 4251,
+            "code_insee": "43218",
+            "nom_standard": "Saint-Pierre-Eynac",
+            "slug_ville": "saint-pierre-eynac",
+            "code_postal": "43260",
+            "population": 1213,
+            "superficie_km2": "24.00",
+            "latitude_centre": "45.0470009",
+            "longitude_centre": "4.0270000"
+        },
+        {
+            "id": 4252,
+            "code_insee": "43223",
+            "nom_standard": "Saint-Romain-Lachalm",
+            "slug_ville": "saint-romain-lachalm",
+            "code_postal": "43620",
+            "population": 1109,
+            "superficie_km2": "20.00",
+            "latitude_centre": "45.2649994",
+            "longitude_centre": "4.3400002"
+        },
+        {
+            "id": 4253,
+            "code_insee": "43224",
+            "nom_standard": "Sainte-Sigolène",
+            "slug_ville": "sainte-sigolene",
+            "code_postal": "43600",
+            "population": 6023,
+            "superficie_km2": "31.00",
+            "latitude_centre": "45.2470017",
+            "longitude_centre": "4.2280002"
+        },
+        {
+            "id": 4254,
+            "code_insee": "43230",
+            "nom_standard": "Saint-Vincent",
+            "slug_ville": "saint-vincent",
+            "code_postal": "43800",
+            "population": 1053,
+            "superficie_km2": "21.00",
+            "latitude_centre": "45.1520004",
+            "longitude_centre": "3.8980000"
+        },
+        {
+            "id": 4255,
+            "code_insee": "43233",
+            "nom_standard": "Sanssac-l'Église",
+            "slug_ville": "sanssac-l-eglise",
+            "code_postal": "43320",
+            "population": 1076,
+            "superficie_km2": "16.00",
+            "latitude_centre": "45.0460014",
+            "longitude_centre": "3.7909999"
+        },
+        {
+            "id": 4256,
+            "code_insee": "43234",
+            "nom_standard": "Saugues",
+            "slug_ville": "saugues",
+            "code_postal": "43170",
+            "population": 1681,
+            "superficie_km2": "79.00",
+            "latitude_centre": "44.9480019",
+            "longitude_centre": "3.5390000"
+        },
+        {
+            "id": 4257,
+            "code_insee": "43236",
+            "nom_standard": "La Séauve-sur-Semène",
+            "slug_ville": "la-seauve-sur-semene",
+            "code_postal": "43140",
+            "population": 1481,
+            "superficie_km2": "8.00",
+            "latitude_centre": "45.2949982",
+            "longitude_centre": "4.2500000"
+        },
+        {
+            "id": 4258,
+            "code_insee": "43241",
+            "nom_standard": "Solignac-sur-Loire",
+            "slug_ville": "solignac-sur-loire",
+            "code_postal": "43370",
+            "population": 1283,
+            "superficie_km2": "24.00",
+            "latitude_centre": "44.9580002",
+            "longitude_centre": "3.8810000"
+        },
+        {
+            "id": 4259,
+            "code_insee": "43244",
+            "nom_standard": "Tence",
+            "slug_ville": "tence",
+            "code_postal": "43190",
+            "population": 3123,
+            "superficie_km2": "52.00",
+            "latitude_centre": "45.1129990",
+            "longitude_centre": "4.3000002"
+        },
+        {
+            "id": 4260,
+            "code_insee": "43251",
+            "nom_standard": "Vals-près-le-Puy",
+            "slug_ville": "vals-pres-le-puy",
+            "code_postal": "43750",
+            "population": 3402,
+            "superficie_km2": "5.00",
+            "latitude_centre": "45.0239983",
+            "longitude_centre": "3.8659999"
+        },
+        {
+            "id": 4261,
+            "code_insee": "43258",
+            "nom_standard": "Vergongheon",
+            "slug_ville": "vergongheon",
+            "code_postal": "43360",
+            "population": 1799,
+            "superficie_km2": "12.00",
+            "latitude_centre": "45.3720017",
+            "longitude_centre": "3.3310001"
+        },
+        {
+            "id": 4262,
+            "code_insee": "43262",
+            "nom_standard": "Vieille-Brioude",
+            "slug_ville": "vieille-brioude",
+            "code_postal": "43100",
+            "population": 1219,
+            "superficie_km2": "28.00",
+            "latitude_centre": "45.2509995",
+            "longitude_centre": "3.4040000"
+        },
+        {
+            "id": 4263,
+            "code_insee": "43265",
+            "nom_standard": "Les Villettes",
+            "slug_ville": "les-villettes",
+            "code_postal": "43600",
+            "population": 1449,
+            "superficie_km2": "12.00",
+            "latitude_centre": "45.2400017",
+            "longitude_centre": "4.1789999"
+        },
+        {
+            "id": 4264,
+            "code_insee": "43267",
+            "nom_standard": "Vorey",
+            "slug_ville": "vorey",
+            "code_postal": "43800",
+            "population": 1444,
+            "superficie_km2": "39.00",
+            "latitude_centre": "45.1930008",
+            "longitude_centre": "3.9050000"
+        },
+        {
+            "id": 4265,
+            "code_insee": "43268",
+            "nom_standard": "Yssingeaux",
+            "slug_ville": "yssingeaux",
+            "code_postal": "43200",
+            "population": 7345,
+            "superficie_km2": "81.00",
+            "latitude_centre": "45.1389999",
+            "longitude_centre": "4.1310000"
+        }
+    ]
+}

@@ -1,0 +1,478 @@
+{
+    "departement": {
+        "code": "58",
+        "nom": "Nièvre",
+        "slug": "nievre"
+    },
+    "region": {
+        "id": 3,
+        "code": "02",
+        "nom": "Bourgogne-Franche-Comté",
+        "slug": "bourgogne-franche-comte"
+    },
+    "voisins": [
+        {
+            "dep_code": "21",
+            "dep_nom": "Côte-d'Or",
+            "dep_slug": "cote-d-or"
+        },
+        {
+            "dep_code": "25",
+            "dep_nom": "Doubs",
+            "dep_slug": "doubs"
+        },
+        {
+            "dep_code": "39",
+            "dep_nom": "Jura",
+            "dep_slug": "jura"
+        },
+        {
+            "dep_code": "70",
+            "dep_nom": "Haute-Saône",
+            "dep_slug": "haute-saone"
+        }
+    ],
+    "villes_count": 40,
+    "villes": [
+        {
+            "id": 5609,
+            "code_insee": "58046",
+            "nom_standard": "Cercy-la-Tour",
+            "slug_ville": "cercy-la-tour",
+            "code_postal": "58340",
+            "population": 1685,
+            "superficie_km2": "45.00",
+            "latitude_centre": "46.8489990",
+            "longitude_centre": "3.6459999"
+        },
+        {
+            "id": 5610,
+            "code_insee": "58051",
+            "nom_standard": "Challuy",
+            "slug_ville": "challuy",
+            "code_postal": "58000",
+            "population": 1517,
+            "superficie_km2": "19.00",
+            "latitude_centre": "46.9430008",
+            "longitude_centre": "3.1410000"
+        },
+        {
+            "id": 5611,
+            "code_insee": "58057",
+            "nom_standard": "Chantenay-Saint-Imbert",
+            "slug_ville": "chantenay-saint-imbert",
+            "code_postal": "58240",
+            "population": 1106,
+            "superficie_km2": "42.00",
+            "latitude_centre": "46.7389984",
+            "longitude_centre": "3.1719999"
+        },
+        {
+            "id": 5612,
+            "code_insee": "58059",
+            "nom_standard": "La Charité-sur-Loire",
+            "slug_ville": "la-charite-sur-loire",
+            "code_postal": "58400",
+            "population": 4672,
+            "superficie_km2": "16.00",
+            "latitude_centre": "47.1839981",
+            "longitude_centre": "3.0290000"
+        },
+        {
+            "id": 5613,
+            "code_insee": "58062",
+            "nom_standard": "Château-Chinon (Ville)",
+            "slug_ville": "chateau-chinon-ville",
+            "code_postal": "58120",
+            "population": 1931,
+            "superficie_km2": "4.00",
+            "latitude_centre": "47.0629997",
+            "longitude_centre": "3.9270000"
+        },
+        {
+            "id": 5614,
+            "code_insee": "58067",
+            "nom_standard": "Chaulgnes",
+            "slug_ville": "chaulgnes",
+            "code_postal": "58400",
+            "population": 1506,
+            "superficie_km2": "25.00",
+            "latitude_centre": "47.1290016",
+            "longitude_centre": "3.1070001"
+        },
+        {
+            "id": 5615,
+            "code_insee": "58079",
+            "nom_standard": "Clamecy",
+            "slug_ville": "clamecy",
+            "code_postal": "58500",
+            "population": 3593,
+            "superficie_km2": "31.00",
+            "latitude_centre": "47.4609985",
+            "longitude_centre": "3.5100000"
+        },
+        {
+            "id": 5616,
+            "code_insee": "58083",
+            "nom_standard": "Corbigny",
+            "slug_ville": "corbigny",
+            "code_postal": "58800",
+            "population": 1363,
+            "superficie_km2": "20.00",
+            "latitude_centre": "47.2570000",
+            "longitude_centre": "3.6900001"
+        },
+        {
+            "id": 5617,
+            "code_insee": "58086",
+            "nom_standard": "Cosne-Cours-sur-Loire",
+            "slug_ville": "cosne-cours-sur-loire",
+            "code_postal": "58200",
+            "population": 9437,
+            "superficie_km2": "54.00",
+            "latitude_centre": "47.4029999",
+            "longitude_centre": "2.9430001"
+        },
+        {
+            "id": 5618,
+            "code_insee": "58088",
+            "nom_standard": "Coulanges-lès-Nevers",
+            "slug_ville": "coulanges-les-nevers",
+            "code_postal": "58660",
+            "population": 3693,
+            "superficie_km2": "11.00",
+            "latitude_centre": "47.0139999",
+            "longitude_centre": "3.1970000"
+        },
+        {
+            "id": 5619,
+            "code_insee": "58095",
+            "nom_standard": "Decize",
+            "slug_ville": "decize",
+            "code_postal": "58300",
+            "population": 5152,
+            "superficie_km2": "48.00",
+            "latitude_centre": "46.8089981",
+            "longitude_centre": "3.4660001"
+        },
+        {
+            "id": 5620,
+            "code_insee": "58102",
+            "nom_standard": "Donzy",
+            "slug_ville": "donzy",
+            "code_postal": "58220",
+            "population": 1558,
+            "superficie_km2": "63.00",
+            "latitude_centre": "47.3800011",
+            "longitude_centre": "3.1140001"
+        },
+        {
+            "id": 5621,
+            "code_insee": "58104",
+            "nom_standard": "Dornes",
+            "slug_ville": "dornes",
+            "code_postal": "58390",
+            "population": 1480,
+            "superficie_km2": "40.00",
+            "latitude_centre": "46.7190018",
+            "longitude_centre": "3.3380001"
+        },
+        {
+            "id": 5622,
+            "code_insee": "58117",
+            "nom_standard": "Fourchambault",
+            "slug_ville": "fourchambault",
+            "code_postal": "58600",
+            "population": 4037,
+            "superficie_km2": "4.00",
+            "latitude_centre": "47.0169983",
+            "longitude_centre": "3.0910001"
+        },
+        {
+            "id": 5623,
+            "code_insee": "58121",
+            "nom_standard": "Garchizy",
+            "slug_ville": "garchizy",
+            "code_postal": "58600",
+            "population": 3685,
+            "superficie_km2": "16.00",
+            "latitude_centre": "47.0429993",
+            "longitude_centre": "3.0940001"
+        },
+        {
+            "id": 5624,
+            "code_insee": "58131",
+            "nom_standard": "Guérigny",
+            "slug_ville": "guerigny",
+            "code_postal": "58130",
+            "population": 2519,
+            "superficie_km2": "7.00",
+            "latitude_centre": "47.0929985",
+            "longitude_centre": "3.2130001"
+        },
+        {
+            "id": 5625,
+            "code_insee": "58134",
+            "nom_standard": "Imphy",
+            "slug_ville": "imphy",
+            "code_postal": "58160",
+            "population": 3183,
+            "superficie_km2": "17.00",
+            "latitude_centre": "46.9350014",
+            "longitude_centre": "3.2809999"
+        },
+        {
+            "id": 5626,
+            "code_insee": "58145",
+            "nom_standard": "Lormes",
+            "slug_ville": "lormes",
+            "code_postal": "58140",
+            "population": 1264,
+            "superficie_km2": "52.00",
+            "latitude_centre": "47.2900009",
+            "longitude_centre": "3.8250000"
+        },
+        {
+            "id": 5627,
+            "code_insee": "58149",
+            "nom_standard": "Luzy",
+            "slug_ville": "luzy",
+            "code_postal": "58170",
+            "population": 1988,
+            "superficie_km2": "42.00",
+            "latitude_centre": "46.7970009",
+            "longitude_centre": "3.9990001"
+        },
+        {
+            "id": 5628,
+            "code_insee": "58151",
+            "nom_standard": "La Machine",
+            "slug_ville": "la-machine",
+            "code_postal": "58260",
+            "population": 3220,
+            "superficie_km2": "18.00",
+            "latitude_centre": "46.8919983",
+            "longitude_centre": "3.4619999"
+        },
+        {
+            "id": 5629,
+            "code_insee": "58152",
+            "nom_standard": "Magny-Cours",
+            "slug_ville": "magny-cours",
+            "code_postal": "58470",
+            "population": 1401,
+            "superficie_km2": "32.00",
+            "latitude_centre": "46.8899994",
+            "longitude_centre": "3.1540000"
+        },
+        {
+            "id": 5630,
+            "code_insee": "58160",
+            "nom_standard": "Marzy",
+            "slug_ville": "marzy",
+            "code_postal": "58180",
+            "population": 3675,
+            "superficie_km2": "22.00",
+            "latitude_centre": "46.9840012",
+            "longitude_centre": "3.0929999"
+        },
+        {
+            "id": 5631,
+            "code_insee": "58182",
+            "nom_standard": "Moulins-Engilbert",
+            "slug_ville": "moulins-engilbert",
+            "code_postal": "58290",
+            "population": 1384,
+            "superficie_km2": "41.00",
+            "latitude_centre": "46.9729996",
+            "longitude_centre": "3.8120000"
+        },
+        {
+            "id": 5632,
+            "code_insee": "58193",
+            "nom_standard": "Neuvy-sur-Loire",
+            "slug_ville": "neuvy-sur-loire",
+            "code_postal": "58450",
+            "population": 1410,
+            "superficie_km2": "21.00",
+            "latitude_centre": "47.5320015",
+            "longitude_centre": "2.8900001"
+        },
+        {
+            "id": 5633,
+            "code_insee": "58194",
+            "nom_standard": "Nevers",
+            "slug_ville": "nevers",
+            "code_postal": "58000",
+            "population": 32830,
+            "superficie_km2": "17.00",
+            "latitude_centre": "46.9879990",
+            "longitude_centre": "3.1570001"
+        },
+        {
+            "id": 5634,
+            "code_insee": "58214",
+            "nom_standard": "Pougues-les-Eaux",
+            "slug_ville": "pougues-les-eaux",
+            "code_postal": "58320",
+            "population": 2374,
+            "superficie_km2": "13.00",
+            "latitude_centre": "47.0760002",
+            "longitude_centre": "3.0969999"
+        },
+        {
+            "id": 5635,
+            "code_insee": "58215",
+            "nom_standard": "Pouilly-sur-Loire",
+            "slug_ville": "pouilly-sur-loire",
+            "code_postal": "58150",
+            "population": 1607,
+            "superficie_km2": "20.00",
+            "latitude_centre": "47.2799988",
+            "longitude_centre": "2.9820001"
+        },
+        {
+            "id": 5636,
+            "code_insee": "58218",
+            "nom_standard": "Prémery",
+            "slug_ville": "premery",
+            "code_postal": "58700",
+            "population": 1830,
+            "superficie_km2": "46.00",
+            "latitude_centre": "47.1730003",
+            "longitude_centre": "3.3199999"
+        },
+        {
+            "id": 5637,
+            "code_insee": "58227",
+            "nom_standard": "Saint-Amand-en-Puisaye",
+            "slug_ville": "saint-amand-en-puisaye",
+            "code_postal": "58310",
+            "population": 1218,
+            "superficie_km2": "42.00",
+            "latitude_centre": "47.5480003",
+            "longitude_centre": "3.0780001"
+        },
+        {
+            "id": 5638,
+            "code_insee": "58232",
+            "nom_standard": "Saint-Benin-d'Azy",
+            "slug_ville": "saint-benin-d-azy",
+            "code_postal": "58270",
+            "population": 1259,
+            "superficie_km2": "36.00",
+            "latitude_centre": "46.9959984",
+            "longitude_centre": "3.4050000"
+        },
+        {
+            "id": 5639,
+            "code_insee": "58238",
+            "nom_standard": "Saint-Éloi",
+            "slug_ville": "saint-eloi",
+            "code_postal": "58000",
+            "population": 2218,
+            "superficie_km2": "16.00",
+            "latitude_centre": "46.9900017",
+            "longitude_centre": "3.2219999"
+        },
+        {
+            "id": 5640,
+            "code_insee": "58250",
+            "nom_standard": "Saint-Léger-des-Vignes",
+            "slug_ville": "saint-leger-des-vignes",
+            "code_postal": "58300",
+            "population": 1734,
+            "superficie_km2": "9.00",
+            "latitude_centre": "46.8489990",
+            "longitude_centre": "3.4530001"
+        },
+        {
+            "id": 5641,
+            "code_insee": "58260",
+            "nom_standard": "Saint-Parize-le-Châtel",
+            "slug_ville": "saint-parize-le-chatel",
+            "code_postal": "58490",
+            "population": 1225,
+            "superficie_km2": "50.00",
+            "latitude_centre": "46.8510017",
+            "longitude_centre": "3.1840000"
+        },
+        {
+            "id": 5642,
+            "code_insee": "58261",
+            "nom_standard": "Saint-Père",
+            "slug_ville": "saint-pere",
+            "code_postal": "58200",
+            "population": 1046,
+            "superficie_km2": "17.00",
+            "latitude_centre": "47.4039993",
+            "longitude_centre": "2.9770000"
+        },
+        {
+            "id": 5643,
+            "code_insee": "58264",
+            "nom_standard": "Saint-Pierre-le-Moûtier",
+            "slug_ville": "saint-pierre-le-moutier",
+            "code_postal": "58240",
+            "population": 1832,
+            "superficie_km2": "48.00",
+            "latitude_centre": "46.7919998",
+            "longitude_centre": "3.1400001"
+        },
+        {
+            "id": 5644,
+            "code_insee": "58273",
+            "nom_standard": "Sauvigny-les-Bois",
+            "slug_ville": "sauvigny-les-bois",
+            "code_postal": "58160",
+            "population": 1420,
+            "superficie_km2": "30.00",
+            "latitude_centre": "46.9770012",
+            "longitude_centre": "3.2660000"
+        },
+        {
+            "id": 5645,
+            "code_insee": "58278",
+            "nom_standard": "Sermoise-sur-Loire",
+            "slug_ville": "sermoise-sur-loire",
+            "code_postal": "58000",
+            "population": 1494,
+            "superficie_km2": "25.00",
+            "latitude_centre": "46.9469986",
+            "longitude_centre": "3.1830001"
+        },
+        {
+            "id": 5646,
+            "code_insee": "58300",
+            "nom_standard": "Urzy",
+            "slug_ville": "urzy",
+            "code_postal": "58130",
+            "population": 1742,
+            "superficie_km2": "24.00",
+            "latitude_centre": "47.0589981",
+            "longitude_centre": "3.2010000"
+        },
+        {
+            "id": 5647,
+            "code_insee": "58303",
+            "nom_standard": "Varennes-Vauzelles",
+            "slug_ville": "varennes-vauzelles",
+            "code_postal": "58640",
+            "population": 9180,
+            "superficie_km2": "34.00",
+            "latitude_centre": "47.0369988",
+            "longitude_centre": "3.1440001"
+        },
+        {
+            "id": 5648,
+            "code_insee": "58304",
+            "nom_standard": "Varzy",
+            "slug_ville": "varzy",
+            "code_postal": "58210",
+            "population": 1057,
+            "superficie_km2": "41.00",
+            "latitude_centre": "47.3569984",
+            "longitude_centre": "3.3870001"
+        }
+    ]
+}

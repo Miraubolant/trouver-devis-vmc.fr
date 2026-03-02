@@ -1,0 +1,324 @@
+{
+    "departement": {
+        "code": "09",
+        "nom": "Ariège",
+        "slug": "ariege"
+    },
+    "region": {
+        "id": 17,
+        "code": "16",
+        "nom": "Occitanie",
+        "slug": "occitanie"
+    },
+    "voisins": [
+        {
+            "dep_code": "11",
+            "dep_nom": "Aude",
+            "dep_slug": "aude"
+        },
+        {
+            "dep_code": "12",
+            "dep_nom": "Aveyron",
+            "dep_slug": "aveyron"
+        },
+        {
+            "dep_code": "30",
+            "dep_nom": "Gard",
+            "dep_slug": "gard"
+        },
+        {
+            "dep_code": "31",
+            "dep_nom": "Haute-Garonne",
+            "dep_slug": "haute-garonne"
+        }
+    ],
+    "villes_count": 26,
+    "villes": [
+        {
+            "id": 625,
+            "code_insee": "09032",
+            "nom_standard": "Ax-les-Thermes",
+            "slug_ville": "ax-les-thermes",
+            "code_postal": "09110",
+            "population": 1283,
+            "superficie_km2": "30.00",
+            "latitude_centre": "42.6870003",
+            "longitude_centre": "1.8180000"
+        },
+        {
+            "id": 626,
+            "code_insee": "09047",
+            "nom_standard": "Bélesta",
+            "slug_ville": "belesta",
+            "code_postal": "09300",
+            "population": 1078,
+            "superficie_km2": "27.00",
+            "latitude_centre": "42.8940010",
+            "longitude_centre": "1.9529999"
+        },
+        {
+            "id": 627,
+            "code_insee": "09122",
+            "nom_standard": "Foix",
+            "slug_ville": "foix",
+            "code_postal": "09000",
+            "population": 9472,
+            "superficie_km2": "20.00",
+            "latitude_centre": "42.9659996",
+            "longitude_centre": "1.6100000"
+        },
+        {
+            "id": 628,
+            "code_insee": "09124",
+            "nom_standard": "Le Fossat",
+            "slug_ville": "le-fossat",
+            "code_postal": "09130",
+            "population": 1051,
+            "superficie_km2": "15.00",
+            "latitude_centre": "43.1800003",
+            "longitude_centre": "1.4150000"
+        },
+        {
+            "id": 629,
+            "code_insee": "09157",
+            "nom_standard": "Laroque-d'Olmes",
+            "slug_ville": "laroque-d-olmes",
+            "code_postal": "09600",
+            "population": 2371,
+            "superficie_km2": "14.00",
+            "latitude_centre": "42.9679985",
+            "longitude_centre": "1.8720000"
+        },
+        {
+            "id": 630,
+            "code_insee": "09160",
+            "nom_standard": "Lavelanet",
+            "slug_ville": "lavelanet",
+            "code_postal": "09300",
+            "population": 6035,
+            "superficie_km2": "13.00",
+            "latitude_centre": "42.9339981",
+            "longitude_centre": "1.8460000"
+        },
+        {
+            "id": 631,
+            "code_insee": "09167",
+            "nom_standard": "Lézat-sur-Lèze",
+            "slug_ville": "lezat-sur-leze",
+            "code_postal": "09210",
+            "population": 2349,
+            "superficie_km2": "40.00",
+            "latitude_centre": "43.2799988",
+            "longitude_centre": "1.3450000"
+        },
+        {
+            "id": 632,
+            "code_insee": "09181",
+            "nom_standard": "Le Mas-d'Azil",
+            "slug_ville": "le-mas-d-azil",
+            "code_postal": "09290",
+            "population": 1208,
+            "superficie_km2": "40.00",
+            "latitude_centre": "43.0690002",
+            "longitude_centre": "1.3490000"
+        },
+        {
+            "id": 633,
+            "code_insee": "09185",
+            "nom_standard": "Mazères",
+            "slug_ville": "mazeres",
+            "code_postal": "09270",
+            "population": 3868,
+            "superficie_km2": "44.00",
+            "latitude_centre": "43.2299995",
+            "longitude_centre": "1.6790000"
+        },
+        {
+            "id": 634,
+            "code_insee": "09188",
+            "nom_standard": "Mercus-Garrabet",
+            "slug_ville": "mercus-garrabet",
+            "code_postal": "09400",
+            "population": 1215,
+            "superficie_km2": "15.00",
+            "latitude_centre": "42.8800011",
+            "longitude_centre": "1.6440001"
+        },
+        {
+            "id": 635,
+            "code_insee": "09194",
+            "nom_standard": "Mirepoix",
+            "slug_ville": "mirepoix",
+            "code_postal": "09500",
+            "population": 3120,
+            "superficie_km2": "48.00",
+            "latitude_centre": "43.1090012",
+            "longitude_centre": "1.8690000"
+        },
+        {
+            "id": 636,
+            "code_insee": "09207",
+            "nom_standard": "Montgailhard",
+            "slug_ville": "montgailhard",
+            "code_postal": "09330",
+            "population": 1472,
+            "superficie_km2": "8.00",
+            "latitude_centre": "42.9379997",
+            "longitude_centre": "1.6440001"
+        },
+        {
+            "id": 637,
+            "code_insee": "09209",
+            "nom_standard": "Montjoie-en-Couserans",
+            "slug_ville": "montjoie-en-couserans",
+            "code_postal": "09200",
+            "population": 1002,
+            "superficie_km2": "30.00",
+            "latitude_centre": "43.0149994",
+            "longitude_centre": "1.1760000"
+        },
+        {
+            "id": 638,
+            "code_insee": "09225",
+            "nom_standard": "Pamiers",
+            "slug_ville": "pamiers",
+            "code_postal": "09100",
+            "population": 16394,
+            "superficie_km2": "46.00",
+            "latitude_centre": "43.1240006",
+            "longitude_centre": "1.6150000"
+        },
+        {
+            "id": 639,
+            "code_insee": "09245",
+            "nom_standard": "Rieux-de-Pelleport",
+            "slug_ville": "rieux-de-pelleport",
+            "code_postal": "09120",
+            "population": 1268,
+            "superficie_km2": "8.00",
+            "latitude_centre": "43.0579987",
+            "longitude_centre": "1.5990000"
+        },
+        {
+            "id": 640,
+            "code_insee": "09261",
+            "nom_standard": "Saint-Girons",
+            "slug_ville": "saint-girons",
+            "code_postal": "09200",
+            "population": 6250,
+            "superficie_km2": "19.00",
+            "latitude_centre": "42.9749985",
+            "longitude_centre": "1.1530000"
+        },
+        {
+            "id": 641,
+            "code_insee": "09264",
+            "nom_standard": "Saint-Jean-de-Verges",
+            "slug_ville": "saint-jean-de-verges",
+            "code_postal": "09000",
+            "population": 1291,
+            "superficie_km2": "13.00",
+            "latitude_centre": "43.0130005",
+            "longitude_centre": "1.6330000"
+        },
+        {
+            "id": 642,
+            "code_insee": "09265",
+            "nom_standard": "Saint-Jean-du-Falga",
+            "slug_ville": "saint-jean-du-falga",
+            "code_postal": "09100",
+            "population": 2860,
+            "superficie_km2": "4.00",
+            "latitude_centre": "43.0859985",
+            "longitude_centre": "1.6240000"
+        },
+        {
+            "id": 643,
+            "code_insee": "09268",
+            "nom_standard": "Saint-Lizier",
+            "slug_ville": "saint-lizier",
+            "code_postal": "09190",
+            "population": 1377,
+            "superficie_km2": "9.00",
+            "latitude_centre": "43.0000000",
+            "longitude_centre": "1.1289999"
+        },
+        {
+            "id": 644,
+            "code_insee": "09272",
+            "nom_standard": "Saint-Paul-de-Jarrat",
+            "slug_ville": "saint-paul-de-jarrat",
+            "code_postal": "09000",
+            "population": 1346,
+            "superficie_km2": "23.00",
+            "latitude_centre": "42.8959999",
+            "longitude_centre": "1.6720001"
+        },
+        {
+            "id": 645,
+            "code_insee": "09282",
+            "nom_standard": "Saverdun",
+            "slug_ville": "saverdun",
+            "code_postal": "09700",
+            "population": 4815,
+            "superficie_km2": "62.00",
+            "latitude_centre": "43.2270012",
+            "longitude_centre": "1.5740000"
+        },
+        {
+            "id": 646,
+            "code_insee": "09289",
+            "nom_standard": "Lorp-Sentaraille",
+            "slug_ville": "lorp-sentaraille",
+            "code_postal": "09190",
+            "population": 1427,
+            "superficie_km2": "6.00",
+            "latitude_centre": "43.0159988",
+            "longitude_centre": "1.1080000"
+        },
+        {
+            "id": 647,
+            "code_insee": "09306",
+            "nom_standard": "Tarascon-sur-Ariège",
+            "slug_ville": "tarascon-sur-ariege",
+            "code_postal": "09400",
+            "population": 3034,
+            "superficie_km2": "9.00",
+            "latitude_centre": "42.8460007",
+            "longitude_centre": "1.5960000"
+        },
+        {
+            "id": 648,
+            "code_insee": "09312",
+            "nom_standard": "La Tour-du-Crieu",
+            "slug_ville": "la-tour-du-crieu",
+            "code_postal": "09100",
+            "population": 3246,
+            "superficie_km2": "10.00",
+            "latitude_centre": "43.1049995",
+            "longitude_centre": "1.6670001"
+        },
+        {
+            "id": 649,
+            "code_insee": "09324",
+            "nom_standard": "Varilhes",
+            "slug_ville": "varilhes",
+            "code_postal": "09120",
+            "population": 3495,
+            "superficie_km2": "12.00",
+            "latitude_centre": "43.0550003",
+            "longitude_centre": "1.6339999"
+        },
+        {
+            "id": 650,
+            "code_insee": "09332",
+            "nom_standard": "Verniolle",
+            "slug_ville": "verniolle",
+            "code_postal": "09340",
+            "population": 2338,
+            "superficie_km2": "11.00",
+            "latitude_centre": "43.0810013",
+            "longitude_centre": "1.6610000"
+        }
+    ]
+}

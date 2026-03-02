@@ -1,0 +1,368 @@
+{
+    "departement": {
+        "code": "90",
+        "nom": "Territoire de Belfort",
+        "slug": "territoire-de-belfort"
+    },
+    "region": {
+        "id": 3,
+        "code": "02",
+        "nom": "Bourgogne-Franche-Comté",
+        "slug": "bourgogne-franche-comte"
+    },
+    "voisins": [
+        {
+            "dep_code": "21",
+            "dep_nom": "Côte-d'Or",
+            "dep_slug": "cote-d-or"
+        },
+        {
+            "dep_code": "25",
+            "dep_nom": "Doubs",
+            "dep_slug": "doubs"
+        },
+        {
+            "dep_code": "39",
+            "dep_nom": "Jura",
+            "dep_slug": "jura"
+        },
+        {
+            "dep_code": "58",
+            "dep_nom": "Nièvre",
+            "dep_slug": "nievre"
+        }
+    ],
+    "villes_count": 30,
+    "villes": [
+        {
+            "id": 9465,
+            "code_insee": "90001",
+            "nom_standard": "Andelnans",
+            "slug_ville": "andelnans",
+            "code_postal": "90400",
+            "population": 1153,
+            "superficie_km2": "4.00",
+            "latitude_centre": "47.6030006",
+            "longitude_centre": "6.8660002"
+        },
+        {
+            "id": 9466,
+            "code_insee": "90008",
+            "nom_standard": "Bavilliers",
+            "slug_ville": "bavilliers",
+            "code_postal": "90800",
+            "population": 4595,
+            "superficie_km2": "5.00",
+            "latitude_centre": "47.6199989",
+            "longitude_centre": "6.8309999"
+        },
+        {
+            "id": 9467,
+            "code_insee": "90009",
+            "nom_standard": "Beaucourt",
+            "slug_ville": "beaucourt",
+            "code_postal": "90500",
+            "population": 5005,
+            "superficie_km2": "5.00",
+            "latitude_centre": "47.4869995",
+            "longitude_centre": "6.9250002"
+        },
+        {
+            "id": 9468,
+            "code_insee": "90010",
+            "nom_standard": "Belfort",
+            "slug_ville": "belfort",
+            "code_postal": "90000",
+            "population": 45155,
+            "superficie_km2": "17.00",
+            "latitude_centre": "47.6469994",
+            "longitude_centre": "6.8449998"
+        },
+        {
+            "id": 9469,
+            "code_insee": "90012",
+            "nom_standard": "Bessoncourt",
+            "slug_ville": "bessoncourt",
+            "code_postal": "90160",
+            "population": 1297,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.6450005",
+            "longitude_centre": "6.9429998"
+        },
+        {
+            "id": 9470,
+            "code_insee": "90017",
+            "nom_standard": "Bourogne",
+            "slug_ville": "bourogne",
+            "code_postal": "90140",
+            "population": 1792,
+            "superficie_km2": "14.00",
+            "latitude_centre": "47.5639992",
+            "longitude_centre": "6.9060001"
+        },
+        {
+            "id": 9471,
+            "code_insee": "90022",
+            "nom_standard": "Châtenois-les-Forges",
+            "slug_ville": "chatenois-les-forges",
+            "code_postal": "90700",
+            "population": 2616,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.5589981",
+            "longitude_centre": "6.8340001"
+        },
+        {
+            "id": 9472,
+            "code_insee": "90023",
+            "nom_standard": "Chaux",
+            "slug_ville": "chaux",
+            "code_postal": "90330",
+            "population": 1179,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.7120018",
+            "longitude_centre": "6.8379998"
+        },
+        {
+            "id": 9473,
+            "code_insee": "90026",
+            "nom_standard": "Chèvremont",
+            "slug_ville": "chevremont",
+            "code_postal": "90340",
+            "population": 1569,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.6279984",
+            "longitude_centre": "6.9299998"
+        },
+        {
+            "id": 9474,
+            "code_insee": "90029",
+            "nom_standard": "Cravanche",
+            "slug_ville": "cravanche",
+            "code_postal": "90300",
+            "population": 1928,
+            "superficie_km2": "1.00",
+            "latitude_centre": "47.6520004",
+            "longitude_centre": "6.8239999"
+        },
+        {
+            "id": 9475,
+            "code_insee": "90032",
+            "nom_standard": "Danjoutin",
+            "slug_ville": "danjoutin",
+            "code_postal": "90400",
+            "population": 3541,
+            "superficie_km2": "6.00",
+            "latitude_centre": "47.6180000",
+            "longitude_centre": "6.8660002"
+        },
+        {
+            "id": 9476,
+            "code_insee": "90033",
+            "nom_standard": "Delle",
+            "slug_ville": "delle",
+            "code_postal": "90100",
+            "population": 5680,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.5089989",
+            "longitude_centre": "6.9959998"
+        },
+        {
+            "id": 9477,
+            "code_insee": "90039",
+            "nom_standard": "Essert",
+            "slug_ville": "essert",
+            "code_postal": "90850",
+            "population": 3348,
+            "superficie_km2": "7.00",
+            "latitude_centre": "47.6370010",
+            "longitude_centre": "6.8119998"
+        },
+        {
+            "id": 9478,
+            "code_insee": "90041",
+            "nom_standard": "Étueffont",
+            "slug_ville": "etueffont",
+            "code_postal": "90170",
+            "population": 1394,
+            "superficie_km2": "13.00",
+            "latitude_centre": "47.7260017",
+            "longitude_centre": "6.9150000"
+        },
+        {
+            "id": 9479,
+            "code_insee": "90042",
+            "nom_standard": "Évette-Salbert",
+            "slug_ville": "evette-salbert",
+            "code_postal": "90350",
+            "population": 2026,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.6730003",
+            "longitude_centre": "6.7960000"
+        },
+        {
+            "id": 9480,
+            "code_insee": "90052",
+            "nom_standard": "Giromagny",
+            "slug_ville": "giromagny",
+            "code_postal": "90200",
+            "population": 2908,
+            "superficie_km2": "6.00",
+            "latitude_centre": "47.7410011",
+            "longitude_centre": "6.8230000"
+        },
+        {
+            "id": 9481,
+            "code_insee": "90053",
+            "nom_standard": "Grandvillars",
+            "slug_ville": "grandvillars",
+            "code_postal": "90600",
+            "population": 2978,
+            "superficie_km2": "15.00",
+            "latitude_centre": "47.5379982",
+            "longitude_centre": "6.9699998"
+        },
+        {
+            "id": 9482,
+            "code_insee": "90056",
+            "nom_standard": "Joncherey",
+            "slug_ville": "joncherey",
+            "code_postal": "90100",
+            "population": 1427,
+            "superficie_km2": "5.00",
+            "latitude_centre": "47.5330010",
+            "longitude_centre": "7.0110002"
+        },
+        {
+            "id": 9483,
+            "code_insee": "90065",
+            "nom_standard": "Lepuix",
+            "slug_ville": "lepuix",
+            "code_postal": "90200",
+            "population": 1127,
+            "superficie_km2": "28.00",
+            "latitude_centre": "47.7809982",
+            "longitude_centre": "6.8220000"
+        },
+        {
+            "id": 9484,
+            "code_insee": "90068",
+            "nom_standard": "Meroux-Moval",
+            "slug_ville": "meroux-moval",
+            "code_postal": "90400",
+            "population": 1405,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.5919991",
+            "longitude_centre": "6.9099998"
+        },
+        {
+            "id": 9485,
+            "code_insee": "90069",
+            "nom_standard": "Méziré",
+            "slug_ville": "mezire",
+            "code_postal": "90120",
+            "population": 1281,
+            "superficie_km2": "4.00",
+            "latitude_centre": "47.5309982",
+            "longitude_centre": "6.9229999"
+        },
+        {
+            "id": 9486,
+            "code_insee": "90071",
+            "nom_standard": "Montreux-Château",
+            "slug_ville": "montreux-chateau",
+            "code_postal": "90130",
+            "population": 1174,
+            "superficie_km2": "5.00",
+            "latitude_centre": "47.6080017",
+            "longitude_centre": "6.9940000"
+        },
+        {
+            "id": 9487,
+            "code_insee": "90072",
+            "nom_standard": "Morvillars",
+            "slug_ville": "morvillars",
+            "code_postal": "90120",
+            "population": 1083,
+            "superficie_km2": "6.00",
+            "latitude_centre": "47.5429993",
+            "longitude_centre": "6.9380002"
+        },
+        {
+            "id": 9488,
+            "code_insee": "90075",
+            "nom_standard": "Offemont",
+            "slug_ville": "offemont",
+            "code_postal": "90300",
+            "population": 4109,
+            "superficie_km2": "6.00",
+            "latitude_centre": "47.6629982",
+            "longitude_centre": "6.8750000"
+        },
+        {
+            "id": 9489,
+            "code_insee": "90076",
+            "nom_standard": "Pérouse",
+            "slug_ville": "perouse",
+            "code_postal": "90160",
+            "population": 1199,
+            "superficie_km2": "5.00",
+            "latitude_centre": "47.6360016",
+            "longitude_centre": "6.8940001"
+        },
+        {
+            "id": 9490,
+            "code_insee": "90087",
+            "nom_standard": "Roppe",
+            "slug_ville": "roppe",
+            "code_postal": "90380",
+            "population": 1043,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.6790009",
+            "longitude_centre": "6.9099998"
+        },
+        {
+            "id": 9491,
+            "code_insee": "90089",
+            "nom_standard": "Rougemont-le-Château",
+            "slug_ville": "rougemont-le-chateau",
+            "code_postal": "90110",
+            "population": 1486,
+            "superficie_km2": "17.00",
+            "latitude_centre": "47.7459984",
+            "longitude_centre": "6.9520001"
+        },
+        {
+            "id": 9492,
+            "code_insee": "90097",
+            "nom_standard": "Trévenans",
+            "slug_ville": "trevenans",
+            "code_postal": "90400",
+            "population": 1286,
+            "superficie_km2": "6.00",
+            "latitude_centre": "47.5670013",
+            "longitude_centre": "6.8690000"
+        },
+        {
+            "id": 9493,
+            "code_insee": "90099",
+            "nom_standard": "Valdoie",
+            "slug_ville": "valdoie",
+            "code_postal": "90300",
+            "population": 5236,
+            "superficie_km2": "5.00",
+            "latitude_centre": "47.6710014",
+            "longitude_centre": "6.8490000"
+        },
+        {
+            "id": 9494,
+            "code_insee": "90104",
+            "nom_standard": "Vézelois",
+            "slug_ville": "vezelois",
+            "code_postal": "90400",
+            "population": 1003,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.6090012",
+            "longitude_centre": "6.9190001"
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "departement": {
+        "code": "32",
+        "nom": "Gers",
+        "slug": "gers"
+    },
+    "region": {
+        "id": 17,
+        "code": "16",
+        "nom": "Occitanie",
+        "slug": "occitanie"
+    },
+    "voisins": [
+        {
+            "dep_code": "09",
+            "dep_nom": "Ariège",
+            "dep_slug": "ariege"
+        },
+        {
+            "dep_code": "11",
+            "dep_nom": "Aude",
+            "dep_slug": "aude"
+        },
+        {
+            "dep_code": "12",
+            "dep_nom": "Aveyron",
+            "dep_slug": "aveyron"
+        },
+        {
+            "dep_code": "30",
+            "dep_nom": "Gard",
+            "dep_slug": "gard"
+        }
+    ],
+    "villes_count": 34,
+    "villes": [
+        {
+            "id": 2761,
+            "code_insee": "32012",
+            "nom_standard": "Aubiet",
+            "slug_ville": "aubiet",
+            "code_postal": "32270",
+            "population": 1123,
+            "superficie_km2": "39.00",
+            "latitude_centre": "43.6539993",
+            "longitude_centre": "0.7850000"
+        },
+        {
+            "id": 2762,
+            "code_insee": "32013",
+            "nom_standard": "Auch",
+            "slug_ville": "auch",
+            "code_postal": "32000",
+            "population": 23041,
+            "superficie_km2": "73.00",
+            "latitude_centre": "43.6529999",
+            "longitude_centre": "0.5750000"
+        },
+        {
+            "id": 2763,
+            "code_insee": "32027",
+            "nom_standard": "Barcelonne-du-Gers",
+            "slug_ville": "barcelonne-du-gers",
+            "code_postal": "32720",
+            "population": 1358,
+            "superficie_km2": "21.00",
+            "latitude_centre": "43.6930008",
+            "longitude_centre": "-0.2130000"
+        },
+        {
+            "id": 2764,
+            "code_insee": "32079",
+            "nom_standard": "Castelnau d'Auzan Labarrère",
+            "slug_ville": "castelnau-d-auzan-labarrere",
+            "code_postal": "32440",
+            "population": 1186,
+            "superficie_km2": "44.00",
+            "latitude_centre": "43.9440002",
+            "longitude_centre": "0.1020000"
+        },
+        {
+            "id": 2765,
+            "code_insee": "32083",
+            "nom_standard": "Castéra-Verduzan",
+            "slug_ville": "castera-verduzan",
+            "code_postal": "32410",
+            "population": 1039,
+            "superficie_km2": "20.00",
+            "latitude_centre": "43.8019981",
+            "longitude_centre": "0.4330000"
+        },
+        {
+            "id": 2766,
+            "code_insee": "32096",
+            "nom_standard": "Cazaubon",
+            "slug_ville": "cazaubon",
+            "code_postal": "32150",
+            "population": 1662,
+            "superficie_km2": "56.00",
+            "latitude_centre": "43.9249992",
+            "longitude_centre": "-0.0290000"
+        },
+        {
+            "id": 2767,
+            "code_insee": "32107",
+            "nom_standard": "Condom",
+            "slug_ville": "condom",
+            "code_postal": "32100",
+            "population": 6466,
+            "superficie_km2": "98.00",
+            "latitude_centre": "43.9720001",
+            "longitude_centre": "0.3740000"
+        },
+        {
+            "id": 2768,
+            "code_insee": "32119",
+            "nom_standard": "Eauze",
+            "slug_ville": "eauze",
+            "code_postal": "32800",
+            "population": 4014,
+            "superficie_km2": "70.00",
+            "latitude_centre": "43.8610001",
+            "longitude_centre": "0.1060000"
+        },
+        {
+            "id": 2769,
+            "code_insee": "32132",
+            "nom_standard": "Fleurance",
+            "slug_ville": "fleurance",
+            "code_postal": "32500",
+            "population": 6012,
+            "superficie_km2": "44.00",
+            "latitude_centre": "43.8400002",
+            "longitude_centre": "0.6420000"
+        },
+        {
+            "id": 2770,
+            "code_insee": "32147",
+            "nom_standard": "Gimont",
+            "slug_ville": "gimont",
+            "code_postal": "32200",
+            "population": 3055,
+            "superficie_km2": "28.00",
+            "latitude_centre": "43.6209984",
+            "longitude_centre": "0.8810000"
+        },
+        {
+            "id": 2771,
+            "code_insee": "32149",
+            "nom_standard": "Gondrin",
+            "slug_ville": "gondrin",
+            "code_postal": "32330",
+            "population": 1184,
+            "superficie_km2": "35.00",
+            "latitude_centre": "43.8790016",
+            "longitude_centre": "0.2600000"
+        },
+        {
+            "id": 2772,
+            "code_insee": "32155",
+            "nom_standard": "Le Houga",
+            "slug_ville": "le-houga",
+            "code_postal": "32460",
+            "population": 1170,
+            "superficie_km2": "32.00",
+            "latitude_centre": "43.7700005",
+            "longitude_centre": "-0.1850000"
+        },
+        {
+            "id": 2773,
+            "code_insee": "32160",
+            "nom_standard": "L'Isle-Jourdain",
+            "slug_ville": "l-isle-jourdain",
+            "code_postal": "32600",
+            "population": 9324,
+            "superficie_km2": "71.00",
+            "latitude_centre": "43.6139984",
+            "longitude_centre": "1.0810000"
+        },
+        {
+            "id": 2774,
+            "code_insee": "32162",
+            "nom_standard": "Jegun",
+            "slug_ville": "jegun",
+            "code_postal": "32360",
+            "population": 1173,
+            "superficie_km2": "39.00",
+            "latitude_centre": "43.7570000",
+            "longitude_centre": "0.4450000"
+        },
+        {
+            "id": 2775,
+            "code_insee": "32208",
+            "nom_standard": "Lectoure",
+            "slug_ville": "lectoure",
+            "code_postal": "32700",
+            "population": 3690,
+            "superficie_km2": "86.00",
+            "latitude_centre": "43.9399986",
+            "longitude_centre": "0.6510000"
+        },
+        {
+            "id": 2776,
+            "code_insee": "32213",
+            "nom_standard": "Lombez",
+            "slug_ville": "lombez",
+            "code_postal": "32220",
+            "population": 2143,
+            "superficie_km2": "20.00",
+            "latitude_centre": "43.4669991",
+            "longitude_centre": "0.9020000"
+        },
+        {
+            "id": 2777,
+            "code_insee": "32233",
+            "nom_standard": "Marciac",
+            "slug_ville": "marciac",
+            "code_postal": "32230",
+            "population": 1206,
+            "superficie_km2": "21.00",
+            "latitude_centre": "43.5209999",
+            "longitude_centre": "0.1560000"
+        },
+        {
+            "id": 2778,
+            "code_insee": "32242",
+            "nom_standard": "Masseube",
+            "slug_ville": "masseube",
+            "code_postal": "32140",
+            "population": 1524,
+            "superficie_km2": "22.00",
+            "latitude_centre": "43.4319992",
+            "longitude_centre": "0.5870000"
+        },
+        {
+            "id": 2779,
+            "code_insee": "32249",
+            "nom_standard": "Mauvezin",
+            "slug_ville": "mauvezin",
+            "code_postal": "32120",
+            "population": 2239,
+            "superficie_km2": "33.00",
+            "latitude_centre": "43.7319984",
+            "longitude_centre": "0.8660000"
+        },
+        {
+            "id": 2780,
+            "code_insee": "32252",
+            "nom_standard": "Miélan",
+            "slug_ville": "mielan",
+            "code_postal": "32170",
+            "population": 1125,
+            "superficie_km2": "22.00",
+            "latitude_centre": "43.4290009",
+            "longitude_centre": "0.3100000"
+        },
+        {
+            "id": 2781,
+            "code_insee": "32256",
+            "nom_standard": "Mirande",
+            "slug_ville": "mirande",
+            "code_postal": "32300",
+            "population": 3454,
+            "superficie_km2": "24.00",
+            "latitude_centre": "43.5190010",
+            "longitude_centre": "0.4110000"
+        },
+        {
+            "id": 2782,
+            "code_insee": "32290",
+            "nom_standard": "Montréal",
+            "slug_ville": "montreal",
+            "code_postal": "32250",
+            "population": 1180,
+            "superficie_km2": "63.00",
+            "latitude_centre": "43.9510002",
+            "longitude_centre": "0.2000000"
+        },
+        {
+            "id": 2783,
+            "code_insee": "32296",
+            "nom_standard": "Nogaro",
+            "slug_ville": "nogaro",
+            "code_postal": "32110",
+            "population": 2161,
+            "superficie_km2": "11.00",
+            "latitude_centre": "43.7610016",
+            "longitude_centre": "-0.0310000"
+        },
+        {
+            "id": 2784,
+            "code_insee": "32307",
+            "nom_standard": "Pavie",
+            "slug_ville": "pavie",
+            "code_postal": "32550",
+            "population": 2510,
+            "superficie_km2": "25.00",
+            "latitude_centre": "43.6059990",
+            "longitude_centre": "0.5900000"
+        },
+        {
+            "id": 2785,
+            "code_insee": "32319",
+            "nom_standard": "Plaisance",
+            "slug_ville": "plaisance",
+            "code_postal": "32160",
+            "population": 1421,
+            "superficie_km2": "14.00",
+            "latitude_centre": "43.6010017",
+            "longitude_centre": "0.0440000"
+        },
+        {
+            "id": 2786,
+            "code_insee": "32331",
+            "nom_standard": "Preignan",
+            "slug_ville": "preignan",
+            "code_postal": "32810",
+            "population": 1222,
+            "superficie_km2": "11.00",
+            "latitude_centre": "43.7210007",
+            "longitude_centre": "0.6370000"
+        },
+        {
+            "id": 2787,
+            "code_insee": "32334",
+            "nom_standard": "Pujaudran",
+            "slug_ville": "pujaudran",
+            "code_postal": "32600",
+            "population": 1657,
+            "superficie_km2": "18.00",
+            "latitude_centre": "43.5900002",
+            "longitude_centre": "1.1710000"
+        },
+        {
+            "id": 2788,
+            "code_insee": "32344",
+            "nom_standard": "Riscle",
+            "slug_ville": "riscle",
+            "code_postal": "32400",
+            "population": 1702,
+            "superficie_km2": "32.00",
+            "latitude_centre": "43.6450005",
+            "longitude_centre": "-0.0780000"
+        },
+        {
+            "id": 2789,
+            "code_insee": "32370",
+            "nom_standard": "Saint-Clar",
+            "slug_ville": "saint-clar",
+            "code_postal": "32380",
+            "population": 1048,
+            "superficie_km2": "18.00",
+            "latitude_centre": "43.8930016",
+            "longitude_centre": "0.7610000"
+        },
+        {
+            "id": 2790,
+            "code_insee": "32410",
+            "nom_standard": "Samatan",
+            "slug_ville": "samatan",
+            "code_postal": "32130",
+            "population": 2429,
+            "superficie_km2": "34.00",
+            "latitude_centre": "43.4939995",
+            "longitude_centre": "0.9350000"
+        },
+        {
+            "id": 2791,
+            "code_insee": "32425",
+            "nom_standard": "Ségoufielle",
+            "slug_ville": "segoufielle",
+            "code_postal": "32600",
+            "population": 1151,
+            "superficie_km2": "5.00",
+            "latitude_centre": "43.6310005",
+            "longitude_centre": "1.1320000"
+        },
+        {
+            "id": 2792,
+            "code_insee": "32426",
+            "nom_standard": "Seissan",
+            "slug_ville": "seissan",
+            "code_postal": "32260",
+            "population": 1099,
+            "superficie_km2": "19.00",
+            "latitude_centre": "43.4980011",
+            "longitude_centre": "0.5720000"
+        },
+        {
+            "id": 2793,
+            "code_insee": "32459",
+            "nom_standard": "Valence-sur-Baïse",
+            "slug_ville": "valence-sur-baise",
+            "code_postal": "32310",
+            "population": 1127,
+            "superficie_km2": "27.00",
+            "latitude_centre": "43.8680000",
+            "longitude_centre": "0.3640000"
+        },
+        {
+            "id": 2794,
+            "code_insee": "32462",
+            "nom_standard": "Vic-Fezensac",
+            "slug_ville": "vic-fezensac",
+            "code_postal": "32190",
+            "population": 3581,
+            "superficie_km2": "55.00",
+            "latitude_centre": "43.7620010",
+            "longitude_centre": "0.2980000"
+        }
+    ]
+}

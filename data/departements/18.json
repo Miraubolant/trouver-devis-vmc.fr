@@ -1,0 +1,632 @@
+{
+    "departement": {
+        "code": "18",
+        "nom": "Cher",
+        "slug": "cher"
+    },
+    "region": {
+        "id": 5,
+        "code": "04",
+        "nom": "Centre-Val de Loire",
+        "slug": "centre-val-de-loire"
+    },
+    "voisins": [
+        {
+            "dep_code": "28",
+            "dep_nom": "Eure-et-Loir",
+            "dep_slug": "eure-et-loir"
+        },
+        {
+            "dep_code": "36",
+            "dep_nom": "Indre",
+            "dep_slug": "indre"
+        },
+        {
+            "dep_code": "37",
+            "dep_nom": "Indre-et-Loire",
+            "dep_slug": "indre-et-loire"
+        },
+        {
+            "dep_code": "41",
+            "dep_nom": "Loir-et-Cher",
+            "dep_slug": "loir-et-cher"
+        }
+    ],
+    "villes_count": 54,
+    "villes": [
+        {
+            "id": 1329,
+            "code_insee": "18003",
+            "nom_standard": "Les Aix-d'Angillon",
+            "slug_ville": "les-aix-d-angillon",
+            "code_postal": "18220",
+            "population": 1872,
+            "superficie_km2": "15.00",
+            "latitude_centre": "47.1930008",
+            "longitude_centre": "2.5620000"
+        },
+        {
+            "id": 1330,
+            "code_insee": "18004",
+            "nom_standard": "Allogny",
+            "slug_ville": "allogny",
+            "code_postal": "18110",
+            "population": 1111,
+            "superficie_km2": "50.00",
+            "latitude_centre": "47.2340012",
+            "longitude_centre": "2.3069999"
+        },
+        {
+            "id": 1331,
+            "code_insee": "18005",
+            "nom_standard": "Allouis",
+            "slug_ville": "allouis",
+            "code_postal": "18500",
+            "population": 1079,
+            "superficie_km2": "36.00",
+            "latitude_centre": "47.1780014",
+            "longitude_centre": "2.2409999"
+        },
+        {
+            "id": 1332,
+            "code_insee": "18011",
+            "nom_standard": "Argent-sur-Sauldre",
+            "slug_ville": "argent-sur-sauldre",
+            "code_postal": "18410",
+            "population": 2057,
+            "superficie_km2": "68.00",
+            "latitude_centre": "47.5629997",
+            "longitude_centre": "2.4300001"
+        },
+        {
+            "id": 1333,
+            "code_insee": "18015",
+            "nom_standard": "Aubigny-sur-Nère",
+            "slug_ville": "aubigny-sur-nere",
+            "code_postal": "18700",
+            "population": 5476,
+            "superficie_km2": "62.00",
+            "latitude_centre": "47.4860001",
+            "longitude_centre": "2.4210000"
+        },
+        {
+            "id": 1334,
+            "code_insee": "18018",
+            "nom_standard": "Avord",
+            "slug_ville": "avord",
+            "code_postal": "18520",
+            "population": 2833,
+            "superficie_km2": "28.00",
+            "latitude_centre": "47.0320015",
+            "longitude_centre": "2.6659999"
+        },
+        {
+            "id": 1335,
+            "code_insee": "18023",
+            "nom_standard": "Baugy",
+            "slug_ville": "baugy",
+            "code_postal": "18800",
+            "population": 1625,
+            "superficie_km2": "23.00",
+            "latitude_centre": "47.0709992",
+            "longitude_centre": "2.7160001"
+        },
+        {
+            "id": 1336,
+            "code_insee": "18028",
+            "nom_standard": "Berry-Bouy",
+            "slug_ville": "berry-bouy",
+            "code_postal": "18500",
+            "population": 1168,
+            "superficie_km2": "32.00",
+            "latitude_centre": "47.1310005",
+            "longitude_centre": "2.2960000"
+        },
+        {
+            "id": 1337,
+            "code_insee": "18030",
+            "nom_standard": "Blancafort",
+            "slug_ville": "blancafort",
+            "code_postal": "18410",
+            "population": 1005,
+            "superficie_km2": "65.00",
+            "latitude_centre": "47.5349999",
+            "longitude_centre": "2.5420001"
+        },
+        {
+            "id": 1338,
+            "code_insee": "18032",
+            "nom_standard": "Boulleret",
+            "slug_ville": "boulleret",
+            "code_postal": "18240",
+            "population": 1377,
+            "superficie_km2": "33.00",
+            "latitude_centre": "47.4319992",
+            "longitude_centre": "2.8850000"
+        },
+        {
+            "id": 1339,
+            "code_insee": "18033",
+            "nom_standard": "Bourges",
+            "slug_ville": "bourges",
+            "code_postal": "18000",
+            "population": 63702,
+            "superficie_km2": "69.00",
+            "latitude_centre": "47.0750008",
+            "longitude_centre": "2.4040000"
+        },
+        {
+            "id": 1340,
+            "code_insee": "18035",
+            "nom_standard": "Brécy",
+            "slug_ville": "brecy",
+            "code_postal": "18220",
+            "population": 1011,
+            "superficie_km2": "40.00",
+            "latitude_centre": "47.1300011",
+            "longitude_centre": "2.6300001"
+        },
+        {
+            "id": 1341,
+            "code_insee": "18050",
+            "nom_standard": "La Chapelle-Saint-Ursin",
+            "slug_ville": "la-chapelle-saint-ursin",
+            "code_postal": "18570",
+            "population": 3692,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.0579987",
+            "longitude_centre": "2.3190000"
+        },
+        {
+            "id": 1342,
+            "code_insee": "18052",
+            "nom_standard": "Charenton-du-Cher",
+            "slug_ville": "charenton-du-cher",
+            "code_postal": "18210",
+            "population": 1014,
+            "superficie_km2": "49.00",
+            "latitude_centre": "46.7430000",
+            "longitude_centre": "2.6530001"
+        },
+        {
+            "id": 1343,
+            "code_insee": "18057",
+            "nom_standard": "Châteaumeillant",
+            "slug_ville": "chateaumeillant",
+            "code_postal": "18370",
+            "population": 1703,
+            "superficie_km2": "42.00",
+            "latitude_centre": "46.5550003",
+            "longitude_centre": "2.2070000"
+        },
+        {
+            "id": 1344,
+            "code_insee": "18058",
+            "nom_standard": "Châteauneuf-sur-Cher",
+            "slug_ville": "chateauneuf-sur-cher",
+            "code_postal": "18190",
+            "population": 1394,
+            "superficie_km2": "22.00",
+            "latitude_centre": "46.8660011",
+            "longitude_centre": "2.3399999"
+        },
+        {
+            "id": 1345,
+            "code_insee": "18075",
+            "nom_standard": "Cours-les-Barres",
+            "slug_ville": "cours-les-barres",
+            "code_postal": "18320",
+            "population": 1022,
+            "superficie_km2": "22.00",
+            "latitude_centre": "47.0219994",
+            "longitude_centre": "3.0380001"
+        },
+        {
+            "id": 1346,
+            "code_insee": "18082",
+            "nom_standard": "Cuffy",
+            "slug_ville": "cuffy",
+            "code_postal": "18150",
+            "population": 1019,
+            "superficie_km2": "36.00",
+            "latitude_centre": "46.9690018",
+            "longitude_centre": "3.0380001"
+        },
+        {
+            "id": 1347,
+            "code_insee": "18087",
+            "nom_standard": "Dun-sur-Auron",
+            "slug_ville": "dun-sur-auron",
+            "code_postal": "18130",
+            "population": 3572,
+            "superficie_km2": "50.00",
+            "latitude_centre": "46.8919983",
+            "longitude_centre": "2.5610001"
+        },
+        {
+            "id": 1348,
+            "code_insee": "18092",
+            "nom_standard": "Farges-en-Septaine",
+            "slug_ville": "farges-en-septaine",
+            "code_postal": "18800",
+            "population": 1004,
+            "superficie_km2": "25.00",
+            "latitude_centre": "47.0660019",
+            "longitude_centre": "2.6410000"
+        },
+        {
+            "id": 1349,
+            "code_insee": "18096",
+            "nom_standard": "Foëcy",
+            "slug_ville": "foecy",
+            "code_postal": "18500",
+            "population": 2069,
+            "superficie_km2": "16.00",
+            "latitude_centre": "47.1800003",
+            "longitude_centre": "2.1550000"
+        },
+        {
+            "id": 1350,
+            "code_insee": "18097",
+            "nom_standard": "Fussy",
+            "slug_ville": "fussy",
+            "code_postal": "18110",
+            "population": 1938,
+            "superficie_km2": "11.00",
+            "latitude_centre": "47.1409988",
+            "longitude_centre": "2.4260001"
+        },
+        {
+            "id": 1351,
+            "code_insee": "18103",
+            "nom_standard": "Graçay",
+            "slug_ville": "gracay",
+            "code_postal": "18310",
+            "population": 1307,
+            "superficie_km2": "32.00",
+            "latitude_centre": "47.1409988",
+            "longitude_centre": "1.8570000"
+        },
+        {
+            "id": 1352,
+            "code_insee": "18108",
+            "nom_standard": "La Guerche-sur-l'Aubois",
+            "slug_ville": "la-guerche-sur-l-aubois",
+            "code_postal": "18150",
+            "population": 3162,
+            "superficie_km2": "54.00",
+            "latitude_centre": "46.9519997",
+            "longitude_centre": "2.9449999"
+        },
+        {
+            "id": 1353,
+            "code_insee": "18109",
+            "nom_standard": "Henrichemont",
+            "slug_ville": "henrichemont",
+            "code_postal": "18250",
+            "population": 1706,
+            "superficie_km2": "26.00",
+            "latitude_centre": "47.2980003",
+            "longitude_centre": "2.5360000"
+        },
+        {
+            "id": 1354,
+            "code_insee": "18118",
+            "nom_standard": "Jouet-sur-l'Aubois",
+            "slug_ville": "jouet-sur-l-aubois",
+            "code_postal": "18320",
+            "population": 1308,
+            "superficie_km2": "17.00",
+            "latitude_centre": "47.0460014",
+            "longitude_centre": "3.0030000"
+        },
+        {
+            "id": 1355,
+            "code_insee": "18125",
+            "nom_standard": "Léré",
+            "slug_ville": "lere",
+            "code_postal": "18240",
+            "population": 1067,
+            "superficie_km2": "16.00",
+            "latitude_centre": "47.4659996",
+            "longitude_centre": "2.8729999"
+        },
+        {
+            "id": 1356,
+            "code_insee": "18126",
+            "nom_standard": "Levet",
+            "slug_ville": "levet",
+            "code_postal": "18340",
+            "population": 1371,
+            "superficie_km2": "26.00",
+            "latitude_centre": "46.9300003",
+            "longitude_centre": "2.3920000"
+        },
+        {
+            "id": 1357,
+            "code_insee": "18127",
+            "nom_standard": "Lignières",
+            "slug_ville": "lignieres",
+            "code_postal": "18160",
+            "population": 1341,
+            "superficie_km2": "22.00",
+            "latitude_centre": "46.7620010",
+            "longitude_centre": "2.2049999"
+        },
+        {
+            "id": 1358,
+            "code_insee": "18133",
+            "nom_standard": "Lunery",
+            "slug_ville": "lunery",
+            "code_postal": "18400",
+            "population": 1558,
+            "superficie_km2": "33.00",
+            "latitude_centre": "46.9379997",
+            "longitude_centre": "2.2579999"
+        },
+        {
+            "id": 1359,
+            "code_insee": "18138",
+            "nom_standard": "Marmagne",
+            "slug_ville": "marmagne",
+            "code_postal": "18500",
+            "population": 1905,
+            "superficie_km2": "38.00",
+            "latitude_centre": "47.0890007",
+            "longitude_centre": "2.2709999"
+        },
+        {
+            "id": 1360,
+            "code_insee": "18140",
+            "nom_standard": "Massay",
+            "slug_ville": "massay",
+            "code_postal": "18120",
+            "population": 1348,
+            "superficie_km2": "48.00",
+            "latitude_centre": "47.1549988",
+            "longitude_centre": "1.9859999"
+        },
+        {
+            "id": 1361,
+            "code_insee": "18141",
+            "nom_standard": "Mehun-sur-Yèvre",
+            "slug_ville": "mehun-sur-yevre",
+            "code_postal": "18500",
+            "population": 6448,
+            "superficie_km2": "24.00",
+            "latitude_centre": "47.1360016",
+            "longitude_centre": "2.2200000"
+        },
+        {
+            "id": 1362,
+            "code_insee": "18145",
+            "nom_standard": "Menetou-Salon",
+            "slug_ville": "menetou-salon",
+            "code_postal": "18510",
+            "population": 1614,
+            "superficie_km2": "38.00",
+            "latitude_centre": "47.2420006",
+            "longitude_centre": "2.4900000"
+        },
+        {
+            "id": 1363,
+            "code_insee": "18148",
+            "nom_standard": "Méreau",
+            "slug_ville": "mereau",
+            "code_postal": "18120",
+            "population": 2644,
+            "superficie_km2": "19.00",
+            "latitude_centre": "47.1790009",
+            "longitude_centre": "2.0520000"
+        },
+        {
+            "id": 1364,
+            "code_insee": "18160",
+            "nom_standard": "Nérondes",
+            "slug_ville": "nerondes",
+            "code_postal": "18350",
+            "population": 1430,
+            "superficie_km2": "34.00",
+            "latitude_centre": "47.0040016",
+            "longitude_centre": "2.8380001"
+        },
+        {
+            "id": 1365,
+            "code_insee": "18165",
+            "nom_standard": "Neuvy-sur-Barangeon",
+            "slug_ville": "neuvy-sur-barangeon",
+            "code_postal": "18330",
+            "population": 1101,
+            "superficie_km2": "67.00",
+            "latitude_centre": "47.3219986",
+            "longitude_centre": "2.2709999"
+        },
+        {
+            "id": 1366,
+            "code_insee": "18172",
+            "nom_standard": "Orval",
+            "slug_ville": "orval",
+            "code_postal": "18200",
+            "population": 1691,
+            "superficie_km2": "8.00",
+            "latitude_centre": "46.7220001",
+            "longitude_centre": "2.4670000"
+        },
+        {
+            "id": 1367,
+            "code_insee": "18180",
+            "nom_standard": "Plaimpied-Givaudins",
+            "slug_ville": "plaimpied-givaudins",
+            "code_postal": "18340",
+            "population": 2108,
+            "superficie_km2": "41.00",
+            "latitude_centre": "47.0079994",
+            "longitude_centre": "2.4360001"
+        },
+        {
+            "id": 1368,
+            "code_insee": "18197",
+            "nom_standard": "Saint-Amand-Montrond",
+            "slug_ville": "saint-amand-montrond",
+            "code_postal": "18200",
+            "population": 9459,
+            "superficie_km2": "20.00",
+            "latitude_centre": "46.7260017",
+            "longitude_centre": "2.5200000"
+        },
+        {
+            "id": 1369,
+            "code_insee": "18205",
+            "nom_standard": "Saint-Doulchard",
+            "slug_ville": "saint-doulchard",
+            "code_postal": "18230",
+            "population": 9645,
+            "superficie_km2": "24.00",
+            "latitude_centre": "47.1110001",
+            "longitude_centre": "2.3570001"
+        },
+        {
+            "id": 1370,
+            "code_insee": "18206",
+            "nom_standard": "Saint-Éloy-de-Gy",
+            "slug_ville": "saint-eloy-de-gy",
+            "code_postal": "18110",
+            "population": 1558,
+            "superficie_km2": "31.00",
+            "latitude_centre": "47.1689987",
+            "longitude_centre": "2.3310001"
+        },
+        {
+            "id": 1371,
+            "code_insee": "18207",
+            "nom_standard": "Saint-Florent-sur-Cher",
+            "slug_ville": "saint-florent-sur-cher",
+            "code_postal": "18400",
+            "population": 6419,
+            "superficie_km2": "22.00",
+            "latitude_centre": "46.9910011",
+            "longitude_centre": "2.2539999"
+        },
+        {
+            "id": 1372,
+            "code_insee": "18213",
+            "nom_standard": "Saint-Germain-du-Puy",
+            "slug_ville": "saint-germain-du-puy",
+            "code_postal": "18390",
+            "population": 4924,
+            "superficie_km2": "22.00",
+            "latitude_centre": "47.1080017",
+            "longitude_centre": "2.4790001"
+        },
+        {
+            "id": 1373,
+            "code_insee": "18223",
+            "nom_standard": "Saint-Martin-d'Auxigny",
+            "slug_ville": "saint-martin-d-auxigny",
+            "code_postal": "18110",
+            "population": 2505,
+            "superficie_km2": "24.00",
+            "latitude_centre": "47.2099991",
+            "longitude_centre": "2.3820000"
+        },
+        {
+            "id": 1374,
+            "code_insee": "18233",
+            "nom_standard": "Saint-Satur",
+            "slug_ville": "saint-satur",
+            "code_postal": "18300",
+            "population": 1403,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.3460007",
+            "longitude_centre": "2.8540001"
+        },
+        {
+            "id": 1375,
+            "code_insee": "18235",
+            "nom_standard": "Sainte-Solange",
+            "slug_ville": "sainte-solange",
+            "code_postal": "18220",
+            "population": 1117,
+            "superficie_km2": "32.00",
+            "latitude_centre": "47.1419983",
+            "longitude_centre": "2.5510001"
+        },
+        {
+            "id": 1376,
+            "code_insee": "18241",
+            "nom_standard": "Sancerre",
+            "slug_ville": "sancerre",
+            "code_postal": "18300",
+            "population": 1329,
+            "superficie_km2": "16.00",
+            "latitude_centre": "47.3260002",
+            "longitude_centre": "2.8220000"
+        },
+        {
+            "id": 1377,
+            "code_insee": "18242",
+            "nom_standard": "Sancoins",
+            "slug_ville": "sancoins",
+            "code_postal": "18600",
+            "population": 2930,
+            "superficie_km2": "54.00",
+            "latitude_centre": "46.8250008",
+            "longitude_centre": "2.9140000"
+        },
+        {
+            "id": 1378,
+            "code_insee": "18246",
+            "nom_standard": "Savigny-en-Sancerre",
+            "slug_ville": "savigny-en-sancerre",
+            "code_postal": "18240",
+            "population": 1110,
+            "superficie_km2": "34.00",
+            "latitude_centre": "47.4440002",
+            "longitude_centre": "2.7980001"
+        },
+        {
+            "id": 1379,
+            "code_insee": "18267",
+            "nom_standard": "Trouy",
+            "slug_ville": "trouy",
+            "code_postal": "18570",
+            "population": 4005,
+            "superficie_km2": "23.00",
+            "latitude_centre": "47.0200005",
+            "longitude_centre": "2.3659999"
+        },
+        {
+            "id": 1380,
+            "code_insee": "18271",
+            "nom_standard": "Vasselay",
+            "slug_ville": "vasselay",
+            "code_postal": "18110",
+            "population": 1552,
+            "superficie_km2": "20.00",
+            "latitude_centre": "47.1609993",
+            "longitude_centre": "2.3859999"
+        },
+        {
+            "id": 1381,
+            "code_insee": "18279",
+            "nom_standard": "Vierzon",
+            "slug_ville": "vierzon",
+            "code_postal": "18100",
+            "population": 25348,
+            "superficie_km2": "75.00",
+            "latitude_centre": "47.2369995",
+            "longitude_centre": "2.0790000"
+        },
+        {
+            "id": 1382,
+            "code_insee": "18281",
+            "nom_standard": "Vignoux-sur-Barangeon",
+            "slug_ville": "vignoux-sur-barangeon",
+            "code_postal": "18500",
+            "population": 2095,
+            "superficie_km2": "25.00",
+            "latitude_centre": "47.2080002",
+            "longitude_centre": "2.1800001"
+        }
+    ]
+}

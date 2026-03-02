@@ -1,0 +1,577 @@
+{
+    "departement": {
+        "code": "19",
+        "nom": "Corrèze",
+        "slug": "correze"
+    },
+    "region": {
+        "id": 16,
+        "code": "15",
+        "nom": "Nouvelle-Aquitaine",
+        "slug": "nouvelle-aquitaine"
+    },
+    "voisins": [
+        {
+            "dep_code": "16",
+            "dep_nom": "Charente",
+            "dep_slug": "charente"
+        },
+        {
+            "dep_code": "17",
+            "dep_nom": "Charente-Maritime",
+            "dep_slug": "charente-maritime"
+        },
+        {
+            "dep_code": "23",
+            "dep_nom": "Creuse",
+            "dep_slug": "creuse"
+        },
+        {
+            "dep_code": "24",
+            "dep_nom": "Dordogne",
+            "dep_slug": "dordogne"
+        }
+    ],
+    "villes_count": 49,
+    "villes": [
+        {
+            "id": 1383,
+            "code_insee": "19005",
+            "nom_standard": "Allassac",
+            "slug_ville": "allassac",
+            "code_postal": "19240",
+            "population": 4019,
+            "superficie_km2": "39.00",
+            "latitude_centre": "45.2560005",
+            "longitude_centre": "1.4690000"
+        },
+        {
+            "id": 1384,
+            "code_insee": "19010",
+            "nom_standard": "Argentat-sur-Dordogne",
+            "slug_ville": "argentat-sur-dordogne",
+            "code_postal": "19320",
+            "population": 2869,
+            "superficie_km2": "22.00",
+            "latitude_centre": "45.1010017",
+            "longitude_centre": "1.9340000"
+        },
+        {
+            "id": 1385,
+            "code_insee": "19011",
+            "nom_standard": "Arnac-Pompadour",
+            "slug_ville": "arnac-pompadour",
+            "code_postal": "19230",
+            "population": 1160,
+            "superficie_km2": "15.00",
+            "latitude_centre": "45.4109993",
+            "longitude_centre": "1.3620000"
+        },
+        {
+            "id": 1386,
+            "code_insee": "19019",
+            "nom_standard": "Beaulieu-sur-Dordogne",
+            "slug_ville": "beaulieu-sur-dordogne",
+            "code_postal": "19120",
+            "population": 1300,
+            "superficie_km2": "9.00",
+            "latitude_centre": "44.9809990",
+            "longitude_centre": "1.8279999"
+        },
+        {
+            "id": 1387,
+            "code_insee": "19023",
+            "nom_standard": "Beynat",
+            "slug_ville": "beynat",
+            "code_postal": "19190",
+            "population": 1247,
+            "superficie_km2": "35.00",
+            "latitude_centre": "45.1320000",
+            "longitude_centre": "1.7300000"
+        },
+        {
+            "id": 1388,
+            "code_insee": "19028",
+            "nom_standard": "Bort-les-Orgues",
+            "slug_ville": "bort-les-orgues",
+            "code_postal": "19110",
+            "population": 2541,
+            "superficie_km2": "15.00",
+            "latitude_centre": "45.3930016",
+            "longitude_centre": "2.4920001"
+        },
+        {
+            "id": 1389,
+            "code_insee": "19031",
+            "nom_standard": "Brive-la-Gaillarde",
+            "slug_ville": "brive-la-gaillarde",
+            "code_postal": "19100",
+            "population": 46599,
+            "superficie_km2": "48.00",
+            "latitude_centre": "45.1440010",
+            "longitude_centre": "1.5190001"
+        },
+        {
+            "id": 1390,
+            "code_insee": "19036",
+            "nom_standard": "Chamberet",
+            "slug_ville": "chamberet",
+            "code_postal": "19370",
+            "population": 1410,
+            "superficie_km2": "71.00",
+            "latitude_centre": "45.6020012",
+            "longitude_centre": "1.7200000"
+        },
+        {
+            "id": 1391,
+            "code_insee": "19037",
+            "nom_standard": "Chamboulive",
+            "slug_ville": "chamboulive",
+            "code_postal": "19450",
+            "population": 1164,
+            "superficie_km2": "47.00",
+            "latitude_centre": "45.4269981",
+            "longitude_centre": "1.7090000"
+        },
+        {
+            "id": 1392,
+            "code_insee": "19038",
+            "nom_standard": "Chameyrat",
+            "slug_ville": "chameyrat",
+            "code_postal": "19330",
+            "population": 1504,
+            "superficie_km2": "19.00",
+            "latitude_centre": "45.2480011",
+            "longitude_centre": "1.7060000"
+        },
+        {
+            "id": 1393,
+            "code_insee": "19061",
+            "nom_standard": "Cornil",
+            "slug_ville": "cornil",
+            "code_postal": "19150",
+            "population": 1304,
+            "superficie_km2": "20.00",
+            "latitude_centre": "45.2140007",
+            "longitude_centre": "1.6970000"
+        },
+        {
+            "id": 1394,
+            "code_insee": "19062",
+            "nom_standard": "Corrèze",
+            "slug_ville": "correze",
+            "code_postal": "19800",
+            "population": 1162,
+            "superficie_km2": "35.00",
+            "latitude_centre": "45.3660011",
+            "longitude_centre": "1.8710001"
+        },
+        {
+            "id": 1395,
+            "code_insee": "19063",
+            "nom_standard": "Cosnac",
+            "slug_ville": "cosnac",
+            "code_postal": "19360",
+            "population": 3026,
+            "superficie_km2": "20.00",
+            "latitude_centre": "45.1310005",
+            "longitude_centre": "1.5860000"
+        },
+        {
+            "id": 1396,
+            "code_insee": "19066",
+            "nom_standard": "Cublac",
+            "slug_ville": "cublac",
+            "code_postal": "19520",
+            "population": 1726,
+            "superficie_km2": "20.00",
+            "latitude_centre": "45.1559982",
+            "longitude_centre": "1.3060000"
+        },
+        {
+            "id": 1397,
+            "code_insee": "19072",
+            "nom_standard": "Donzenac",
+            "slug_ville": "donzenac",
+            "code_postal": "19270",
+            "population": 2705,
+            "superficie_km2": "24.00",
+            "latitude_centre": "45.2309990",
+            "longitude_centre": "1.5260000"
+        },
+        {
+            "id": 1398,
+            "code_insee": "19073",
+            "nom_standard": "Égletons",
+            "slug_ville": "egletons",
+            "code_postal": "19300",
+            "population": 4293,
+            "superficie_km2": "17.00",
+            "latitude_centre": "45.4220009",
+            "longitude_centre": "2.0360000"
+        },
+        {
+            "id": 1399,
+            "code_insee": "19082",
+            "nom_standard": "Favars",
+            "slug_ville": "favars",
+            "code_postal": "19330",
+            "population": 1122,
+            "superficie_km2": "12.00",
+            "latitude_centre": "45.2630005",
+            "longitude_centre": "1.6700000"
+        },
+        {
+            "id": 1400,
+            "code_insee": "19094",
+            "nom_standard": "Juillac",
+            "slug_ville": "juillac",
+            "code_postal": "19350",
+            "population": 1136,
+            "superficie_km2": "32.00",
+            "latitude_centre": "45.3230019",
+            "longitude_centre": "1.2920001"
+        },
+        {
+            "id": 1401,
+            "code_insee": "19100",
+            "nom_standard": "Lagraulière",
+            "slug_ville": "lagrauliere",
+            "code_postal": "19700",
+            "population": 1158,
+            "superficie_km2": "31.00",
+            "latitude_centre": "45.3549995",
+            "longitude_centre": "1.6240000"
+        },
+        {
+            "id": 1402,
+            "code_insee": "19101",
+            "nom_standard": "Laguenne-sur-Avalouze",
+            "slug_ville": "laguenne-sur-avalouze",
+            "code_postal": "19150",
+            "population": 1553,
+            "superficie_km2": "7.00",
+            "latitude_centre": "45.2400017",
+            "longitude_centre": "1.7869999"
+        },
+        {
+            "id": 1403,
+            "code_insee": "19107",
+            "nom_standard": "Larche",
+            "slug_ville": "larche",
+            "code_postal": "19600",
+            "population": 1641,
+            "superficie_km2": "6.00",
+            "latitude_centre": "45.1139984",
+            "longitude_centre": "1.4200000"
+        },
+        {
+            "id": 1404,
+            "code_insee": "19121",
+            "nom_standard": "Lubersac",
+            "slug_ville": "lubersac",
+            "code_postal": "19210",
+            "population": 2253,
+            "superficie_km2": "58.00",
+            "latitude_centre": "45.4539986",
+            "longitude_centre": "1.4000000"
+        },
+        {
+            "id": 1405,
+            "code_insee": "19123",
+            "nom_standard": "Malemort",
+            "slug_ville": "malemort",
+            "code_postal": "19360",
+            "population": 8027,
+            "superficie_km2": "16.00",
+            "latitude_centre": "45.1759987",
+            "longitude_centre": "1.5840000"
+        },
+        {
+            "id": 1406,
+            "code_insee": "19124",
+            "nom_standard": "Mansac",
+            "slug_ville": "mansac",
+            "code_postal": "19520",
+            "population": 1511,
+            "superficie_km2": "19.00",
+            "latitude_centre": "45.1599999",
+            "longitude_centre": "1.3820000"
+        },
+        {
+            "id": 1407,
+            "code_insee": "19136",
+            "nom_standard": "Meymac",
+            "slug_ville": "meymac",
+            "code_postal": "19250",
+            "population": 2279,
+            "superficie_km2": "87.00",
+            "latitude_centre": "45.5540009",
+            "longitude_centre": "2.1400001"
+        },
+        {
+            "id": 1408,
+            "code_insee": "19138",
+            "nom_standard": "Meyssac",
+            "slug_ville": "meyssac",
+            "code_postal": "19500",
+            "population": 1262,
+            "superficie_km2": "12.00",
+            "latitude_centre": "45.0499992",
+            "longitude_centre": "1.6840000"
+        },
+        {
+            "id": 1409,
+            "code_insee": "19146",
+            "nom_standard": "Naves",
+            "slug_ville": "naves",
+            "code_postal": "19460",
+            "population": 2337,
+            "superficie_km2": "36.00",
+            "latitude_centre": "45.3149986",
+            "longitude_centre": "1.7510000"
+        },
+        {
+            "id": 1410,
+            "code_insee": "19148",
+            "nom_standard": "Neuvic",
+            "slug_ville": "neuvic",
+            "code_postal": "19160",
+            "population": 1627,
+            "superficie_km2": "75.00",
+            "latitude_centre": "45.3709984",
+            "longitude_centre": "2.2590001"
+        },
+        {
+            "id": 1411,
+            "code_insee": "19153",
+            "nom_standard": "Objat",
+            "slug_ville": "objat",
+            "code_postal": "19130",
+            "population": 3699,
+            "superficie_km2": "10.00",
+            "latitude_centre": "45.2630005",
+            "longitude_centre": "1.4130000"
+        },
+        {
+            "id": 1412,
+            "code_insee": "19162",
+            "nom_standard": "Perpezac-le-Noir",
+            "slug_ville": "perpezac-le-noir",
+            "code_postal": "19410",
+            "population": 1239,
+            "superficie_km2": "25.00",
+            "latitude_centre": "45.3370018",
+            "longitude_centre": "1.5530000"
+        },
+        {
+            "id": 1413,
+            "code_insee": "19176",
+            "nom_standard": "Rosiers-d'Égletons",
+            "slug_ville": "rosiers-d-egletons",
+            "code_postal": "19300",
+            "population": 1091,
+            "superficie_km2": "38.00",
+            "latitude_centre": "45.3880005",
+            "longitude_centre": "2.0109999"
+        },
+        {
+            "id": 1414,
+            "code_insee": "19194",
+            "nom_standard": "Saint-Clément",
+            "slug_ville": "saint-clement",
+            "code_postal": "19700",
+            "population": 1363,
+            "superficie_km2": "27.00",
+            "latitude_centre": "45.3310013",
+            "longitude_centre": "1.6870000"
+        },
+        {
+            "id": 1415,
+            "code_insee": "19202",
+            "nom_standard": "Sainte-Féréole",
+            "slug_ville": "sainte-fereole",
+            "code_postal": "19270",
+            "population": 2040,
+            "superficie_km2": "35.00",
+            "latitude_centre": "45.2270012",
+            "longitude_centre": "1.5890000"
+        },
+        {
+            "id": 1416,
+            "code_insee": "19203",
+            "nom_standard": "Sainte-Fortunade",
+            "slug_ville": "sainte-fortunade",
+            "code_postal": "19490",
+            "population": 1788,
+            "superficie_km2": "38.00",
+            "latitude_centre": "45.2070007",
+            "longitude_centre": "1.7630000"
+        },
+        {
+            "id": 1417,
+            "code_insee": "19207",
+            "nom_standard": "Saint-Germain-les-Vergnes",
+            "slug_ville": "saint-germain-les-vergnes",
+            "code_postal": "19330",
+            "population": 1140,
+            "superficie_km2": "19.00",
+            "latitude_centre": "45.2669983",
+            "longitude_centre": "1.6210001"
+        },
+        {
+            "id": 1418,
+            "code_insee": "19211",
+            "nom_standard": "Saint-Hilaire-Peyroux",
+            "slug_ville": "saint-hilaire-peyroux",
+            "code_postal": "19560",
+            "population": 1015,
+            "superficie_km2": "19.00",
+            "latitude_centre": "45.2099991",
+            "longitude_centre": "1.6420000"
+        },
+        {
+            "id": 1419,
+            "code_insee": "19227",
+            "nom_standard": "Saint-Mexant",
+            "slug_ville": "saint-mexant",
+            "code_postal": "19330",
+            "population": 1319,
+            "superficie_km2": "19.00",
+            "latitude_centre": "45.2900009",
+            "longitude_centre": "1.6760000"
+        },
+        {
+            "id": 1420,
+            "code_insee": "19229",
+            "nom_standard": "Saint-Pantaléon-de-Larche",
+            "slug_ville": "saint-pantaleon-de-larche",
+            "code_postal": "19600",
+            "population": 4883,
+            "superficie_km2": "24.00",
+            "latitude_centre": "45.1469994",
+            "longitude_centre": "1.4320000"
+        },
+        {
+            "id": 1421,
+            "code_insee": "19237",
+            "nom_standard": "Saint-Privat",
+            "slug_ville": "saint-privat",
+            "code_postal": "19220",
+            "population": 1041,
+            "superficie_km2": "32.00",
+            "latitude_centre": "45.1370010",
+            "longitude_centre": "2.0769999"
+        },
+        {
+            "id": 1422,
+            "code_insee": "19246",
+            "nom_standard": "Saint-Viance",
+            "slug_ville": "saint-viance",
+            "code_postal": "19240",
+            "population": 1884,
+            "superficie_km2": "16.00",
+            "latitude_centre": "45.2099991",
+            "longitude_centre": "1.4640000"
+        },
+        {
+            "id": 1423,
+            "code_insee": "19255",
+            "nom_standard": "Seilhac",
+            "slug_ville": "seilhac",
+            "code_postal": "19700",
+            "population": 1797,
+            "superficie_km2": "25.00",
+            "latitude_centre": "45.3670006",
+            "longitude_centre": "1.7230001"
+        },
+        {
+            "id": 1424,
+            "code_insee": "19269",
+            "nom_standard": "Treignac",
+            "slug_ville": "treignac",
+            "code_postal": "19260",
+            "population": 1263,
+            "superficie_km2": "38.00",
+            "latitude_centre": "45.5519981",
+            "longitude_centre": "1.8010000"
+        },
+        {
+            "id": 1425,
+            "code_insee": "19272",
+            "nom_standard": "Tulle",
+            "slug_ville": "tulle",
+            "code_postal": "19000",
+            "population": 13992,
+            "superficie_km2": "25.00",
+            "latitude_centre": "45.2729988",
+            "longitude_centre": "1.7630000"
+        },
+        {
+            "id": 1426,
+            "code_insee": "19274",
+            "nom_standard": "Ussac",
+            "slug_ville": "ussac",
+            "code_postal": "19270",
+            "population": 4253,
+            "superficie_km2": "25.00",
+            "latitude_centre": "45.1899986",
+            "longitude_centre": "1.5130000"
+        },
+        {
+            "id": 1427,
+            "code_insee": "19275",
+            "nom_standard": "Ussel",
+            "slug_ville": "ussel",
+            "code_postal": "19200",
+            "population": 9159,
+            "superficie_km2": "51.00",
+            "latitude_centre": "45.5499992",
+            "longitude_centre": "2.3039999"
+        },
+        {
+            "id": 1428,
+            "code_insee": "19276",
+            "nom_standard": "Uzerche",
+            "slug_ville": "uzerche",
+            "code_postal": "19140",
+            "population": 2798,
+            "superficie_km2": "24.00",
+            "latitude_centre": "45.4239998",
+            "longitude_centre": "1.5650001"
+        },
+        {
+            "id": 1429,
+            "code_insee": "19278",
+            "nom_standard": "Varetz",
+            "slug_ville": "varetz",
+            "code_postal": "19240",
+            "population": 2462,
+            "superficie_km2": "21.00",
+            "latitude_centre": "45.1889992",
+            "longitude_centre": "1.4340000"
+        },
+        {
+            "id": 1430,
+            "code_insee": "19285",
+            "nom_standard": "Vigeois",
+            "slug_ville": "vigeois",
+            "code_postal": "19410",
+            "population": 1288,
+            "superficie_km2": "44.00",
+            "latitude_centre": "45.3790016",
+            "longitude_centre": "1.5190001"
+        },
+        {
+            "id": 1431,
+            "code_insee": "19288",
+            "nom_standard": "Voutezac",
+            "slug_ville": "voutezac",
+            "code_postal": "19130",
+            "population": 1237,
+            "superficie_km2": "22.00",
+            "latitude_centre": "45.2929993",
+            "longitude_centre": "1.4400001"
+        }
+    ]
+}

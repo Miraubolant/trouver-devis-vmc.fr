@@ -1,0 +1,368 @@
+{
+    "departement": {
+        "code": "15",
+        "nom": "Cantal",
+        "slug": "cantal"
+    },
+    "region": {
+        "id": 2,
+        "code": "01",
+        "nom": "Auvergne-Rhône-Alpes",
+        "slug": "auvergne-rhone-alpes"
+    },
+    "voisins": [
+        {
+            "dep_code": "01",
+            "dep_nom": "Ain",
+            "dep_slug": "ain"
+        },
+        {
+            "dep_code": "03",
+            "dep_nom": "Allier",
+            "dep_slug": "allier"
+        },
+        {
+            "dep_code": "07",
+            "dep_nom": "Ardèche",
+            "dep_slug": "ardeche"
+        },
+        {
+            "dep_code": "26",
+            "dep_nom": "Drôme",
+            "dep_slug": "drome"
+        }
+    ],
+    "villes_count": 30,
+    "villes": [
+        {
+            "id": 1078,
+            "code_insee": "15012",
+            "nom_standard": "Arpajon-sur-Cère",
+            "slug_ville": "arpajon-sur-cere",
+            "code_postal": "15130",
+            "population": 6315,
+            "superficie_km2": "48.00",
+            "latitude_centre": "44.8759995",
+            "longitude_centre": "2.4640000"
+        },
+        {
+            "id": 1079,
+            "code_insee": "15014",
+            "nom_standard": "Aurillac",
+            "slug_ville": "aurillac",
+            "code_postal": "15000",
+            "population": 25815,
+            "superficie_km2": "29.00",
+            "latitude_centre": "44.9239998",
+            "longitude_centre": "2.4419999"
+        },
+        {
+            "id": 1080,
+            "code_insee": "15037",
+            "nom_standard": "Champagnac",
+            "slug_ville": "champagnac",
+            "code_postal": "15350",
+            "population": 1026,
+            "superficie_km2": "28.00",
+            "latitude_centre": "45.3629990",
+            "longitude_centre": "2.4030001"
+        },
+        {
+            "id": 1081,
+            "code_insee": "15038",
+            "nom_standard": "Champs-sur-Tarentaine-Marchal",
+            "slug_ville": "champs-sur-tarentaine-marchal",
+            "code_postal": "15270",
+            "population": 1022,
+            "superficie_km2": "61.00",
+            "latitude_centre": "45.4039993",
+            "longitude_centre": "2.6040001"
+        },
+        {
+            "id": 1082,
+            "code_insee": "15083",
+            "nom_standard": "Jussac",
+            "slug_ville": "jussac",
+            "code_postal": "15250",
+            "population": 2026,
+            "superficie_km2": "19.00",
+            "latitude_centre": "44.9949989",
+            "longitude_centre": "2.4180000"
+        },
+        {
+            "id": 1083,
+            "code_insee": "15092",
+            "nom_standard": "Lanobre",
+            "slug_ville": "lanobre",
+            "code_postal": "15270",
+            "population": 1368,
+            "superficie_km2": "44.00",
+            "latitude_centre": "45.4339981",
+            "longitude_centre": "2.5500000"
+        },
+        {
+            "id": 1084,
+            "code_insee": "15119",
+            "nom_standard": "Massiac",
+            "slug_ville": "massiac",
+            "code_postal": "15500",
+            "population": 1804,
+            "superficie_km2": "35.00",
+            "latitude_centre": "45.2449989",
+            "longitude_centre": "3.2000000"
+        },
+        {
+            "id": 1085,
+            "code_insee": "15120",
+            "nom_standard": "Mauriac",
+            "slug_ville": "mauriac",
+            "code_postal": "15200",
+            "population": 3519,
+            "superficie_km2": "28.00",
+            "latitude_centre": "45.2179985",
+            "longitude_centre": "2.3169999"
+        },
+        {
+            "id": 1086,
+            "code_insee": "15122",
+            "nom_standard": "Maurs",
+            "slug_ville": "maurs",
+            "code_postal": "15600",
+            "population": 2110,
+            "superficie_km2": "31.00",
+            "latitude_centre": "44.7120018",
+            "longitude_centre": "2.1730001"
+        },
+        {
+            "id": 1087,
+            "code_insee": "15138",
+            "nom_standard": "Murat",
+            "slug_ville": "murat",
+            "code_postal": "15300",
+            "population": 1792,
+            "superficie_km2": "7.00",
+            "latitude_centre": "45.1110001",
+            "longitude_centre": "2.8610001"
+        },
+        {
+            "id": 1088,
+            "code_insee": "15140",
+            "nom_standard": "Naucelles",
+            "slug_ville": "naucelles",
+            "code_postal": "15250",
+            "population": 2137,
+            "superficie_km2": "12.00",
+            "latitude_centre": "44.9519997",
+            "longitude_centre": "2.4210000"
+        },
+        {
+            "id": 1089,
+            "code_insee": "15141",
+            "nom_standard": "Neussargues en Pinatelle",
+            "slug_ville": "neussargues-en-pinatelle",
+            "code_postal": "15170",
+            "population": 1653,
+            "superficie_km2": "14.00",
+            "latitude_centre": "45.1320000",
+            "longitude_centre": "2.9849999"
+        },
+        {
+            "id": 1090,
+            "code_insee": "15142",
+            "nom_standard": "Neuvéglise-sur-Truyère",
+            "slug_ville": "neuveglise-sur-truyere",
+            "code_postal": "15260",
+            "population": 1704,
+            "superficie_km2": "54.00",
+            "latitude_centre": "44.9309998",
+            "longitude_centre": "2.9790001"
+        },
+        {
+            "id": 1091,
+            "code_insee": "15153",
+            "nom_standard": "Pleaux",
+            "slug_ville": "pleaux",
+            "code_postal": "15700",
+            "population": 1459,
+            "superficie_km2": "93.00",
+            "latitude_centre": "45.1300011",
+            "longitude_centre": "2.2490001"
+        },
+        {
+            "id": 1092,
+            "code_insee": "15154",
+            "nom_standard": "Polminhac",
+            "slug_ville": "polminhac",
+            "code_postal": "15800",
+            "population": 1213,
+            "superficie_km2": "29.00",
+            "latitude_centre": "44.9519997",
+            "longitude_centre": "2.5760000"
+        },
+        {
+            "id": 1093,
+            "code_insee": "15160",
+            "nom_standard": "Reilhac",
+            "slug_ville": "reilhac",
+            "code_postal": "15250",
+            "population": 1089,
+            "superficie_km2": "9.00",
+            "latitude_centre": "44.9700012",
+            "longitude_centre": "2.4230001"
+        },
+        {
+            "id": 1094,
+            "code_insee": "15162",
+            "nom_standard": "Riom-ès-Montagnes",
+            "slug_ville": "riom-es-montagnes",
+            "code_postal": "15400",
+            "population": 2428,
+            "superficie_km2": "47.00",
+            "latitude_centre": "45.2900009",
+            "longitude_centre": "2.6570001"
+        },
+        {
+            "id": 1095,
+            "code_insee": "15163",
+            "nom_standard": "Roannes-Saint-Mary",
+            "slug_ville": "roannes-saint-mary",
+            "code_postal": "15220",
+            "population": 1106,
+            "superficie_km2": "37.00",
+            "latitude_centre": "44.8450012",
+            "longitude_centre": "2.3989999"
+        },
+        {
+            "id": 1096,
+            "code_insee": "15175",
+            "nom_standard": "Saint-Cernin",
+            "slug_ville": "saint-cernin",
+            "code_postal": "15310",
+            "population": 1055,
+            "superficie_km2": "47.00",
+            "latitude_centre": "45.0530014",
+            "longitude_centre": "2.4260001"
+        },
+        {
+            "id": 1097,
+            "code_insee": "15187",
+            "nom_standard": "Saint-Flour",
+            "slug_ville": "saint-flour",
+            "code_postal": "15100",
+            "population": 6423,
+            "superficie_km2": "27.00",
+            "latitude_centre": "45.0279999",
+            "longitude_centre": "3.0829999"
+        },
+        {
+            "id": 1098,
+            "code_insee": "15188",
+            "nom_standard": "Saint-Georges",
+            "slug_ville": "saint-georges",
+            "code_postal": "15100",
+            "population": 1183,
+            "superficie_km2": "33.00",
+            "latitude_centre": "45.0200005",
+            "longitude_centre": "3.1380000"
+        },
+        {
+            "id": 1099,
+            "code_insee": "15196",
+            "nom_standard": "Saint-Mamet-la-Salvetat",
+            "slug_ville": "saint-mamet-la-salvetat",
+            "code_postal": "15220",
+            "population": 1543,
+            "superficie_km2": "52.00",
+            "latitude_centre": "44.8559990",
+            "longitude_centre": "2.3050001"
+        },
+        {
+            "id": 1100,
+            "code_insee": "15204",
+            "nom_standard": "Saint-Paul-des-Landes",
+            "slug_ville": "saint-paul-des-landes",
+            "code_postal": "15250",
+            "population": 1533,
+            "superficie_km2": "19.00",
+            "latitude_centre": "44.9510002",
+            "longitude_centre": "2.3000000"
+        },
+        {
+            "id": 1101,
+            "code_insee": "15215",
+            "nom_standard": "Saint-Simon",
+            "slug_ville": "saint-simon",
+            "code_postal": "15130",
+            "population": 1126,
+            "superficie_km2": "27.00",
+            "latitude_centre": "44.9700012",
+            "longitude_centre": "2.4970000"
+        },
+        {
+            "id": 1102,
+            "code_insee": "15221",
+            "nom_standard": "Sansac-de-Marmiesse",
+            "slug_ville": "sansac-de-marmiesse",
+            "code_postal": "15130",
+            "population": 1370,
+            "superficie_km2": "14.00",
+            "latitude_centre": "44.8899994",
+            "longitude_centre": "2.3429999"
+        },
+        {
+            "id": 1103,
+            "code_insee": "15255",
+            "nom_standard": "Vézac",
+            "slug_ville": "vezac",
+            "code_postal": "15130",
+            "population": 1297,
+            "superficie_km2": "15.00",
+            "latitude_centre": "44.8950005",
+            "longitude_centre": "2.5220001"
+        },
+        {
+            "id": 1104,
+            "code_insee": "15258",
+            "nom_standard": "Vic-sur-Cère",
+            "slug_ville": "vic-sur-cere",
+            "code_postal": "15800",
+            "population": 1885,
+            "superficie_km2": "29.00",
+            "latitude_centre": "44.9720001",
+            "longitude_centre": "2.6199999"
+        },
+        {
+            "id": 1105,
+            "code_insee": "15265",
+            "nom_standard": "Ydes",
+            "slug_ville": "ydes",
+            "code_postal": "15210",
+            "population": 1624,
+            "superficie_km2": "18.00",
+            "latitude_centre": "45.3429985",
+            "longitude_centre": "2.4500000"
+        },
+        {
+            "id": 1106,
+            "code_insee": "15267",
+            "nom_standard": "Ytrac",
+            "slug_ville": "ytrac",
+            "code_postal": "15130",
+            "population": 4322,
+            "superficie_km2": "38.00",
+            "latitude_centre": "44.9160004",
+            "longitude_centre": "2.3659999"
+        },
+        {
+            "id": 1107,
+            "code_insee": "15268",
+            "nom_standard": "Le Rouget-Pers",
+            "slug_ville": "le-rouget-pers",
+            "code_postal": "15290",
+            "population": 1278,
+            "superficie_km2": "8.00",
+            "latitude_centre": "44.8569984",
+            "longitude_centre": "2.2340000"
+        }
+    ]
+}

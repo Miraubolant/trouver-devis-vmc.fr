@@ -1,0 +1,423 @@
+{
+    "departement": {
+        "code": "04",
+        "nom": "Alpes-de-Haute-Provence",
+        "slug": "alpes-de-haute-provence"
+    },
+    "region": {
+        "id": 19,
+        "code": "18",
+        "nom": "Provence-Alpes-Côte d'Azur",
+        "slug": "provence-alpes-cote-d-azur"
+    },
+    "voisins": [
+        {
+            "dep_code": "05",
+            "dep_nom": "Hautes-Alpes",
+            "dep_slug": "hautes-alpes"
+        },
+        {
+            "dep_code": "06",
+            "dep_nom": "Alpes-Maritimes",
+            "dep_slug": "alpes-maritimes"
+        },
+        {
+            "dep_code": "13",
+            "dep_nom": "Bouches-du-Rhône",
+            "dep_slug": "bouches-du-rhone"
+        },
+        {
+            "dep_code": "83",
+            "dep_nom": "Var",
+            "dep_slug": "var"
+        }
+    ],
+    "villes_count": 35,
+    "villes": [
+        {
+            "id": 340,
+            "code_insee": "04001",
+            "nom_standard": "Aiglun",
+            "slug_ville": "aiglun",
+            "code_postal": "04510",
+            "population": 1413,
+            "superficie_km2": "15.00",
+            "latitude_centre": "44.0639992",
+            "longitude_centre": "6.1380000"
+        },
+        {
+            "id": 341,
+            "code_insee": "04008",
+            "nom_standard": "Annot",
+            "slug_ville": "annot",
+            "code_postal": "04240",
+            "population": 1017,
+            "superficie_km2": "30.00",
+            "latitude_centre": "43.9620018",
+            "longitude_centre": "6.6640000"
+        },
+        {
+            "id": 342,
+            "code_insee": "04018",
+            "nom_standard": "Banon",
+            "slug_ville": "banon",
+            "code_postal": "04150",
+            "population": 1065,
+            "superficie_km2": "40.00",
+            "latitude_centre": "44.0270004",
+            "longitude_centre": "5.6500001"
+        },
+        {
+            "id": 343,
+            "code_insee": "04019",
+            "nom_standard": "Barcelonnette",
+            "slug_ville": "barcelonnette",
+            "code_postal": "04400",
+            "population": 2539,
+            "superficie_km2": "17.00",
+            "latitude_centre": "44.3790016",
+            "longitude_centre": "6.6520000"
+        },
+        {
+            "id": 344,
+            "code_insee": "04034",
+            "nom_standard": "La Brillanne",
+            "slug_ville": "la-brillanne",
+            "code_postal": "04700",
+            "population": 1109,
+            "superficie_km2": "7.00",
+            "latitude_centre": "43.9319992",
+            "longitude_centre": "5.8839998"
+        },
+        {
+            "id": 345,
+            "code_insee": "04039",
+            "nom_standard": "Castellane",
+            "slug_ville": "castellane",
+            "code_postal": "04120",
+            "population": 1456,
+            "superficie_km2": "122.00",
+            "latitude_centre": "43.8450012",
+            "longitude_centre": "6.4899998"
+        },
+        {
+            "id": 346,
+            "code_insee": "04045",
+            "nom_standard": "Céreste-en-Luberon",
+            "slug_ville": "cereste-en-luberon",
+            "code_postal": "04280",
+            "population": 1194,
+            "superficie_km2": "33.00",
+            "latitude_centre": "43.8499985",
+            "longitude_centre": "5.5900002"
+        },
+        {
+            "id": 347,
+            "code_insee": "04049",
+            "nom_standard": "Château-Arnoux-Saint-Auban",
+            "slug_ville": "chateau-arnoux-saint-auban",
+            "code_postal": "04160",
+            "population": 5082,
+            "superficie_km2": "19.00",
+            "latitude_centre": "44.0859985",
+            "longitude_centre": "5.9920001"
+        },
+        {
+            "id": 348,
+            "code_insee": "04063",
+            "nom_standard": "Corbières-en-Provence",
+            "slug_ville": "corbieres-en-provence",
+            "code_postal": "04220",
+            "population": 1254,
+            "superficie_km2": "19.00",
+            "latitude_centre": "43.7610016",
+            "longitude_centre": "5.7459998"
+        },
+        {
+            "id": 349,
+            "code_insee": "04070",
+            "nom_standard": "Digne-les-Bains",
+            "slug_ville": "digne-les-bains",
+            "code_postal": "04000",
+            "population": 17192,
+            "superficie_km2": "110.00",
+            "latitude_centre": "44.0909996",
+            "longitude_centre": "6.2360001"
+        },
+        {
+            "id": 350,
+            "code_insee": "04079",
+            "nom_standard": "L'Escale",
+            "slug_ville": "l-escale",
+            "code_postal": "04160",
+            "population": 1377,
+            "superficie_km2": "20.00",
+            "latitude_centre": "44.0810013",
+            "longitude_centre": "6.0349998"
+        },
+        {
+            "id": 351,
+            "code_insee": "04088",
+            "nom_standard": "Forcalquier",
+            "slug_ville": "forcalquier",
+            "code_postal": "04300",
+            "population": 5118,
+            "superficie_km2": "43.00",
+            "latitude_centre": "43.9599991",
+            "longitude_centre": "5.7880001"
+        },
+        {
+            "id": 352,
+            "code_insee": "04094",
+            "nom_standard": "Gréoux-les-Bains",
+            "slug_ville": "greoux-les-bains",
+            "code_postal": "04800",
+            "population": 2939,
+            "superficie_km2": "70.00",
+            "latitude_centre": "43.7680016",
+            "longitude_centre": "5.8649998"
+        },
+        {
+            "id": 353,
+            "code_insee": "04096",
+            "nom_standard": "Jausiers",
+            "slug_ville": "jausiers",
+            "code_postal": "04850",
+            "population": 1140,
+            "superficie_km2": "108.00",
+            "latitude_centre": "44.3880005",
+            "longitude_centre": "6.7859998"
+        },
+        {
+            "id": 354,
+            "code_insee": "04108",
+            "nom_standard": "Malijai",
+            "slug_ville": "malijai",
+            "code_postal": "04350",
+            "population": 2002,
+            "superficie_km2": "27.00",
+            "latitude_centre": "44.0340004",
+            "longitude_centre": "6.0500002"
+        },
+        {
+            "id": 355,
+            "code_insee": "04111",
+            "nom_standard": "Mane",
+            "slug_ville": "mane",
+            "code_postal": "04300",
+            "population": 1369,
+            "superficie_km2": "22.00",
+            "latitude_centre": "43.9389992",
+            "longitude_centre": "5.7420001"
+        },
+        {
+            "id": 356,
+            "code_insee": "04112",
+            "nom_standard": "Manosque",
+            "slug_ville": "manosque",
+            "code_postal": "04100",
+            "population": 22926,
+            "superficie_km2": "57.00",
+            "latitude_centre": "43.8349991",
+            "longitude_centre": "5.7909999"
+        },
+        {
+            "id": 357,
+            "code_insee": "04116",
+            "nom_standard": "Les Mées",
+            "slug_ville": "les-mees",
+            "code_postal": "04190",
+            "population": 3884,
+            "superficie_km2": "65.00",
+            "latitude_centre": "43.9939995",
+            "longitude_centre": "5.9660001"
+        },
+        {
+            "id": 358,
+            "code_insee": "04123",
+            "nom_standard": "Mison",
+            "slug_ville": "mison",
+            "code_postal": "04200",
+            "population": 1111,
+            "superficie_km2": "32.00",
+            "latitude_centre": "44.2620010",
+            "longitude_centre": "5.8660002"
+        },
+        {
+            "id": 359,
+            "code_insee": "04143",
+            "nom_standard": "Oraison",
+            "slug_ville": "oraison",
+            "code_postal": "04700",
+            "population": 5981,
+            "superficie_km2": "39.00",
+            "latitude_centre": "43.9109993",
+            "longitude_centre": "5.9250002"
+        },
+        {
+            "id": 360,
+            "code_insee": "04145",
+            "nom_standard": "Peipin",
+            "slug_ville": "peipin",
+            "code_postal": "04200",
+            "population": 1480,
+            "superficie_km2": "13.00",
+            "latitude_centre": "44.1409988",
+            "longitude_centre": "5.9439998"
+        },
+        {
+            "id": 361,
+            "code_insee": "04149",
+            "nom_standard": "Peyruis",
+            "slug_ville": "peyruis",
+            "code_postal": "04310",
+            "population": 2804,
+            "superficie_km2": "23.00",
+            "latitude_centre": "44.0349999",
+            "longitude_centre": "5.9280000"
+        },
+        {
+            "id": 362,
+            "code_insee": "04152",
+            "nom_standard": "Pierrevert",
+            "slug_ville": "pierrevert",
+            "code_postal": "04860",
+            "population": 3941,
+            "superficie_km2": "28.00",
+            "latitude_centre": "43.8059998",
+            "longitude_centre": "5.7230001"
+        },
+        {
+            "id": 363,
+            "code_insee": "04160",
+            "nom_standard": "Reillanne",
+            "slug_ville": "reillanne",
+            "code_postal": "04110",
+            "population": 1713,
+            "superficie_km2": "39.00",
+            "latitude_centre": "43.8860016",
+            "longitude_centre": "5.6589999"
+        },
+        {
+            "id": 364,
+            "code_insee": "04166",
+            "nom_standard": "Riez",
+            "slug_ville": "riez",
+            "code_postal": "04500",
+            "population": 1643,
+            "superficie_km2": "40.00",
+            "latitude_centre": "43.8279991",
+            "longitude_centre": "6.0819998"
+        },
+        {
+            "id": 365,
+            "code_insee": "04173",
+            "nom_standard": "Saint-André-les-Alpes",
+            "slug_ville": "saint-andre-les-alpes",
+            "code_postal": "04170",
+            "population": 1023,
+            "superficie_km2": "49.00",
+            "latitude_centre": "43.9710007",
+            "longitude_centre": "6.5019999"
+        },
+        {
+            "id": 366,
+            "code_insee": "04178",
+            "nom_standard": "Saint-Étienne-les-Orgues",
+            "slug_ville": "saint-etienne-les-orgues",
+            "code_postal": "04230",
+            "population": 1305,
+            "superficie_km2": "49.00",
+            "latitude_centre": "44.0670013",
+            "longitude_centre": "5.7800002"
+        },
+        {
+            "id": 367,
+            "code_insee": "04192",
+            "nom_standard": "Saint-Michel-l'Observatoire",
+            "slug_ville": "saint-michel-l-observatoire",
+            "code_postal": "04870",
+            "population": 1226,
+            "superficie_km2": "28.00",
+            "latitude_centre": "43.9099999",
+            "longitude_centre": "5.7199998"
+        },
+        {
+            "id": 368,
+            "code_insee": "04197",
+            "nom_standard": "Sainte-Tulle",
+            "slug_ville": "sainte-tulle",
+            "code_postal": "04220",
+            "population": 3489,
+            "superficie_km2": "17.00",
+            "latitude_centre": "43.7830010",
+            "longitude_centre": "5.7729998"
+        },
+        {
+            "id": 369,
+            "code_insee": "04205",
+            "nom_standard": "Seyne",
+            "slug_ville": "seyne",
+            "code_postal": "04140",
+            "population": 1366,
+            "superficie_km2": "86.00",
+            "latitude_centre": "44.3390007",
+            "longitude_centre": "6.3850002"
+        },
+        {
+            "id": 370,
+            "code_insee": "04209",
+            "nom_standard": "Sisteron",
+            "slug_ville": "sisteron",
+            "code_postal": "04200",
+            "population": 7699,
+            "superficie_km2": "51.00",
+            "latitude_centre": "44.2000008",
+            "longitude_centre": "5.9310002"
+        },
+        {
+            "id": 371,
+            "code_insee": "04230",
+            "nom_standard": "Valensole",
+            "slug_ville": "valensole",
+            "code_postal": "04210",
+            "population": 3155,
+            "superficie_km2": "128.00",
+            "latitude_centre": "43.8380013",
+            "longitude_centre": "5.9419999"
+        },
+        {
+            "id": 372,
+            "code_insee": "04242",
+            "nom_standard": "Villeneuve",
+            "slug_ville": "villeneuve",
+            "code_postal": "04180",
+            "population": 4355,
+            "superficie_km2": "26.00",
+            "latitude_centre": "43.8959999",
+            "longitude_centre": "5.8569999"
+        },
+        {
+            "id": 373,
+            "code_insee": "04244",
+            "nom_standard": "Volonne",
+            "slug_ville": "volonne",
+            "code_postal": "04290",
+            "population": 1638,
+            "superficie_km2": "25.00",
+            "latitude_centre": "44.1240006",
+            "longitude_centre": "6.0349998"
+        },
+        {
+            "id": 374,
+            "code_insee": "04245",
+            "nom_standard": "Volx",
+            "slug_ville": "volx",
+            "code_postal": "04130",
+            "population": 3219,
+            "superficie_km2": "19.00",
+            "latitude_centre": "43.8709984",
+            "longitude_centre": "5.8319998"
+        }
+    ]
+}

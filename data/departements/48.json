@@ -1,0 +1,192 @@
+{
+    "departement": {
+        "code": "48",
+        "nom": "Lozère",
+        "slug": "lozere"
+    },
+    "region": {
+        "id": 17,
+        "code": "16",
+        "nom": "Occitanie",
+        "slug": "occitanie"
+    },
+    "voisins": [
+        {
+            "dep_code": "09",
+            "dep_nom": "Ariège",
+            "dep_slug": "ariege"
+        },
+        {
+            "dep_code": "11",
+            "dep_nom": "Aude",
+            "dep_slug": "aude"
+        },
+        {
+            "dep_code": "12",
+            "dep_nom": "Aveyron",
+            "dep_slug": "aveyron"
+        },
+        {
+            "dep_code": "30",
+            "dep_nom": "Gard",
+            "dep_slug": "gard"
+        }
+    ],
+    "villes_count": 14,
+    "villes": [
+        {
+            "id": 4686,
+            "code_insee": "48009",
+            "nom_standard": "Peyre en Aubrac",
+            "slug_ville": "peyre-en-aubrac",
+            "code_postal": "48130",
+            "population": 2300,
+            "superficie_km2": "27.00",
+            "latitude_centre": "44.7229996",
+            "longitude_centre": "3.2809999"
+        },
+        {
+            "id": 4687,
+            "code_insee": "48017",
+            "nom_standard": "Banassac-Canilhac",
+            "slug_ville": "banassac-canilhac",
+            "code_postal": "48500",
+            "population": 1072,
+            "superficie_km2": "17.00",
+            "latitude_centre": "44.4319992",
+            "longitude_centre": "3.1789999"
+        },
+        {
+            "id": 4688,
+            "code_insee": "48027",
+            "nom_standard": "Mont Lozère et Goulet",
+            "slug_ville": "mont-lozere-et-goulet",
+            "code_postal": "48190",
+            "population": 1085,
+            "superficie_km2": "17.00",
+            "latitude_centre": "44.5110016",
+            "longitude_centre": "3.7430000"
+        },
+        {
+            "id": 4689,
+            "code_insee": "48034",
+            "nom_standard": "La Canourgue",
+            "slug_ville": "la-canourgue",
+            "code_postal": "48500",
+            "population": 2099,
+            "superficie_km2": "105.00",
+            "latitude_centre": "44.4189987",
+            "longitude_centre": "3.2570000"
+        },
+        {
+            "id": 4690,
+            "code_insee": "48039",
+            "nom_standard": "Chanac",
+            "slug_ville": "chanac",
+            "code_postal": "48230",
+            "population": 1437,
+            "superficie_km2": "72.00",
+            "latitude_centre": "44.4500008",
+            "longitude_centre": "3.3450000"
+        },
+        {
+            "id": 4691,
+            "code_insee": "48061",
+            "nom_standard": "Florac Trois Rivières",
+            "slug_ville": "florac-trois-rivieres",
+            "code_postal": "48400",
+            "population": 2096,
+            "superficie_km2": "29.00",
+            "latitude_centre": "44.3160019",
+            "longitude_centre": "3.5829999"
+        },
+        {
+            "id": 4692,
+            "code_insee": "48080",
+            "nom_standard": "Langogne",
+            "slug_ville": "langogne",
+            "code_postal": "48300",
+            "population": 2867,
+            "superficie_km2": "31.00",
+            "latitude_centre": "44.7239990",
+            "longitude_centre": "3.8340001"
+        },
+        {
+            "id": 4693,
+            "code_insee": "48092",
+            "nom_standard": "Marvejols",
+            "slug_ville": "marvejols",
+            "code_postal": "48100",
+            "population": 4738,
+            "superficie_km2": "13.00",
+            "latitude_centre": "44.5579987",
+            "longitude_centre": "3.2880001"
+        },
+        {
+            "id": 4694,
+            "code_insee": "48095",
+            "nom_standard": "Mende",
+            "slug_ville": "mende",
+            "code_postal": "48000",
+            "population": 12316,
+            "superficie_km2": "37.00",
+            "latitude_centre": "44.5299988",
+            "longitude_centre": "3.4809999"
+        },
+        {
+            "id": 4695,
+            "code_insee": "48099",
+            "nom_standard": "Bourgs sur Colagne",
+            "slug_ville": "bourgs-sur-colagne",
+            "code_postal": "48100",
+            "population": 2078,
+            "superficie_km2": "19.00",
+            "latitude_centre": "44.5110016",
+            "longitude_centre": "3.2260001"
+        },
+        {
+            "id": 4696,
+            "code_insee": "48103",
+            "nom_standard": "Montrodat",
+            "slug_ville": "montrodat",
+            "code_postal": "48100",
+            "population": 1180,
+            "superficie_km2": "21.00",
+            "latitude_centre": "44.5579987",
+            "longitude_centre": "3.3299999"
+        },
+        {
+            "id": 4697,
+            "code_insee": "48127",
+            "nom_standard": "Monts-de-Randon",
+            "slug_ville": "monts-de-randon",
+            "code_postal": "48700",
+            "population": 1236,
+            "superficie_km2": "62.00",
+            "latitude_centre": "44.6240006",
+            "longitude_centre": "3.4890001"
+        },
+        {
+            "id": 4698,
+            "code_insee": "48132",
+            "nom_standard": "Saint-Alban-sur-Limagnole",
+            "slug_ville": "saint-alban-sur-limagnole",
+            "code_postal": "48120",
+            "population": 1377,
+            "superficie_km2": "51.00",
+            "latitude_centre": "44.7970009",
+            "longitude_centre": "3.4030001"
+        },
+        {
+            "id": 4699,
+            "code_insee": "48140",
+            "nom_standard": "Saint-Chély-d'Apcher",
+            "slug_ville": "saint-chely-d-apcher",
+            "code_postal": "48200",
+            "population": 4096,
+            "superficie_km2": "28.00",
+            "latitude_centre": "44.8129997",
+            "longitude_centre": "3.2750001"
+        }
+    ]
+}

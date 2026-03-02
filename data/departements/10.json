@@ -1,0 +1,544 @@
+{
+    "departement": {
+        "code": "10",
+        "nom": "Aube",
+        "slug": "aube"
+    },
+    "region": {
+        "id": 7,
+        "code": "06",
+        "nom": "Grand Est",
+        "slug": "grand-est"
+    },
+    "voisins": [
+        {
+            "dep_code": "08",
+            "dep_nom": "Ardennes",
+            "dep_slug": "ardennes"
+        },
+        {
+            "dep_code": "51",
+            "dep_nom": "Marne",
+            "dep_slug": "marne"
+        },
+        {
+            "dep_code": "52",
+            "dep_nom": "Haute-Marne",
+            "dep_slug": "haute-marne"
+        },
+        {
+            "dep_code": "54",
+            "dep_nom": "Meurthe-et-Moselle",
+            "dep_slug": "meurthe-et-moselle"
+        }
+    ],
+    "villes_count": 46,
+    "villes": [
+        {
+            "id": 651,
+            "code_insee": "10003",
+            "nom_standard": "Aix-Villemaur-Pâlis",
+            "slug_ville": "aix-villemaur-palis",
+            "code_postal": "10160",
+            "population": 3437,
+            "superficie_km2": "35.00",
+            "latitude_centre": "48.1980019",
+            "longitude_centre": "3.7360001"
+        },
+        {
+            "id": 652,
+            "code_insee": "10006",
+            "nom_standard": "Arcis-sur-Aube",
+            "slug_ville": "arcis-sur-aube",
+            "code_postal": "10700",
+            "population": 2759,
+            "superficie_km2": "9.00",
+            "latitude_centre": "48.5279999",
+            "longitude_centre": "4.1420002"
+        },
+        {
+            "id": 653,
+            "code_insee": "10030",
+            "nom_standard": "Barberey-Saint-Sulpice",
+            "slug_ville": "barberey-saint-sulpice",
+            "code_postal": "10600",
+            "population": 1563,
+            "superficie_km2": "10.00",
+            "latitude_centre": "48.3269997",
+            "longitude_centre": "4.0159998"
+        },
+        {
+            "id": 654,
+            "code_insee": "10033",
+            "nom_standard": "Bar-sur-Aube",
+            "slug_ville": "bar-sur-aube",
+            "code_postal": "10200",
+            "population": 4753,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.2340012",
+            "longitude_centre": "4.7160001"
+        },
+        {
+            "id": 655,
+            "code_insee": "10034",
+            "nom_standard": "Bar-sur-Seine",
+            "slug_ville": "bar-sur-seine",
+            "code_postal": "10110",
+            "population": 2877,
+            "superficie_km2": "28.00",
+            "latitude_centre": "48.1129990",
+            "longitude_centre": "4.3790002"
+        },
+        {
+            "id": 656,
+            "code_insee": "10051",
+            "nom_standard": "Bouilly",
+            "slug_ville": "bouilly",
+            "code_postal": "10320",
+            "population": 1076,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.1860008",
+            "longitude_centre": "3.9909999"
+        },
+        {
+            "id": 657,
+            "code_insee": "10060",
+            "nom_standard": "Bréviandes",
+            "slug_ville": "breviandes",
+            "code_postal": "10450",
+            "population": 3034,
+            "superficie_km2": "6.00",
+            "latitude_centre": "48.2560005",
+            "longitude_centre": "4.1079998"
+        },
+        {
+            "id": 658,
+            "code_insee": "10064",
+            "nom_standard": "Brienne-le-Château",
+            "slug_ville": "brienne-le-chateau",
+            "code_postal": "10500",
+            "population": 2738,
+            "superficie_km2": "22.00",
+            "latitude_centre": "48.3969994",
+            "longitude_centre": "4.5390000"
+        },
+        {
+            "id": 659,
+            "code_insee": "10067",
+            "nom_standard": "Buchères",
+            "slug_ville": "bucheres",
+            "code_postal": "10800",
+            "population": 1895,
+            "superficie_km2": "7.00",
+            "latitude_centre": "48.2360001",
+            "longitude_centre": "4.1139998"
+        },
+        {
+            "id": 660,
+            "code_insee": "10080",
+            "nom_standard": "Chaource",
+            "slug_ville": "chaource",
+            "code_postal": "10210",
+            "population": 1015,
+            "superficie_km2": "31.00",
+            "latitude_centre": "48.0550003",
+            "longitude_centre": "4.1399999"
+        },
+        {
+            "id": 661,
+            "code_insee": "10081",
+            "nom_standard": "La Chapelle-Saint-Luc",
+            "slug_ville": "la-chapelle-saint-luc",
+            "code_postal": "10600",
+            "population": 12299,
+            "superficie_km2": "10.00",
+            "latitude_centre": "48.3160019",
+            "longitude_centre": "4.0349998"
+        },
+        {
+            "id": 662,
+            "code_insee": "10084",
+            "nom_standard": "Charmont-sous-Barbuise",
+            "slug_ville": "charmont-sous-barbuise",
+            "code_postal": "10150",
+            "population": 1025,
+            "superficie_km2": "38.00",
+            "latitude_centre": "48.4150009",
+            "longitude_centre": "4.1799998"
+        },
+        {
+            "id": 663,
+            "code_insee": "10100",
+            "nom_standard": "Clérey",
+            "slug_ville": "clerey",
+            "code_postal": "10390",
+            "population": 1142,
+            "superficie_km2": "19.00",
+            "latitude_centre": "48.2080002",
+            "longitude_centre": "4.1939998"
+        },
+        {
+            "id": 664,
+            "code_insee": "10115",
+            "nom_standard": "Creney-près-Troyes",
+            "slug_ville": "creney-pres-troyes",
+            "code_postal": "10150",
+            "population": 1997,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.3429985",
+            "longitude_centre": "4.1389999"
+        },
+        {
+            "id": 665,
+            "code_insee": "10140",
+            "nom_standard": "Ervy-le-Châtel",
+            "slug_ville": "ervy-le-chatel",
+            "code_postal": "10130",
+            "population": 1113,
+            "superficie_km2": "22.00",
+            "latitude_centre": "48.0559998",
+            "longitude_centre": "3.9050000"
+        },
+        {
+            "id": 666,
+            "code_insee": "10142",
+            "nom_standard": "Estissac",
+            "slug_ville": "estissac",
+            "code_postal": "10190",
+            "population": 1830,
+            "superficie_km2": "26.00",
+            "latitude_centre": "48.2560005",
+            "longitude_centre": "3.8110001"
+        },
+        {
+            "id": 667,
+            "code_insee": "10209",
+            "nom_standard": "Lusigny-sur-Barse",
+            "slug_ville": "lusigny-sur-barse",
+            "code_postal": "10270",
+            "population": 2244,
+            "superficie_km2": "38.00",
+            "latitude_centre": "48.2630005",
+            "longitude_centre": "4.2760000"
+        },
+        {
+            "id": 668,
+            "code_insee": "10216",
+            "nom_standard": "Mailly-le-Camp",
+            "slug_ville": "mailly-le-camp",
+            "code_postal": "10230",
+            "population": 2021,
+            "superficie_km2": "43.00",
+            "latitude_centre": "48.6739998",
+            "longitude_centre": "4.1859999"
+        },
+        {
+            "id": 669,
+            "code_insee": "10220",
+            "nom_standard": "Maizières-la-Grande-Paroisse",
+            "slug_ville": "maizieres-la-grande-paroisse",
+            "code_postal": "10510",
+            "population": 1513,
+            "superficie_km2": "20.00",
+            "latitude_centre": "48.5040016",
+            "longitude_centre": "3.7890000"
+        },
+        {
+            "id": 670,
+            "code_insee": "10224",
+            "nom_standard": "Marigny-le-Châtel",
+            "slug_ville": "marigny-le-chatel",
+            "code_postal": "10350",
+            "population": 1756,
+            "superficie_km2": "20.00",
+            "latitude_centre": "48.4020004",
+            "longitude_centre": "3.7210000"
+        },
+        {
+            "id": 671,
+            "code_insee": "10233",
+            "nom_standard": "Méry-sur-Seine",
+            "slug_ville": "mery-sur-seine",
+            "code_postal": "10170",
+            "population": 1465,
+            "superficie_km2": "12.00",
+            "latitude_centre": "48.5089989",
+            "longitude_centre": "3.8989999"
+        },
+        {
+            "id": 672,
+            "code_insee": "10265",
+            "nom_standard": "Les Noës-près-Troyes",
+            "slug_ville": "les-noes-pres-troyes",
+            "code_postal": "10420",
+            "population": 3267,
+            "superficie_km2": "1.00",
+            "latitude_centre": "48.3030014",
+            "longitude_centre": "4.0419998"
+        },
+        {
+            "id": 673,
+            "code_insee": "10268",
+            "nom_standard": "Nogent-sur-Seine",
+            "slug_ville": "nogent-sur-seine",
+            "code_postal": "10400",
+            "population": 5809,
+            "superficie_km2": "20.00",
+            "latitude_centre": "48.4959984",
+            "longitude_centre": "3.5000000"
+        },
+        {
+            "id": 674,
+            "code_insee": "10282",
+            "nom_standard": "Payns",
+            "slug_ville": "payns",
+            "code_postal": "10600",
+            "population": 1384,
+            "superficie_km2": "17.00",
+            "latitude_centre": "48.3750000",
+            "longitude_centre": "3.9579999"
+        },
+        {
+            "id": 675,
+            "code_insee": "10287",
+            "nom_standard": "Piney",
+            "slug_ville": "piney",
+            "code_postal": "10220",
+            "population": 1447,
+            "superficie_km2": "72.00",
+            "latitude_centre": "48.3320007",
+            "longitude_centre": "4.3590002"
+        },
+        {
+            "id": 676,
+            "code_insee": "10297",
+            "nom_standard": "Pont-Sainte-Marie",
+            "slug_ville": "pont-sainte-marie",
+            "code_postal": "10150",
+            "population": 5143,
+            "superficie_km2": "4.00",
+            "latitude_centre": "48.3190002",
+            "longitude_centre": "4.0999999"
+        },
+        {
+            "id": 677,
+            "code_insee": "10298",
+            "nom_standard": "Pont-sur-Seine",
+            "slug_ville": "pont-sur-seine",
+            "code_postal": "10400",
+            "population": 1156,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.5089989",
+            "longitude_centre": "3.5969999"
+        },
+        {
+            "id": 678,
+            "code_insee": "10317",
+            "nom_standard": "Les Riceys",
+            "slug_ville": "les-riceys",
+            "code_postal": "10340",
+            "population": 1197,
+            "superficie_km2": "43.00",
+            "latitude_centre": "47.9879990",
+            "longitude_centre": "4.3699999"
+        },
+        {
+            "id": 679,
+            "code_insee": "10321",
+            "nom_standard": "La Rivière-de-Corps",
+            "slug_ville": "la-riviere-de-corps",
+            "code_postal": "10440",
+            "population": 3651,
+            "superficie_km2": "7.00",
+            "latitude_centre": "48.2799988",
+            "longitude_centre": "4.0139999"
+        },
+        {
+            "id": 680,
+            "code_insee": "10323",
+            "nom_standard": "Romilly-sur-Seine",
+            "slug_ville": "romilly-sur-seine",
+            "code_postal": "10100",
+            "population": 14766,
+            "superficie_km2": "25.00",
+            "latitude_centre": "48.5190010",
+            "longitude_centre": "3.7219999"
+        },
+        {
+            "id": 681,
+            "code_insee": "10325",
+            "nom_standard": "Rosières-près-Troyes",
+            "slug_ville": "rosieres-pres-troyes",
+            "code_postal": "10430",
+            "population": 4749,
+            "superficie_km2": "6.00",
+            "latitude_centre": "48.2630005",
+            "longitude_centre": "4.0640001"
+        },
+        {
+            "id": 682,
+            "code_insee": "10333",
+            "nom_standard": "Saint-André-les-Vergers",
+            "slug_ville": "saint-andre-les-vergers",
+            "code_postal": "10120",
+            "population": 12775,
+            "superficie_km2": "6.00",
+            "latitude_centre": "48.2779999",
+            "longitude_centre": "4.0479999"
+        },
+        {
+            "id": 683,
+            "code_insee": "10340",
+            "nom_standard": "Saint-Germain",
+            "slug_ville": "saint-germain",
+            "code_postal": "10120",
+            "population": 2348,
+            "superficie_km2": "14.00",
+            "latitude_centre": "48.2540016",
+            "longitude_centre": "4.0110002"
+        },
+        {
+            "id": 684,
+            "code_insee": "10343",
+            "nom_standard": "Saint-Julien-les-Villas",
+            "slug_ville": "saint-julien-les-villas",
+            "code_postal": "10800",
+            "population": 6745,
+            "superficie_km2": "5.00",
+            "latitude_centre": "48.2739983",
+            "longitude_centre": "4.1030002"
+        },
+        {
+            "id": 685,
+            "code_insee": "10349",
+            "nom_standard": "Saint-Lyé",
+            "slug_ville": "saint-lye",
+            "code_postal": "10180",
+            "population": 2870,
+            "superficie_km2": "33.00",
+            "latitude_centre": "48.3440018",
+            "longitude_centre": "3.9809999"
+        },
+        {
+            "id": 686,
+            "code_insee": "10352",
+            "nom_standard": "Sainte-Maure",
+            "slug_ville": "sainte-maure",
+            "code_postal": "10150",
+            "population": 1766,
+            "superficie_km2": "21.00",
+            "latitude_centre": "48.3569984",
+            "longitude_centre": "4.0720000"
+        },
+        {
+            "id": 687,
+            "code_insee": "10357",
+            "nom_standard": "Saint-Parres-aux-Tertres",
+            "slug_ville": "saint-parres-aux-tertres",
+            "code_postal": "10410",
+            "population": 3201,
+            "superficie_km2": "12.00",
+            "latitude_centre": "48.2910004",
+            "longitude_centre": "4.1329999"
+        },
+        {
+            "id": 688,
+            "code_insee": "10358",
+            "nom_standard": "Saint-Parres-lès-Vaudes",
+            "slug_ville": "saint-parres-les-vaudes",
+            "code_postal": "10260",
+            "population": 1066,
+            "superficie_km2": "3.00",
+            "latitude_centre": "48.1739998",
+            "longitude_centre": "4.2160001"
+        },
+        {
+            "id": 689,
+            "code_insee": "10362",
+            "nom_standard": "Sainte-Savine",
+            "slug_ville": "sainte-savine",
+            "code_postal": "10300",
+            "population": 10515,
+            "superficie_km2": "8.00",
+            "latitude_centre": "48.2960014",
+            "longitude_centre": "4.0229998"
+        },
+        {
+            "id": 690,
+            "code_insee": "10368",
+            "nom_standard": "Savières",
+            "slug_ville": "savieres",
+            "code_postal": "10600",
+            "population": 1050,
+            "superficie_km2": "18.00",
+            "latitude_centre": "48.4059982",
+            "longitude_centre": "3.9349999"
+        },
+        {
+            "id": 691,
+            "code_insee": "10381",
+            "nom_standard": "Torvilliers",
+            "slug_ville": "torvilliers",
+            "code_postal": "10440",
+            "population": 1042,
+            "superficie_km2": "12.00",
+            "latitude_centre": "48.2760010",
+            "longitude_centre": "3.9719999"
+        },
+        {
+            "id": 692,
+            "code_insee": "10382",
+            "nom_standard": "Traînel",
+            "slug_ville": "trainel",
+            "code_postal": "10400",
+            "population": 1024,
+            "superficie_km2": "20.00",
+            "latitude_centre": "48.4140015",
+            "longitude_centre": "3.4570000"
+        },
+        {
+            "id": 693,
+            "code_insee": "10387",
+            "nom_standard": "Troyes",
+            "slug_ville": "troyes",
+            "code_postal": "10000",
+            "population": 62782,
+            "superficie_km2": "13.00",
+            "latitude_centre": "48.2970009",
+            "longitude_centre": "4.0780001"
+        },
+        {
+            "id": 694,
+            "code_insee": "10401",
+            "nom_standard": "Vendeuvre-sur-Barse",
+            "slug_ville": "vendeuvre-sur-barse",
+            "code_postal": "10140",
+            "population": 2287,
+            "superficie_km2": "52.00",
+            "latitude_centre": "48.2459984",
+            "longitude_centre": "4.4610000"
+        },
+        {
+            "id": 695,
+            "code_insee": "10406",
+            "nom_standard": "Verrières",
+            "slug_ville": "verrieres",
+            "code_postal": "10390",
+            "population": 1854,
+            "superficie_km2": "10.00",
+            "latitude_centre": "48.2350006",
+            "longitude_centre": "4.1539998"
+        },
+        {
+            "id": 696,
+            "code_insee": "10420",
+            "nom_standard": "Villenauxe-la-Grande",
+            "slug_ville": "villenauxe-la-grande",
+            "code_postal": "10370",
+            "population": 2645,
+            "superficie_km2": "18.00",
+            "latitude_centre": "48.5950012",
+            "longitude_centre": "3.5480001"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "departement": {
+        "code": "973",
+        "nom": "Guyane",
+        "slug": "guyane"
+    },
+    "region": {
+        "id": 9,
+        "code": "08",
+        "nom": "Guyane",
+        "slug": "guyane"
+    },
+    "voisins": [],
+    "villes_count": 19,
+    "villes": [
+        {
+            "id": 9911,
+            "code_insee": "97301",
+            "nom_standard": "Régina",
+            "slug_ville": "regina",
+            "code_postal": "97390",
+            "population": 1655,
+            "superficie_km2": "11564.00",
+            "latitude_centre": "3.9410000",
+            "longitude_centre": "-52.5200005"
+        },
+        {
+            "id": 9912,
+            "code_insee": "97302",
+            "nom_standard": "Cayenne",
+            "slug_ville": "cayenne",
+            "code_postal": "97300",
+            "population": 63468,
+            "superficie_km2": "31.00",
+            "latitude_centre": "5.0219998",
+            "longitude_centre": "-52.5009995"
+        },
+        {
+            "id": 9913,
+            "code_insee": "97303",
+            "nom_standard": "Iracoubo",
+            "slug_ville": "iracoubo",
+            "code_postal": "97350",
+            "population": 1707,
+            "superficie_km2": "2563.00",
+            "latitude_centre": "5.2729998",
+            "longitude_centre": "-53.3209992"
+        },
+        {
+            "id": 9914,
+            "code_insee": "97304",
+            "nom_standard": "Kourou",
+            "slug_ville": "kourou",
+            "code_postal": "97310",
+            "population": 24612,
+            "superficie_km2": "2285.00",
+            "latitude_centre": "4.9340000",
+            "longitude_centre": "-52.7659988"
+        },
+        {
+            "id": 9915,
+            "code_insee": "97305",
+            "nom_standard": "Macouria",
+            "slug_ville": "macouria",
+            "code_postal": "97355",
+            "population": 18847,
+            "superficie_km2": "309.00",
+            "latitude_centre": "4.9819999",
+            "longitude_centre": "-52.5079994"
+        },
+        {
+            "id": 9916,
+            "code_insee": "97306",
+            "nom_standard": "Mana",
+            "slug_ville": "mana",
+            "code_postal": "97318",
+            "population": 11764,
+            "superficie_km2": "6708.00",
+            "latitude_centre": "4.9829998",
+            "longitude_centre": "-53.6479988"
+        },
+        {
+            "id": 9917,
+            "code_insee": "97307",
+            "nom_standard": "Matoury",
+            "slug_ville": "matoury",
+            "code_postal": "97351",
+            "population": 34810,
+            "superficie_km2": "149.00",
+            "latitude_centre": "4.8319998",
+            "longitude_centre": "-52.3440018"
+        },
+        {
+            "id": 9918,
+            "code_insee": "97308",
+            "nom_standard": "Saint-Georges",
+            "slug_ville": "saint-georges",
+            "code_postal": "97313",
+            "population": 4505,
+            "superficie_km2": "2828.00",
+            "latitude_centre": "3.7420001",
+            "longitude_centre": "-52.1320000"
+        },
+        {
+            "id": 9919,
+            "code_insee": "97309",
+            "nom_standard": "Remire-Montjoly",
+            "slug_ville": "remire-montjoly",
+            "code_postal": "97354",
+            "population": 27274,
+            "superficie_km2": "51.00",
+            "latitude_centre": "4.8839998",
+            "longitude_centre": "-52.2789993"
+        },
+        {
+            "id": 9920,
+            "code_insee": "97310",
+            "nom_standard": "Roura",
+            "slug_ville": "roura",
+            "code_postal": "97311",
+            "population": 3409,
+            "superficie_km2": "3694.00",
+            "latitude_centre": "4.4650002",
+            "longitude_centre": "-52.5130005"
+        },
+        {
+            "id": 9921,
+            "code_insee": "97311",
+            "nom_standard": "Saint-Laurent-du-Maroni",
+            "slug_ville": "saint-laurent-du-maroni",
+            "code_postal": "97320",
+            "population": 50250,
+            "superficie_km2": "4151.00",
+            "latitude_centre": "4.9650002",
+            "longitude_centre": "-53.9830017"
+        },
+        {
+            "id": 9922,
+            "code_insee": "97312",
+            "nom_standard": "Sinnamary",
+            "slug_ville": "sinnamary",
+            "code_postal": "97315",
+            "population": 2830,
+            "superficie_km2": "1294.00",
+            "latitude_centre": "5.2319999",
+            "longitude_centre": "-53.0130005"
+        },
+        {
+            "id": 9923,
+            "code_insee": "97313",
+            "nom_standard": "Montsinéry-Tonnegrande",
+            "slug_ville": "montsinery-tonnegrande",
+            "code_postal": "97356",
+            "population": 3295,
+            "superficie_km2": "626.00",
+            "latitude_centre": "4.8099999",
+            "longitude_centre": "-52.5099983"
+        },
+        {
+            "id": 9924,
+            "code_insee": "97353",
+            "nom_standard": "Maripasoula",
+            "slug_ville": "maripasoula",
+            "code_postal": "97370",
+            "population": 9177,
+            "superficie_km2": "18718.00",
+            "latitude_centre": "2.9710000",
+            "longitude_centre": "-53.7579994"
+        },
+        {
+            "id": 9925,
+            "code_insee": "97356",
+            "nom_standard": "Camopi",
+            "slug_ville": "camopi",
+            "code_postal": "97330",
+            "population": 2146,
+            "superficie_km2": "10405.00",
+            "latitude_centre": "2.8380001",
+            "longitude_centre": "-52.7960014"
+        },
+        {
+            "id": 9926,
+            "code_insee": "97357",
+            "nom_standard": "Grand-Santi",
+            "slug_ville": "grand-santi",
+            "code_postal": "97340",
+            "population": 9120,
+            "superficie_km2": "2233.00",
+            "latitude_centre": "4.3839998",
+            "longitude_centre": "-54.1720009"
+        },
+        {
+            "id": 9927,
+            "code_insee": "97360",
+            "nom_standard": "Apatou",
+            "slug_ville": "apatou",
+            "code_postal": "97317",
+            "population": 9818,
+            "superficie_km2": "2154.00",
+            "latitude_centre": "4.8299999",
+            "longitude_centre": "-54.2709999"
+        },
+        {
+            "id": 9928,
+            "code_insee": "97361",
+            "nom_standard": "Awala-Yalimapo",
+            "slug_ville": "awala-yalimapo",
+            "code_postal": "97319",
+            "population": 1516,
+            "superficie_km2": "206.00",
+            "latitude_centre": "5.6840000",
+            "longitude_centre": "-53.9160004"
+        },
+        {
+            "id": 9929,
+            "code_insee": "97362",
+            "nom_standard": "Papaichton",
+            "slug_ville": "papaichton",
+            "code_postal": "97316",
+            "population": 5606,
+            "superficie_km2": "2582.00",
+            "latitude_centre": "4.0419998",
+            "longitude_centre": "-54.0439987"
+        }
+    ]
+}

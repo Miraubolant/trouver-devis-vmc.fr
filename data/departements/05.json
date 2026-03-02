@@ -1,0 +1,302 @@
+{
+    "departement": {
+        "code": "05",
+        "nom": "Hautes-Alpes",
+        "slug": "hautes-alpes"
+    },
+    "region": {
+        "id": 19,
+        "code": "18",
+        "nom": "Provence-Alpes-Côte d'Azur",
+        "slug": "provence-alpes-cote-d-azur"
+    },
+    "voisins": [
+        {
+            "dep_code": "04",
+            "dep_nom": "Alpes-de-Haute-Provence",
+            "dep_slug": "alpes-de-haute-provence"
+        },
+        {
+            "dep_code": "06",
+            "dep_nom": "Alpes-Maritimes",
+            "dep_slug": "alpes-maritimes"
+        },
+        {
+            "dep_code": "13",
+            "dep_nom": "Bouches-du-Rhône",
+            "dep_slug": "bouches-du-rhone"
+        },
+        {
+            "dep_code": "83",
+            "dep_nom": "Var",
+            "dep_slug": "var"
+        }
+    ],
+    "villes_count": 24,
+    "villes": [
+        {
+            "id": 375,
+            "code_insee": "05006",
+            "nom_standard": "L'Argentière-la-Bessée",
+            "slug_ville": "l-argentiere-la-bessee",
+            "code_postal": "05120",
+            "population": 2267,
+            "superficie_km2": "65.00",
+            "latitude_centre": "44.7820015",
+            "longitude_centre": "6.4720001"
+        },
+        {
+            "id": 376,
+            "code_insee": "05017",
+            "nom_standard": "La Bâtie-Neuve",
+            "slug_ville": "la-batie-neuve",
+            "code_postal": "05230",
+            "population": 2595,
+            "superficie_km2": "27.00",
+            "latitude_centre": "44.5800018",
+            "longitude_centre": "6.2129998"
+        },
+        {
+            "id": 377,
+            "code_insee": "05023",
+            "nom_standard": "Briançon",
+            "slug_ville": "briancon",
+            "code_postal": "05100",
+            "population": 10561,
+            "superficie_km2": "28.00",
+            "latitude_centre": "44.9000015",
+            "longitude_centre": "6.6500001"
+        },
+        {
+            "id": 378,
+            "code_insee": "05036",
+            "nom_standard": "Châteauroux-les-Alpes",
+            "slug_ville": "chateauroux-les-alpes",
+            "code_postal": "05380",
+            "population": 1212,
+            "superficie_km2": "92.00",
+            "latitude_centre": "44.6419983",
+            "longitude_centre": "6.4829998"
+        },
+        {
+            "id": 379,
+            "code_insee": "05040",
+            "nom_standard": "Chorges",
+            "slug_ville": "chorges",
+            "code_postal": "05230",
+            "population": 3065,
+            "superficie_km2": "57.00",
+            "latitude_centre": "44.5460014",
+            "longitude_centre": "6.2880001"
+        },
+        {
+            "id": 380,
+            "code_insee": "05045",
+            "nom_standard": "Crots",
+            "slug_ville": "crots",
+            "code_postal": "05200",
+            "population": 1136,
+            "superficie_km2": "57.00",
+            "latitude_centre": "44.4959984",
+            "longitude_centre": "6.4619999"
+        },
+        {
+            "id": 381,
+            "code_insee": "05046",
+            "nom_standard": "Embrun",
+            "slug_ville": "embrun",
+            "code_postal": "05200",
+            "population": 6404,
+            "superficie_km2": "36.00",
+            "latitude_centre": "44.5800018",
+            "longitude_centre": "6.4759998"
+        },
+        {
+            "id": 382,
+            "code_insee": "05061",
+            "nom_standard": "Gap",
+            "slug_ville": "gap",
+            "code_postal": "05000",
+            "population": 40500,
+            "superficie_km2": "109.00",
+            "latitude_centre": "44.5800018",
+            "longitude_centre": "6.0650001"
+        },
+        {
+            "id": 383,
+            "code_insee": "05065",
+            "nom_standard": "Guillestre",
+            "slug_ville": "guillestre",
+            "code_postal": "05600",
+            "population": 2292,
+            "superficie_km2": "51.00",
+            "latitude_centre": "44.6679993",
+            "longitude_centre": "6.7010002"
+        },
+        {
+            "id": 384,
+            "code_insee": "05070",
+            "nom_standard": "Laragne-Montéglin",
+            "slug_ville": "laragne-monteglin",
+            "code_postal": "05300",
+            "population": 3585,
+            "superficie_km2": "23.00",
+            "latitude_centre": "44.3339996",
+            "longitude_centre": "5.8160000"
+        },
+        {
+            "id": 385,
+            "code_insee": "05079",
+            "nom_standard": "Le Monêtier-les-Bains",
+            "slug_ville": "le-monetier-les-bains",
+            "code_postal": "05220",
+            "population": 1013,
+            "superficie_km2": "135.00",
+            "latitude_centre": "44.9959984",
+            "longitude_centre": "6.4699998"
+        },
+        {
+            "id": 386,
+            "code_insee": "05101",
+            "nom_standard": "Vallouise-Pelvoux",
+            "slug_ville": "vallouise-pelvoux",
+            "code_postal": "05340",
+            "population": 1132,
+            "superficie_km2": "123.00",
+            "latitude_centre": "44.9000015",
+            "longitude_centre": "6.4359999"
+        },
+        {
+            "id": 387,
+            "code_insee": "05118",
+            "nom_standard": "Val Buëch-Méouge",
+            "slug_ville": "val-buech-meouge",
+            "code_postal": "05300",
+            "population": 1319,
+            "superficie_km2": "37.00",
+            "latitude_centre": "44.2210007",
+            "longitude_centre": "5.8429999"
+        },
+        {
+            "id": 388,
+            "code_insee": "05123",
+            "nom_standard": "La Roche-des-Arnauds",
+            "slug_ville": "la-roche-des-arnauds",
+            "code_postal": "05400",
+            "population": 1626,
+            "superficie_km2": "53.00",
+            "latitude_centre": "44.5839996",
+            "longitude_centre": "5.9600000"
+        },
+        {
+            "id": 389,
+            "code_insee": "05132",
+            "nom_standard": "Saint-Bonnet-en-Champsaur",
+            "slug_ville": "saint-bonnet-en-champsaur",
+            "code_postal": "05500",
+            "population": 2080,
+            "superficie_km2": "15.00",
+            "latitude_centre": "44.6819992",
+            "longitude_centre": "6.1030002"
+        },
+        {
+            "id": 390,
+            "code_insee": "05133",
+            "nom_standard": "Saint-Chaffrey",
+            "slug_ville": "saint-chaffrey",
+            "code_postal": "05330",
+            "population": 1515,
+            "superficie_km2": "26.00",
+            "latitude_centre": "44.9350014",
+            "longitude_centre": "6.6009998"
+        },
+        {
+            "id": 391,
+            "code_insee": "05145",
+            "nom_standard": "Saint-Jean-Saint-Nicolas",
+            "slug_ville": "saint-jean-saint-nicolas",
+            "code_postal": "05260",
+            "population": 1075,
+            "superficie_km2": "38.00",
+            "latitude_centre": "44.6739998",
+            "longitude_centre": "6.2309999"
+        },
+        {
+            "id": 392,
+            "code_insee": "05151",
+            "nom_standard": "Saint-Martin-de-Queyrières",
+            "slug_ville": "saint-martin-de-queyrieres",
+            "code_postal": "05120",
+            "population": 1125,
+            "superficie_km2": "56.00",
+            "latitude_centre": "44.8380013",
+            "longitude_centre": "6.5830002"
+        },
+        {
+            "id": 393,
+            "code_insee": "05162",
+            "nom_standard": "La Saulce",
+            "slug_ville": "la-saulce",
+            "code_postal": "05110",
+            "population": 1387,
+            "superficie_km2": "7.00",
+            "latitude_centre": "44.4300003",
+            "longitude_centre": "6.0110002"
+        },
+        {
+            "id": 394,
+            "code_insee": "05164",
+            "nom_standard": "Savines-le-Lac",
+            "slug_ville": "savines-le-lac",
+            "code_postal": "05160",
+            "population": 1095,
+            "superficie_km2": "30.00",
+            "latitude_centre": "44.5270004",
+            "longitude_centre": "6.3940001"
+        },
+        {
+            "id": 395,
+            "code_insee": "05166",
+            "nom_standard": "Serres",
+            "slug_ville": "serres",
+            "code_postal": "05700",
+            "population": 1297,
+            "superficie_km2": "18.00",
+            "latitude_centre": "44.4210014",
+            "longitude_centre": "5.7160001"
+        },
+        {
+            "id": 396,
+            "code_insee": "05170",
+            "nom_standard": "Tallard",
+            "slug_ville": "tallard",
+            "code_postal": "05130",
+            "population": 2312,
+            "superficie_km2": "15.00",
+            "latitude_centre": "44.4589996",
+            "longitude_centre": "6.0450001"
+        },
+        {
+            "id": 397,
+            "code_insee": "05179",
+            "nom_standard": "Veynes",
+            "slug_ville": "veynes",
+            "code_postal": "05400",
+            "population": 3238,
+            "superficie_km2": "44.00",
+            "latitude_centre": "44.5569992",
+            "longitude_centre": "5.8230000"
+        },
+        {
+            "id": 398,
+            "code_insee": "05183",
+            "nom_standard": "Villar-Saint-Pancrace",
+            "slug_ville": "villar-saint-pancrace",
+            "code_postal": "05100",
+            "population": 1449,
+            "superficie_km2": "43.00",
+            "latitude_centre": "44.8400002",
+            "longitude_centre": "6.6500001"
+        }
+    ]
+}

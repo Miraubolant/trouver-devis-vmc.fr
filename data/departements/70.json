@@ -1,0 +1,478 @@
+{
+    "departement": {
+        "code": "70",
+        "nom": "Haute-Saône",
+        "slug": "haute-saone"
+    },
+    "region": {
+        "id": 3,
+        "code": "02",
+        "nom": "Bourgogne-Franche-Comté",
+        "slug": "bourgogne-franche-comte"
+    },
+    "voisins": [
+        {
+            "dep_code": "21",
+            "dep_nom": "Côte-d'Or",
+            "dep_slug": "cote-d-or"
+        },
+        {
+            "dep_code": "25",
+            "dep_nom": "Doubs",
+            "dep_slug": "doubs"
+        },
+        {
+            "dep_code": "39",
+            "dep_nom": "Jura",
+            "dep_slug": "jura"
+        },
+        {
+            "dep_code": "58",
+            "dep_nom": "Nièvre",
+            "dep_slug": "nievre"
+        }
+    ],
+    "villes_count": 40,
+    "villes": [
+        {
+            "id": 7369,
+            "code_insee": "70006",
+            "nom_standard": "Aillevillers-et-Lyaumont",
+            "slug_ville": "aillevillers-et-lyaumont",
+            "code_postal": "70320",
+            "population": 1479,
+            "superficie_km2": "37.00",
+            "latitude_centre": "47.9379997",
+            "longitude_centre": "6.3319998"
+        },
+        {
+            "id": 7370,
+            "code_insee": "70026",
+            "nom_standard": "Arc-lès-Gray",
+            "slug_ville": "arc-les-gray",
+            "code_postal": "70100",
+            "population": 2451,
+            "superficie_km2": "12.00",
+            "latitude_centre": "47.4630013",
+            "longitude_centre": "5.5819998"
+        },
+        {
+            "id": 7371,
+            "code_insee": "70117",
+            "nom_standard": "Châlonvillars",
+            "slug_ville": "chalonvillars",
+            "code_postal": "70400",
+            "population": 1242,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.6380005",
+            "longitude_centre": "6.7770000"
+        },
+        {
+            "id": 7372,
+            "code_insee": "70120",
+            "nom_standard": "Champagney",
+            "slug_ville": "champagney",
+            "code_postal": "70290",
+            "population": 3700,
+            "superficie_km2": "37.00",
+            "latitude_centre": "47.6949997",
+            "longitude_centre": "6.6880002"
+        },
+        {
+            "id": 7373,
+            "code_insee": "70122",
+            "nom_standard": "Champlitte",
+            "slug_ville": "champlitte",
+            "code_postal": "70600",
+            "population": 1618,
+            "superficie_km2": "129.00",
+            "latitude_centre": "47.6320000",
+            "longitude_centre": "5.5130000"
+        },
+        {
+            "id": 7374,
+            "code_insee": "70171",
+            "nom_standard": "Corbenay",
+            "slug_ville": "corbenay",
+            "code_postal": "70320",
+            "population": 1251,
+            "superficie_km2": "16.00",
+            "latitude_centre": "47.8959999",
+            "longitude_centre": "6.3330002"
+        },
+        {
+            "id": 7375,
+            "code_insee": "70198",
+            "nom_standard": "Dampierre-sur-Salon",
+            "slug_ville": "dampierre-sur-salon",
+            "code_postal": "70180",
+            "population": 1242,
+            "superficie_km2": "19.00",
+            "latitude_centre": "47.5719986",
+            "longitude_centre": "5.6760001"
+        },
+        {
+            "id": 7376,
+            "code_insee": "70207",
+            "nom_standard": "Échenoz-la-Méline",
+            "slug_ville": "echenoz-la-meline",
+            "code_postal": "70000",
+            "population": 3225,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.5940018",
+            "longitude_centre": "6.1370001"
+        },
+        {
+            "id": 7377,
+            "code_insee": "70240",
+            "nom_standard": "Fontaine-lès-Luxeuil",
+            "slug_ville": "fontaine-les-luxeuil",
+            "code_postal": "70800",
+            "population": 1328,
+            "superficie_km2": "28.00",
+            "latitude_centre": "47.8600006",
+            "longitude_centre": "6.3350000"
+        },
+        {
+            "id": 7378,
+            "code_insee": "70245",
+            "nom_standard": "Fougerolles-Saint-Valbert",
+            "slug_ville": "fougerolles-saint-valbert",
+            "code_postal": "70300",
+            "population": 3780,
+            "superficie_km2": "51.00",
+            "latitude_centre": "47.9020004",
+            "longitude_centre": "6.4130001"
+        },
+        {
+            "id": 7379,
+            "code_insee": "70248",
+            "nom_standard": "Frahier-et-Chatebier",
+            "slug_ville": "frahier-et-chatebier",
+            "code_postal": "70400",
+            "population": 1377,
+            "superficie_km2": "17.00",
+            "latitude_centre": "47.6590004",
+            "longitude_centre": "6.7509999"
+        },
+        {
+            "id": 7380,
+            "code_insee": "70258",
+            "nom_standard": "Froideconche",
+            "slug_ville": "froideconche",
+            "code_postal": "70300",
+            "population": 1981,
+            "superficie_km2": "16.00",
+            "latitude_centre": "47.8339996",
+            "longitude_centre": "6.4190001"
+        },
+        {
+            "id": 7381,
+            "code_insee": "70261",
+            "nom_standard": "Frotey-lès-Vesoul",
+            "slug_ville": "frotey-les-vesoul",
+            "code_postal": "70000",
+            "population": 1355,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.6290016",
+            "longitude_centre": "6.1939998"
+        },
+        {
+            "id": 7382,
+            "code_insee": "70279",
+            "nom_standard": "Gray",
+            "slug_ville": "gray",
+            "code_postal": "70100",
+            "population": 5551,
+            "superficie_km2": "20.00",
+            "latitude_centre": "47.4319992",
+            "longitude_centre": "5.6110001"
+        },
+        {
+            "id": 7383,
+            "code_insee": "70282",
+            "nom_standard": "Gy",
+            "slug_ville": "gy",
+            "code_postal": "70700",
+            "population": 1001,
+            "superficie_km2": "25.00",
+            "latitude_centre": "47.4029999",
+            "longitude_centre": "5.8060002"
+        },
+        {
+            "id": 7384,
+            "code_insee": "70285",
+            "nom_standard": "Héricourt",
+            "slug_ville": "hericourt",
+            "code_postal": "70400",
+            "population": 10478,
+            "superficie_km2": "18.00",
+            "latitude_centre": "47.5699997",
+            "longitude_centre": "6.7649999"
+        },
+        {
+            "id": 7385,
+            "code_insee": "70292",
+            "nom_standard": "Jussey",
+            "slug_ville": "jussey",
+            "code_postal": "70500",
+            "population": 1542,
+            "superficie_km2": "34.00",
+            "latitude_centre": "47.8170013",
+            "longitude_centre": "5.8899999"
+        },
+        {
+            "id": 7386,
+            "code_insee": "70310",
+            "nom_standard": "Lure",
+            "slug_ville": "lure",
+            "code_postal": "70200",
+            "population": 7918,
+            "superficie_km2": "25.00",
+            "latitude_centre": "47.6850014",
+            "longitude_centre": "6.4959998"
+        },
+        {
+            "id": 7387,
+            "code_insee": "70311",
+            "nom_standard": "Luxeuil-les-Bains",
+            "slug_ville": "luxeuil-les-bains",
+            "code_postal": "70300",
+            "population": 6659,
+            "superficie_km2": "22.00",
+            "latitude_centre": "47.8240013",
+            "longitude_centre": "6.3639998"
+        },
+        {
+            "id": 7388,
+            "code_insee": "70321",
+            "nom_standard": "Magny-Vernois",
+            "slug_ville": "magny-vernois",
+            "code_postal": "70200",
+            "population": 1368,
+            "superficie_km2": "6.00",
+            "latitude_centre": "47.6679993",
+            "longitude_centre": "6.4699998"
+        },
+        {
+            "id": 7389,
+            "code_insee": "70334",
+            "nom_standard": "Marnay",
+            "slug_ville": "marnay",
+            "code_postal": "70150",
+            "population": 1525,
+            "superficie_km2": "10.00",
+            "latitude_centre": "47.2980003",
+            "longitude_centre": "5.7719998"
+        },
+        {
+            "id": 7390,
+            "code_insee": "70339",
+            "nom_standard": "Mélisey",
+            "slug_ville": "melisey",
+            "code_postal": "70270",
+            "population": 1662,
+            "superficie_km2": "21.00",
+            "latitude_centre": "47.7599983",
+            "longitude_centre": "6.5599999"
+        },
+        {
+            "id": 7391,
+            "code_insee": "70378",
+            "nom_standard": "Navenne",
+            "slug_ville": "navenne",
+            "code_postal": "70000",
+            "population": 1596,
+            "superficie_km2": "4.00",
+            "latitude_centre": "47.6030006",
+            "longitude_centre": "6.1620002"
+        },
+        {
+            "id": 7392,
+            "code_insee": "70388",
+            "nom_standard": "Noidans-lès-Vesoul",
+            "slug_ville": "noidans-les-vesoul",
+            "code_postal": "70000",
+            "population": 1976,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.6100006",
+            "longitude_centre": "6.1180000"
+        },
+        {
+            "id": 7393,
+            "code_insee": "70408",
+            "nom_standard": "Pesmes",
+            "slug_ville": "pesmes",
+            "code_postal": "70140",
+            "population": 1077,
+            "superficie_km2": "19.00",
+            "latitude_centre": "47.2919998",
+            "longitude_centre": "5.5730000"
+        },
+        {
+            "id": 7394,
+            "code_insee": "70413",
+            "nom_standard": "Plancher-Bas",
+            "slug_ville": "plancher-bas",
+            "code_postal": "70290",
+            "population": 1863,
+            "superficie_km2": "29.00",
+            "latitude_centre": "47.7229996",
+            "longitude_centre": "6.7350001"
+        },
+        {
+            "id": 7395,
+            "code_insee": "70421",
+            "nom_standard": "Port-sur-Saône",
+            "slug_ville": "port-sur-saone",
+            "code_postal": "70170",
+            "population": 2977,
+            "superficie_km2": "25.00",
+            "latitude_centre": "47.6920013",
+            "longitude_centre": "6.0330000"
+        },
+        {
+            "id": 7396,
+            "code_insee": "70428",
+            "nom_standard": "Pusey",
+            "slug_ville": "pusey",
+            "code_postal": "70000",
+            "population": 1443,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.6520004",
+            "longitude_centre": "6.1209998"
+        },
+        {
+            "id": 7397,
+            "code_insee": "70433",
+            "nom_standard": "Quincey",
+            "slug_ville": "quincey",
+            "code_postal": "70000",
+            "population": 1380,
+            "superficie_km2": "13.00",
+            "latitude_centre": "47.5919991",
+            "longitude_centre": "6.2010002"
+        },
+        {
+            "id": 7398,
+            "code_insee": "70447",
+            "nom_standard": "Rioz",
+            "slug_ville": "rioz",
+            "code_postal": "70190",
+            "population": 2420,
+            "superficie_km2": "17.00",
+            "latitude_centre": "47.4370003",
+            "longitude_centre": "6.0760002"
+        },
+        {
+            "id": 7399,
+            "code_insee": "70451",
+            "nom_standard": "Ronchamp",
+            "slug_ville": "ronchamp",
+            "code_postal": "70250",
+            "population": 2746,
+            "superficie_km2": "23.00",
+            "latitude_centre": "47.7159996",
+            "longitude_centre": "6.6350002"
+        },
+        {
+            "id": 7400,
+            "code_insee": "70455",
+            "nom_standard": "Roye",
+            "slug_ville": "roye",
+            "code_postal": "70200",
+            "population": 1482,
+            "superficie_km2": "10.00",
+            "latitude_centre": "47.6769981",
+            "longitude_centre": "6.5419998"
+        },
+        {
+            "id": 7401,
+            "code_insee": "70459",
+            "nom_standard": "Saint-Barthélemy",
+            "slug_ville": "saint-barthelemy",
+            "code_postal": "70270",
+            "population": 1095,
+            "superficie_km2": "14.00",
+            "latitude_centre": "47.7410011",
+            "longitude_centre": "6.6040001"
+        },
+        {
+            "id": 7402,
+            "code_insee": "70464",
+            "nom_standard": "Saint-Germain",
+            "slug_ville": "saint-germain",
+            "code_postal": "70200",
+            "population": 1364,
+            "superficie_km2": "14.00",
+            "latitude_centre": "47.7249985",
+            "longitude_centre": "6.5200000"
+        },
+        {
+            "id": 7403,
+            "code_insee": "70467",
+            "nom_standard": "Saint-Loup-sur-Semouse",
+            "slug_ville": "saint-loup-sur-semouse",
+            "code_postal": "70800",
+            "population": 2944,
+            "superficie_km2": "17.00",
+            "latitude_centre": "47.8790016",
+            "longitude_centre": "6.2659998"
+        },
+        {
+            "id": 7404,
+            "code_insee": "70473",
+            "nom_standard": "Saint-Sauveur",
+            "slug_ville": "saint-sauveur",
+            "code_postal": "70300",
+            "population": 1938,
+            "superficie_km2": "12.00",
+            "latitude_centre": "47.7960014",
+            "longitude_centre": "6.3950000"
+        },
+        {
+            "id": 7405,
+            "code_insee": "70482",
+            "nom_standard": "Scey-sur-Saône-et-Saint-Albin",
+            "slug_ville": "scey-sur-saone-et-saint-albin",
+            "code_postal": "70360",
+            "population": 1530,
+            "superficie_km2": "28.00",
+            "latitude_centre": "47.6800003",
+            "longitude_centre": "5.9640002"
+        },
+        {
+            "id": 7406,
+            "code_insee": "70513",
+            "nom_standard": "Vaivre-et-Montoille",
+            "slug_ville": "vaivre-et-montoille",
+            "code_postal": "70000",
+            "population": 2428,
+            "superficie_km2": "8.00",
+            "latitude_centre": "47.6339989",
+            "longitude_centre": "6.1059999"
+        },
+        {
+            "id": 7407,
+            "code_insee": "70550",
+            "nom_standard": "Vesoul",
+            "slug_ville": "vesoul",
+            "code_postal": "70000",
+            "population": 15130,
+            "superficie_km2": "9.00",
+            "latitude_centre": "47.6320000",
+            "longitude_centre": "6.1550002"
+        },
+        {
+            "id": 7408,
+            "code_insee": "70561",
+            "nom_standard": "Villersexel",
+            "slug_ville": "villersexel",
+            "code_postal": "70110",
+            "population": 1419,
+            "superficie_km2": "13.00",
+            "latitude_centre": "47.5589981",
+            "longitude_centre": "6.4289999"
+        }
+    ]
+}

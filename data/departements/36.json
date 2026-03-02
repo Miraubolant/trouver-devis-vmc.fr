@@ -1,0 +1,467 @@
+{
+    "departement": {
+        "code": "36",
+        "nom": "Indre",
+        "slug": "indre"
+    },
+    "region": {
+        "id": 5,
+        "code": "04",
+        "nom": "Centre-Val de Loire",
+        "slug": "centre-val-de-loire"
+    },
+    "voisins": [
+        {
+            "dep_code": "18",
+            "dep_nom": "Cher",
+            "dep_slug": "cher"
+        },
+        {
+            "dep_code": "28",
+            "dep_nom": "Eure-et-Loir",
+            "dep_slug": "eure-et-loir"
+        },
+        {
+            "dep_code": "37",
+            "dep_nom": "Indre-et-Loire",
+            "dep_slug": "indre-et-loire"
+        },
+        {
+            "dep_code": "41",
+            "dep_nom": "Loir-et-Cher",
+            "dep_slug": "loir-et-cher"
+        }
+    ],
+    "villes_count": 39,
+    "villes": [
+        {
+            "id": 3419,
+            "code_insee": "36001",
+            "nom_standard": "Aigurande",
+            "slug_ville": "aigurande",
+            "code_postal": "36140",
+            "population": 1359,
+            "superficie_km2": "28.00",
+            "latitude_centre": "46.4560013",
+            "longitude_centre": "1.8400000"
+        },
+        {
+            "id": 3420,
+            "code_insee": "36005",
+            "nom_standard": "Ardentes",
+            "slug_ville": "ardentes",
+            "code_postal": "36120",
+            "population": 3778,
+            "superficie_km2": "63.00",
+            "latitude_centre": "46.7360001",
+            "longitude_centre": "1.8240000"
+        },
+        {
+            "id": 3421,
+            "code_insee": "36006",
+            "nom_standard": "Argenton-sur-Creuse",
+            "slug_ville": "argenton-sur-creuse",
+            "code_postal": "36200",
+            "population": 4848,
+            "superficie_km2": "29.00",
+            "latitude_centre": "46.5789986",
+            "longitude_centre": "1.4930000"
+        },
+        {
+            "id": 3422,
+            "code_insee": "36009",
+            "nom_standard": "Arthon",
+            "slug_ville": "arthon",
+            "code_postal": "36330",
+            "population": 1219,
+            "superficie_km2": "48.00",
+            "latitude_centre": "46.6930008",
+            "longitude_centre": "1.7110000"
+        },
+        {
+            "id": 3423,
+            "code_insee": "36018",
+            "nom_standard": "Le Blanc",
+            "slug_ville": "le-blanc",
+            "code_postal": "36300",
+            "population": 6204,
+            "superficie_km2": "57.00",
+            "latitude_centre": "46.6349983",
+            "longitude_centre": "1.1000000"
+        },
+        {
+            "id": 3424,
+            "code_insee": "36031",
+            "nom_standard": "Buzançais",
+            "slug_ville": "buzancais",
+            "code_postal": "36500",
+            "population": 4504,
+            "superficie_km2": "58.00",
+            "latitude_centre": "46.8880005",
+            "longitude_centre": "1.4119999"
+        },
+        {
+            "id": 3425,
+            "code_insee": "36034",
+            "nom_standard": "Chabris",
+            "slug_ville": "chabris",
+            "code_postal": "36210",
+            "population": 2764,
+            "superficie_km2": "41.00",
+            "latitude_centre": "47.2519989",
+            "longitude_centre": "1.6619999"
+        },
+        {
+            "id": 3426,
+            "code_insee": "36035",
+            "nom_standard": "Chaillac",
+            "slug_ville": "chaillac",
+            "code_postal": "36310",
+            "population": 1049,
+            "superficie_km2": "61.00",
+            "latitude_centre": "46.4259987",
+            "longitude_centre": "1.2920001"
+        },
+        {
+            "id": 3427,
+            "code_insee": "36044",
+            "nom_standard": "Châteauroux",
+            "slug_ville": "chateauroux",
+            "code_postal": "36000",
+            "population": 42968,
+            "superficie_km2": "25.00",
+            "latitude_centre": "46.8030014",
+            "longitude_centre": "1.6940000"
+        },
+        {
+            "id": 3428,
+            "code_insee": "36045",
+            "nom_standard": "Châtillon-sur-Indre",
+            "slug_ville": "chatillon-sur-indre",
+            "code_postal": "36700",
+            "population": 2304,
+            "superficie_km2": "45.00",
+            "latitude_centre": "46.9920006",
+            "longitude_centre": "1.1750000"
+        },
+        {
+            "id": 3429,
+            "code_insee": "36046",
+            "nom_standard": "La Châtre",
+            "slug_ville": "la-chatre",
+            "code_postal": "36400",
+            "population": 4034,
+            "superficie_km2": "6.00",
+            "latitude_centre": "46.5740013",
+            "longitude_centre": "1.9910001"
+        },
+        {
+            "id": 3430,
+            "code_insee": "36063",
+            "nom_standard": "Déols",
+            "slug_ville": "deols",
+            "code_postal": "36130",
+            "population": 7625,
+            "superficie_km2": "32.00",
+            "latitude_centre": "46.8400002",
+            "longitude_centre": "1.7020000"
+        },
+        {
+            "id": 3431,
+            "code_insee": "36069",
+            "nom_standard": "Écueillé",
+            "slug_ville": "ecueille",
+            "code_postal": "36240",
+            "population": 1192,
+            "superficie_km2": "35.00",
+            "latitude_centre": "47.0769997",
+            "longitude_centre": "1.3540000"
+        },
+        {
+            "id": 3432,
+            "code_insee": "36070",
+            "nom_standard": "Éguzon-Chantôme",
+            "slug_ville": "eguzon-chantome",
+            "code_postal": "36270",
+            "population": 1317,
+            "superficie_km2": "36.00",
+            "latitude_centre": "46.4339981",
+            "longitude_centre": "1.5690000"
+        },
+        {
+            "id": 3433,
+            "code_insee": "36071",
+            "nom_standard": "Étrechet",
+            "slug_ville": "etrechet",
+            "code_postal": "36120",
+            "population": 1009,
+            "superficie_km2": "18.00",
+            "latitude_centre": "46.7929993",
+            "longitude_centre": "1.7780000"
+        },
+        {
+            "id": 3434,
+            "code_insee": "36088",
+            "nom_standard": "Issoudun",
+            "slug_ville": "issoudun",
+            "code_postal": "36100",
+            "population": 10992,
+            "superficie_km2": "37.00",
+            "latitude_centre": "46.9490013",
+            "longitude_centre": "2.0000000"
+        },
+        {
+            "id": 3435,
+            "code_insee": "36093",
+            "nom_standard": "Levroux",
+            "slug_ville": "levroux",
+            "code_postal": "36110",
+            "population": 2842,
+            "superficie_km2": "56.00",
+            "latitude_centre": "46.9729996",
+            "longitude_centre": "1.6300000"
+        },
+        {
+            "id": 3436,
+            "code_insee": "36101",
+            "nom_standard": "Luant",
+            "slug_ville": "luant",
+            "code_postal": "36350",
+            "population": 1565,
+            "superficie_km2": "31.00",
+            "latitude_centre": "46.7280006",
+            "longitude_centre": "1.5620000"
+        },
+        {
+            "id": 3437,
+            "code_insee": "36103",
+            "nom_standard": "Luçay-le-Mâle",
+            "slug_ville": "lucay-le-male",
+            "code_postal": "36360",
+            "population": 1313,
+            "superficie_km2": "68.00",
+            "latitude_centre": "47.1150017",
+            "longitude_centre": "1.4270000"
+        },
+        {
+            "id": 3438,
+            "code_insee": "36109",
+            "nom_standard": "Le Magny",
+            "slug_ville": "le-magny",
+            "code_postal": "36400",
+            "population": 1025,
+            "superficie_km2": "18.00",
+            "latitude_centre": "46.5569992",
+            "longitude_centre": "1.9590000"
+        },
+        {
+            "id": 3439,
+            "code_insee": "36127",
+            "nom_standard": "Montgivray",
+            "slug_ville": "montgivray",
+            "code_postal": "36400",
+            "population": 1556,
+            "superficie_km2": "26.00",
+            "latitude_centre": "46.5960007",
+            "longitude_centre": "1.9660000"
+        },
+        {
+            "id": 3440,
+            "code_insee": "36128",
+            "nom_standard": "Montierchaume",
+            "slug_ville": "montierchaume",
+            "code_postal": "36130",
+            "population": 1651,
+            "superficie_km2": "38.00",
+            "latitude_centre": "46.8660011",
+            "longitude_centre": "1.7780000"
+        },
+        {
+            "id": 3441,
+            "code_insee": "36140",
+            "nom_standard": "Neuvy-Pailloux",
+            "slug_ville": "neuvy-pailloux",
+            "code_postal": "36100",
+            "population": 1163,
+            "superficie_km2": "42.00",
+            "latitude_centre": "46.9039993",
+            "longitude_centre": "1.8590000"
+        },
+        {
+            "id": 3442,
+            "code_insee": "36141",
+            "nom_standard": "Neuvy-Saint-Sépulchre",
+            "slug_ville": "neuvy-saint-sepulchre",
+            "code_postal": "36230",
+            "population": 1648,
+            "superficie_km2": "35.00",
+            "latitude_centre": "46.5919991",
+            "longitude_centre": "1.8130000"
+        },
+        {
+            "id": 3443,
+            "code_insee": "36142",
+            "nom_standard": "Niherne",
+            "slug_ville": "niherne",
+            "code_postal": "36250",
+            "population": 1493,
+            "superficie_km2": "44.00",
+            "latitude_centre": "46.8019981",
+            "longitude_centre": "1.5580000"
+        },
+        {
+            "id": 3444,
+            "code_insee": "36154",
+            "nom_standard": "Le Pêchereau",
+            "slug_ville": "le-pechereau",
+            "code_postal": "36200",
+            "population": 1817,
+            "superficie_km2": "21.00",
+            "latitude_centre": "46.5849991",
+            "longitude_centre": "1.5700001"
+        },
+        {
+            "id": 3445,
+            "code_insee": "36159",
+            "nom_standard": "Le Poinçonnet",
+            "slug_ville": "le-poinconnet",
+            "code_postal": "36330",
+            "population": 5840,
+            "superficie_km2": "46.00",
+            "latitude_centre": "46.7570000",
+            "longitude_centre": "1.7300000"
+        },
+        {
+            "id": 3446,
+            "code_insee": "36165",
+            "nom_standard": "Pouligny-Saint-Pierre",
+            "slug_ville": "pouligny-saint-pierre",
+            "code_postal": "36300",
+            "population": 1022,
+            "superficie_km2": "47.00",
+            "latitude_centre": "46.6839981",
+            "longitude_centre": "1.0460000"
+        },
+        {
+            "id": 3447,
+            "code_insee": "36171",
+            "nom_standard": "Reuilly",
+            "slug_ville": "reuilly",
+            "code_postal": "36260",
+            "population": 1995,
+            "superficie_km2": "26.00",
+            "latitude_centre": "47.0800018",
+            "longitude_centre": "2.0109999"
+        },
+        {
+            "id": 3448,
+            "code_insee": "36192",
+            "nom_standard": "Saint-Gaultier",
+            "slug_ville": "saint-gaultier",
+            "code_postal": "36800",
+            "population": 1722,
+            "superficie_km2": "9.00",
+            "latitude_centre": "46.6479988",
+            "longitude_centre": "1.4299999"
+        },
+        {
+            "id": 3449,
+            "code_insee": "36199",
+            "nom_standard": "Sainte-Lizaigne",
+            "slug_ville": "sainte-lizaigne",
+            "code_postal": "36260",
+            "population": 1116,
+            "superficie_km2": "27.00",
+            "latitude_centre": "47.0110016",
+            "longitude_centre": "1.9950000"
+        },
+        {
+            "id": 3450,
+            "code_insee": "36200",
+            "nom_standard": "Saint-Marcel",
+            "slug_ville": "saint-marcel",
+            "code_postal": "36200",
+            "population": 1509,
+            "superficie_km2": "18.00",
+            "latitude_centre": "46.6080017",
+            "longitude_centre": "1.5240000"
+        },
+        {
+            "id": 3451,
+            "code_insee": "36202",
+            "nom_standard": "Saint-Maur",
+            "slug_ville": "saint-maur",
+            "code_postal": "36250",
+            "population": 3641,
+            "superficie_km2": "71.00",
+            "latitude_centre": "46.7890015",
+            "longitude_centre": "1.6230000"
+        },
+        {
+            "id": 3452,
+            "code_insee": "36224",
+            "nom_standard": "Tournon-Saint-Martin",
+            "slug_ville": "tournon-saint-martin",
+            "code_postal": "36220",
+            "population": 1119,
+            "superficie_km2": "26.00",
+            "latitude_centre": "46.7299995",
+            "longitude_centre": "0.9830000"
+        },
+        {
+            "id": 3453,
+            "code_insee": "36228",
+            "nom_standard": "Valençay",
+            "slug_ville": "valencay",
+            "code_postal": "36600",
+            "population": 2271,
+            "superficie_km2": "42.00",
+            "latitude_centre": "47.1559982",
+            "longitude_centre": "1.5590000"
+        },
+        {
+            "id": 3454,
+            "code_insee": "36230",
+            "nom_standard": "Vatan",
+            "slug_ville": "vatan",
+            "code_postal": "36150",
+            "population": 1926,
+            "superficie_km2": "30.00",
+            "latitude_centre": "47.0540009",
+            "longitude_centre": "1.8250000"
+        },
+        {
+            "id": 3455,
+            "code_insee": "36232",
+            "nom_standard": "Vendœuvres",
+            "slug_ville": "vendoeuvres",
+            "code_postal": "36500",
+            "population": 1080,
+            "superficie_km2": "99.00",
+            "latitude_centre": "46.7879982",
+            "longitude_centre": "1.3600000"
+        },
+        {
+            "id": 3456,
+            "code_insee": "36241",
+            "nom_standard": "Villedieu-sur-Indre",
+            "slug_ville": "villedieu-sur-indre",
+            "code_postal": "36320",
+            "population": 2647,
+            "superficie_km2": "58.00",
+            "latitude_centre": "46.8450012",
+            "longitude_centre": "1.5160000"
+        },
+        {
+            "id": 3457,
+            "code_insee": "36247",
+            "nom_standard": "Vineuil",
+            "slug_ville": "vineuil",
+            "code_postal": "36110",
+            "population": 1239,
+            "superficie_km2": "45.00",
+            "latitude_centre": "46.9080010",
+            "longitude_centre": "1.6540000"
+        }
+    ]
+}

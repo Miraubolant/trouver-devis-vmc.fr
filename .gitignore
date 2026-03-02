@@ -17,12 +17,3 @@ npm-debug.log*
 # Environment
 .env
 .env.local
-
-
-# Ignore massive JSON scraping data
-data/artisans/**/*.json
-data/artisans/*.json
-data/villes/**/*.json
-data/villes/*.json
-data/departements/**/*.json
-data/departements/*.json

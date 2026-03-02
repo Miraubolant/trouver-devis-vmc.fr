@@ -1,0 +1,357 @@
+{
+    "departement": {
+        "code": "55",
+        "nom": "Meuse",
+        "slug": "meuse"
+    },
+    "region": {
+        "id": 7,
+        "code": "06",
+        "nom": "Grand Est",
+        "slug": "grand-est"
+    },
+    "voisins": [
+        {
+            "dep_code": "08",
+            "dep_nom": "Ardennes",
+            "dep_slug": "ardennes"
+        },
+        {
+            "dep_code": "10",
+            "dep_nom": "Aube",
+            "dep_slug": "aube"
+        },
+        {
+            "dep_code": "51",
+            "dep_nom": "Marne",
+            "dep_slug": "marne"
+        },
+        {
+            "dep_code": "52",
+            "dep_nom": "Haute-Marne",
+            "dep_slug": "haute-marne"
+        }
+    ],
+    "villes_count": 29,
+    "villes": [
+        {
+            "id": 5207,
+            "code_insee": "55010",
+            "nom_standard": "Ancerville",
+            "slug_ville": "ancerville",
+            "code_postal": "55170",
+            "population": 2599,
+            "superficie_km2": "21.00",
+            "latitude_centre": "48.6399994",
+            "longitude_centre": "5.0240002"
+        },
+        {
+            "id": 5208,
+            "code_insee": "55029",
+            "nom_standard": "Bar-le-Duc",
+            "slug_ville": "bar-le-duc",
+            "code_postal": "55000",
+            "population": 14668,
+            "superficie_km2": "24.00",
+            "latitude_centre": "48.7639999",
+            "longitude_centre": "5.1640000"
+        },
+        {
+            "id": 5209,
+            "code_insee": "55043",
+            "nom_standard": "Belleville-sur-Meuse",
+            "slug_ville": "belleville-sur-meuse",
+            "code_postal": "55430",
+            "population": 3021,
+            "superficie_km2": "10.00",
+            "latitude_centre": "49.1800003",
+            "longitude_centre": "5.3959999"
+        },
+        {
+            "id": 5210,
+            "code_insee": "55063",
+            "nom_standard": "Bouligny",
+            "slug_ville": "bouligny",
+            "code_postal": "55240",
+            "population": 2435,
+            "superficie_km2": "11.00",
+            "latitude_centre": "49.2919998",
+            "longitude_centre": "5.7449999"
+        },
+        {
+            "id": 5211,
+            "code_insee": "55117",
+            "nom_standard": "Clermont-en-Argonne",
+            "slug_ville": "clermont-en-argonne",
+            "code_postal": "55120",
+            "population": 1438,
+            "superficie_km2": "67.00",
+            "latitude_centre": "49.1080017",
+            "longitude_centre": "5.0809999"
+        },
+        {
+            "id": 5212,
+            "code_insee": "55122",
+            "nom_standard": "Commercy",
+            "slug_ville": "commercy",
+            "code_postal": "55200",
+            "population": 5319,
+            "superficie_km2": "36.00",
+            "latitude_centre": "48.7459984",
+            "longitude_centre": "5.5560002"
+        },
+        {
+            "id": 5213,
+            "code_insee": "55132",
+            "nom_standard": "Cousances-les-Forges",
+            "slug_ville": "cousances-les-forges",
+            "code_postal": "55170",
+            "population": 1667,
+            "superficie_km2": "18.00",
+            "latitude_centre": "48.6170006",
+            "longitude_centre": "5.0850000"
+        },
+        {
+            "id": 5214,
+            "code_insee": "55154",
+            "nom_standard": "Dieue-sur-Meuse",
+            "slug_ville": "dieue-sur-meuse",
+            "code_postal": "55320",
+            "population": 1449,
+            "superficie_km2": "16.00",
+            "latitude_centre": "49.0800018",
+            "longitude_centre": "5.4299998"
+        },
+        {
+            "id": 5215,
+            "code_insee": "55166",
+            "nom_standard": "Dugny-sur-Meuse",
+            "slug_ville": "dugny-sur-meuse",
+            "code_postal": "55100",
+            "population": 1283,
+            "superficie_km2": "19.00",
+            "latitude_centre": "49.1010017",
+            "longitude_centre": "5.3740001"
+        },
+        {
+            "id": 5216,
+            "code_insee": "55181",
+            "nom_standard": "Étain",
+            "slug_ville": "etain",
+            "code_postal": "55400",
+            "population": 3473,
+            "superficie_km2": "20.00",
+            "latitude_centre": "49.2169991",
+            "longitude_centre": "5.6370001"
+        },
+        {
+            "id": 5217,
+            "code_insee": "55184",
+            "nom_standard": "Euville",
+            "slug_ville": "euville",
+            "code_postal": "55200",
+            "population": 1639,
+            "superficie_km2": "30.00",
+            "latitude_centre": "48.7439995",
+            "longitude_centre": "5.6450000"
+        },
+        {
+            "id": 5218,
+            "code_insee": "55186",
+            "nom_standard": "Fains-Véel",
+            "slug_ville": "fains-veel",
+            "code_postal": "55000",
+            "population": 2090,
+            "superficie_km2": "18.00",
+            "latitude_centre": "48.7799988",
+            "longitude_centre": "5.1129999"
+        },
+        {
+            "id": 5219,
+            "code_insee": "55215",
+            "nom_standard": "Gondrecourt-le-Château",
+            "slug_ville": "gondrecourt-le-chateau",
+            "code_postal": "55130",
+            "population": 1053,
+            "superficie_km2": "51.00",
+            "latitude_centre": "48.4930000",
+            "longitude_centre": "5.5060000"
+        },
+        {
+            "id": 5220,
+            "code_insee": "55288",
+            "nom_standard": "Lérouville",
+            "slug_ville": "lerouville",
+            "code_postal": "55200",
+            "population": 1403,
+            "superficie_km2": "14.00",
+            "latitude_centre": "48.7789993",
+            "longitude_centre": "5.5359998"
+        },
+        {
+            "id": 5221,
+            "code_insee": "55291",
+            "nom_standard": "Ligny-en-Barrois",
+            "slug_ville": "ligny-en-barrois",
+            "code_postal": "55500",
+            "population": 3803,
+            "superficie_km2": "33.00",
+            "latitude_centre": "48.6619988",
+            "longitude_centre": "5.2960000"
+        },
+        {
+            "id": 5222,
+            "code_insee": "55302",
+            "nom_standard": "Longeville-en-Barrois",
+            "slug_ville": "longeville-en-barrois",
+            "code_postal": "55000",
+            "population": 1101,
+            "superficie_km2": "15.00",
+            "latitude_centre": "48.7389984",
+            "longitude_centre": "5.2030001"
+        },
+        {
+            "id": 5223,
+            "code_insee": "55351",
+            "nom_standard": "Montmédy",
+            "slug_ville": "montmedy",
+            "code_postal": "55600",
+            "population": 2031,
+            "superficie_km2": "24.00",
+            "latitude_centre": "49.5149994",
+            "longitude_centre": "5.3720002"
+        },
+        {
+            "id": 5224,
+            "code_insee": "55398",
+            "nom_standard": "Pagny-sur-Meuse",
+            "slug_ville": "pagny-sur-meuse",
+            "code_postal": "55190",
+            "population": 1016,
+            "superficie_km2": "19.00",
+            "latitude_centre": "48.6889992",
+            "longitude_centre": "5.7329998"
+        },
+        {
+            "id": 5225,
+            "code_insee": "55427",
+            "nom_standard": "Revigny-sur-Ornain",
+            "slug_ville": "revigny-sur-ornain",
+            "code_postal": "55800",
+            "population": 2702,
+            "superficie_km2": "19.00",
+            "latitude_centre": "48.8269997",
+            "longitude_centre": "4.9770002"
+        },
+        {
+            "id": 5226,
+            "code_insee": "55463",
+            "nom_standard": "Saint-Mihiel",
+            "slug_ville": "saint-mihiel",
+            "code_postal": "55300",
+            "population": 3924,
+            "superficie_km2": "33.00",
+            "latitude_centre": "48.8909988",
+            "longitude_centre": "5.5819998"
+        },
+        {
+            "id": 5227,
+            "code_insee": "55496",
+            "nom_standard": "Sorcy-Saint-Martin",
+            "slug_ville": "sorcy-saint-martin",
+            "code_postal": "55190",
+            "population": 1049,
+            "superficie_km2": "22.00",
+            "latitude_centre": "48.7190018",
+            "longitude_centre": "5.6609998"
+        },
+        {
+            "id": 5228,
+            "code_insee": "55502",
+            "nom_standard": "Stenay",
+            "slug_ville": "stenay",
+            "code_postal": "55700",
+            "population": 2471,
+            "superficie_km2": "27.00",
+            "latitude_centre": "49.5000000",
+            "longitude_centre": "5.1980000"
+        },
+        {
+            "id": 5229,
+            "code_insee": "55505",
+            "nom_standard": "Thierville-sur-Meuse",
+            "slug_ville": "thierville-sur-meuse",
+            "code_postal": "55840",
+            "population": 3179,
+            "superficie_km2": "12.00",
+            "latitude_centre": "49.1720009",
+            "longitude_centre": "5.3390002"
+        },
+        {
+            "id": 5230,
+            "code_insee": "55519",
+            "nom_standard": "Tronville-en-Barrois",
+            "slug_ville": "tronville-en-barrois",
+            "code_postal": "55310",
+            "population": 1331,
+            "superficie_km2": "13.00",
+            "latitude_centre": "48.7200012",
+            "longitude_centre": "5.2789998"
+        },
+        {
+            "id": 5231,
+            "code_insee": "55533",
+            "nom_standard": "Vaucouleurs",
+            "slug_ville": "vaucouleurs",
+            "code_postal": "55140",
+            "population": 1923,
+            "superficie_km2": "39.00",
+            "latitude_centre": "48.6160011",
+            "longitude_centre": "5.6409998"
+        },
+        {
+            "id": 5232,
+            "code_insee": "55545",
+            "nom_standard": "Verdun",
+            "slug_ville": "verdun",
+            "code_postal": "55100",
+            "population": 16689,
+            "superficie_km2": "32.00",
+            "latitude_centre": "49.1459999",
+            "longitude_centre": "5.3610001"
+        },
+        {
+            "id": 5233,
+            "code_insee": "55551",
+            "nom_standard": "Vigneulles-lès-Hattonchâtel",
+            "slug_ville": "vigneulles-les-hattonchatel",
+            "code_postal": "55210",
+            "population": 1574,
+            "superficie_km2": "64.00",
+            "latitude_centre": "48.9860001",
+            "longitude_centre": "5.7240000"
+        },
+        {
+            "id": 5234,
+            "code_insee": "55553",
+            "nom_standard": "Vignot",
+            "slug_ville": "vignot",
+            "code_postal": "55200",
+            "population": 1288,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.7809982",
+            "longitude_centre": "5.6120000"
+        },
+        {
+            "id": 5235,
+            "code_insee": "55573",
+            "nom_standard": "Void-Vacon",
+            "slug_ville": "void-vacon",
+            "code_postal": "55190",
+            "population": 1614,
+            "superficie_km2": "36.00",
+            "latitude_centre": "48.6739998",
+            "longitude_centre": "5.6220002"
+        }
+    ]
+}

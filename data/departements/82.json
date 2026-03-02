@@ -1,0 +1,709 @@
+{
+    "departement": {
+        "code": "82",
+        "nom": "Tarn-et-Garonne",
+        "slug": "tarn-et-garonne"
+    },
+    "region": {
+        "id": 17,
+        "code": "16",
+        "nom": "Occitanie",
+        "slug": "occitanie"
+    },
+    "voisins": [
+        {
+            "dep_code": "09",
+            "dep_nom": "Ariège",
+            "dep_slug": "ariege"
+        },
+        {
+            "dep_code": "11",
+            "dep_nom": "Aude",
+            "dep_slug": "aude"
+        },
+        {
+            "dep_code": "12",
+            "dep_nom": "Aveyron",
+            "dep_slug": "aveyron"
+        },
+        {
+            "dep_code": "30",
+            "dep_nom": "Gard",
+            "dep_slug": "gard"
+        }
+    ],
+    "villes_count": 61,
+    "villes": [
+        {
+            "id": 8717,
+            "code_insee": "82002",
+            "nom_standard": "Albias",
+            "slug_ville": "albias",
+            "code_postal": "82350",
+            "population": 3305,
+            "superficie_km2": "22.00",
+            "latitude_centre": "44.0820007",
+            "longitude_centre": "1.4490000"
+        },
+        {
+            "id": 8718,
+            "code_insee": "82005",
+            "nom_standard": "Aucamville",
+            "slug_ville": "aucamville",
+            "code_postal": "82600",
+            "population": 1541,
+            "superficie_km2": "23.00",
+            "latitude_centre": "43.7960014",
+            "longitude_centre": "1.2250000"
+        },
+        {
+            "id": 8719,
+            "code_insee": "82013",
+            "nom_standard": "Beaumont-de-Lomagne",
+            "slug_ville": "beaumont-de-lomagne",
+            "code_postal": "82500",
+            "population": 3768,
+            "superficie_km2": "46.00",
+            "latitude_centre": "43.8769989",
+            "longitude_centre": "1.0110000"
+        },
+        {
+            "id": 8720,
+            "code_insee": "82017",
+            "nom_standard": "Bessens",
+            "slug_ville": "bessens",
+            "code_postal": "82170",
+            "population": 1478,
+            "superficie_km2": "10.00",
+            "latitude_centre": "43.8880005",
+            "longitude_centre": "1.2700000"
+        },
+        {
+            "id": 8721,
+            "code_insee": "82018",
+            "nom_standard": "Bioule",
+            "slug_ville": "bioule",
+            "code_postal": "82800",
+            "population": 1178,
+            "superficie_km2": "20.00",
+            "latitude_centre": "44.0989990",
+            "longitude_centre": "1.5430000"
+        },
+        {
+            "id": 8722,
+            "code_insee": "82025",
+            "nom_standard": "Bressols",
+            "slug_ville": "bressols",
+            "code_postal": "82710",
+            "population": 3729,
+            "superficie_km2": "20.00",
+            "latitude_centre": "43.9539986",
+            "longitude_centre": "1.3160000"
+        },
+        {
+            "id": 8723,
+            "code_insee": "82027",
+            "nom_standard": "Campsas",
+            "slug_ville": "campsas",
+            "code_postal": "82370",
+            "population": 1446,
+            "superficie_km2": "15.00",
+            "latitude_centre": "43.8870010",
+            "longitude_centre": "1.3290000"
+        },
+        {
+            "id": 8724,
+            "code_insee": "82031",
+            "nom_standard": "Castelmayran",
+            "slug_ville": "castelmayran",
+            "code_postal": "82210",
+            "population": 1201,
+            "superficie_km2": "16.00",
+            "latitude_centre": "44.0229988",
+            "longitude_centre": "1.0470001"
+        },
+        {
+            "id": 8725,
+            "code_insee": "82033",
+            "nom_standard": "Castelsarrasin",
+            "slug_ville": "castelsarrasin",
+            "code_postal": "82100",
+            "population": 14178,
+            "superficie_km2": "77.00",
+            "latitude_centre": "44.0489998",
+            "longitude_centre": "1.1240000"
+        },
+        {
+            "id": 8726,
+            "code_insee": "82037",
+            "nom_standard": "Caussade",
+            "slug_ville": "caussade",
+            "code_postal": "82300",
+            "population": 6804,
+            "superficie_km2": "46.00",
+            "latitude_centre": "44.1559982",
+            "longitude_centre": "1.5440000"
+        },
+        {
+            "id": 8727,
+            "code_insee": "82038",
+            "nom_standard": "Caylus",
+            "slug_ville": "caylus",
+            "code_postal": "82160",
+            "population": 1470,
+            "superficie_km2": "98.00",
+            "latitude_centre": "44.2420006",
+            "longitude_centre": "1.7539999"
+        },
+        {
+            "id": 8728,
+            "code_insee": "82042",
+            "nom_standard": "Cazes-Mondenard",
+            "slug_ville": "cazes-mondenard",
+            "code_postal": "82110",
+            "population": 1214,
+            "superficie_km2": "58.00",
+            "latitude_centre": "44.2130013",
+            "longitude_centre": "1.2150000"
+        },
+        {
+            "id": 8729,
+            "code_insee": "82044",
+            "nom_standard": "Corbarieu",
+            "slug_ville": "corbarieu",
+            "code_postal": "82370",
+            "population": 1702,
+            "superficie_km2": "13.00",
+            "latitude_centre": "43.9410019",
+            "longitude_centre": "1.3810000"
+        },
+        {
+            "id": 8730,
+            "code_insee": "82048",
+            "nom_standard": "Dieupentale",
+            "slug_ville": "dieupentale",
+            "code_postal": "82170",
+            "population": 1634,
+            "superficie_km2": "6.00",
+            "latitude_centre": "43.8689995",
+            "longitude_centre": "1.2790000"
+        },
+        {
+            "id": 8731,
+            "code_insee": "82049",
+            "nom_standard": "Donzac",
+            "slug_ville": "donzac",
+            "code_postal": "82340",
+            "population": 1035,
+            "superficie_km2": "13.00",
+            "latitude_centre": "44.1020012",
+            "longitude_centre": "0.8140000"
+        },
+        {
+            "id": 8732,
+            "code_insee": "82050",
+            "nom_standard": "Dunes",
+            "slug_ville": "dunes",
+            "code_postal": "82340",
+            "population": 1210,
+            "superficie_km2": "23.00",
+            "latitude_centre": "44.0859985",
+            "longitude_centre": "0.7740000"
+        },
+        {
+            "id": 8733,
+            "code_insee": "82052",
+            "nom_standard": "Escatalens",
+            "slug_ville": "escatalens",
+            "code_postal": "82700",
+            "population": 1115,
+            "superficie_km2": "18.00",
+            "latitude_centre": "43.9819984",
+            "longitude_centre": "1.1940000"
+        },
+        {
+            "id": 8734,
+            "code_insee": "82062",
+            "nom_standard": "Finhan",
+            "slug_ville": "finhan",
+            "code_postal": "82700",
+            "population": 1499,
+            "superficie_km2": "12.00",
+            "latitude_centre": "43.9129982",
+            "longitude_centre": "1.2190000"
+        },
+        {
+            "id": 8735,
+            "code_insee": "82072",
+            "nom_standard": "Golfech",
+            "slug_ville": "golfech",
+            "code_postal": "82400",
+            "population": 1011,
+            "superficie_km2": "10.00",
+            "latitude_centre": "44.1100006",
+            "longitude_centre": "0.8570000"
+        },
+        {
+            "id": 8736,
+            "code_insee": "82075",
+            "nom_standard": "Grisolles",
+            "slug_ville": "grisolles",
+            "code_postal": "82170",
+            "population": 4197,
+            "superficie_km2": "18.00",
+            "latitude_centre": "43.8219986",
+            "longitude_centre": "1.2869999"
+        },
+        {
+            "id": 8737,
+            "code_insee": "82076",
+            "nom_standard": "L'Honor-de-Cos",
+            "slug_ville": "l-honor-de-cos",
+            "code_postal": "82130",
+            "population": 1606,
+            "superficie_km2": "32.00",
+            "latitude_centre": "44.1170006",
+            "longitude_centre": "1.3570000"
+        },
+        {
+            "id": 8738,
+            "code_insee": "82079",
+            "nom_standard": "Labastide-Saint-Pierre",
+            "slug_ville": "labastide-saint-pierre",
+            "code_postal": "82370",
+            "population": 3792,
+            "superficie_km2": "21.00",
+            "latitude_centre": "43.9189987",
+            "longitude_centre": "1.3460000"
+        },
+        {
+            "id": 8739,
+            "code_insee": "82080",
+            "nom_standard": "Labastide-du-Temple",
+            "slug_ville": "labastide-du-temple",
+            "code_postal": "82100",
+            "population": 1143,
+            "superficie_km2": "11.00",
+            "latitude_centre": "44.0810013",
+            "longitude_centre": "1.2020000"
+        },
+        {
+            "id": 8740,
+            "code_insee": "82085",
+            "nom_standard": "Lacourt-Saint-Pierre",
+            "slug_ville": "lacourt-saint-pierre",
+            "code_postal": "82290",
+            "population": 1275,
+            "superficie_km2": "15.00",
+            "latitude_centre": "43.9889984",
+            "longitude_centre": "1.2720000"
+        },
+        {
+            "id": 8741,
+            "code_insee": "82087",
+            "nom_standard": "Lafrançaise",
+            "slug_ville": "lafrancaise",
+            "code_postal": "82130",
+            "population": 2852,
+            "superficie_km2": "50.00",
+            "latitude_centre": "44.1360016",
+            "longitude_centre": "1.2400000"
+        },
+        {
+            "id": 8742,
+            "code_insee": "82089",
+            "nom_standard": "Lamagistère",
+            "slug_ville": "lamagistere",
+            "code_postal": "82360",
+            "population": 1198,
+            "superficie_km2": "9.00",
+            "latitude_centre": "44.1320000",
+            "longitude_centre": "0.8220000"
+        },
+        {
+            "id": 8743,
+            "code_insee": "82090",
+            "nom_standard": "Lamothe-Capdeville",
+            "slug_ville": "lamothe-capdeville",
+            "code_postal": "82130",
+            "population": 1053,
+            "superficie_km2": "12.00",
+            "latitude_centre": "44.0929985",
+            "longitude_centre": "1.3900000"
+        },
+        {
+            "id": 8744,
+            "code_insee": "82094",
+            "nom_standard": "Lauzerte",
+            "slug_ville": "lauzerte",
+            "code_postal": "82110",
+            "population": 1448,
+            "superficie_km2": "45.00",
+            "latitude_centre": "44.2639999",
+            "longitude_centre": "1.1270000"
+        },
+        {
+            "id": 8745,
+            "code_insee": "82096",
+            "nom_standard": "La Ville-Dieu-du-Temple",
+            "slug_ville": "la-ville-dieu-du-temple",
+            "code_postal": "82290",
+            "population": 3251,
+            "superficie_km2": "26.00",
+            "latitude_centre": "44.0429993",
+            "longitude_centre": "1.2210000"
+        },
+        {
+            "id": 8746,
+            "code_insee": "82097",
+            "nom_standard": "Lavit",
+            "slug_ville": "lavit",
+            "code_postal": "82120",
+            "population": 1633,
+            "superficie_km2": "26.00",
+            "latitude_centre": "43.9560013",
+            "longitude_centre": "0.9250000"
+        },
+        {
+            "id": 8747,
+            "code_insee": "82098",
+            "nom_standard": "Léojac",
+            "slug_ville": "leojac",
+            "code_postal": "82230",
+            "population": 1276,
+            "superficie_km2": "13.00",
+            "latitude_centre": "44.0029984",
+            "longitude_centre": "1.4510000"
+        },
+        {
+            "id": 8748,
+            "code_insee": "82101",
+            "nom_standard": "Malause",
+            "slug_ville": "malause",
+            "code_postal": "82200",
+            "population": 1227,
+            "superficie_km2": "12.00",
+            "latitude_centre": "44.0900002",
+            "longitude_centre": "0.9720000"
+        },
+        {
+            "id": 8749,
+            "code_insee": "82105",
+            "nom_standard": "Mas-Grenier",
+            "slug_ville": "mas-grenier",
+            "code_postal": "82600",
+            "population": 1324,
+            "superficie_km2": "24.00",
+            "latitude_centre": "43.8950005",
+            "longitude_centre": "1.1810000"
+        },
+        {
+            "id": 8750,
+            "code_insee": "82108",
+            "nom_standard": "Meauzac",
+            "slug_ville": "meauzac",
+            "code_postal": "82290",
+            "population": 1424,
+            "superficie_km2": "12.00",
+            "latitude_centre": "44.0960007",
+            "longitude_centre": "1.2300000"
+        },
+        {
+            "id": 8751,
+            "code_insee": "82110",
+            "nom_standard": "Mirabel",
+            "slug_ville": "mirabel",
+            "code_postal": "82440",
+            "population": 1039,
+            "superficie_km2": "32.00",
+            "latitude_centre": "44.1419983",
+            "longitude_centre": "1.4110000"
+        },
+        {
+            "id": 8752,
+            "code_insee": "82112",
+            "nom_standard": "Moissac",
+            "slug_ville": "moissac",
+            "code_postal": "82200",
+            "population": 13748,
+            "superficie_km2": "86.00",
+            "latitude_centre": "44.1259995",
+            "longitude_centre": "1.0980001"
+        },
+        {
+            "id": 8753,
+            "code_insee": "82113",
+            "nom_standard": "Molières",
+            "slug_ville": "molieres",
+            "code_postal": "82220",
+            "population": 1245,
+            "superficie_km2": "39.00",
+            "latitude_centre": "44.1930008",
+            "longitude_centre": "1.3930000"
+        },
+        {
+            "id": 8754,
+            "code_insee": "82115",
+            "nom_standard": "Monclar-de-Quercy",
+            "slug_ville": "monclar-de-quercy",
+            "code_postal": "82230",
+            "population": 2026,
+            "superficie_km2": "38.00",
+            "latitude_centre": "43.9879990",
+            "longitude_centre": "1.5820000"
+        },
+        {
+            "id": 8755,
+            "code_insee": "82117",
+            "nom_standard": "Montaigu-de-Quercy",
+            "slug_ville": "montaigu-de-quercy",
+            "code_postal": "82150",
+            "population": 1296,
+            "superficie_km2": "77.00",
+            "latitude_centre": "44.3409996",
+            "longitude_centre": "1.0319999"
+        },
+        {
+            "id": 8756,
+            "code_insee": "82121",
+            "nom_standard": "Montauban",
+            "slug_ville": "montauban",
+            "code_postal": "82000",
+            "population": 61919,
+            "superficie_km2": "136.00",
+            "latitude_centre": "44.0219994",
+            "longitude_centre": "1.3640000"
+        },
+        {
+            "id": 8757,
+            "code_insee": "82123",
+            "nom_standard": "Montbartier",
+            "slug_ville": "montbartier",
+            "code_postal": "82700",
+            "population": 1643,
+            "superficie_km2": "15.00",
+            "latitude_centre": "43.9150009",
+            "longitude_centre": "1.2869999"
+        },
+        {
+            "id": 8758,
+            "code_insee": "82124",
+            "nom_standard": "Montbeton",
+            "slug_ville": "montbeton",
+            "code_postal": "82290",
+            "population": 4299,
+            "superficie_km2": "16.00",
+            "latitude_centre": "44.0139999",
+            "longitude_centre": "1.2700000"
+        },
+        {
+            "id": 8759,
+            "code_insee": "82125",
+            "nom_standard": "Montech",
+            "slug_ville": "montech",
+            "code_postal": "82700",
+            "population": 6650,
+            "superficie_km2": "50.00",
+            "latitude_centre": "43.9519997",
+            "longitude_centre": "1.2380000"
+        },
+        {
+            "id": 8760,
+            "code_insee": "82126",
+            "nom_standard": "Monteils",
+            "slug_ville": "monteils",
+            "code_postal": "82300",
+            "population": 1361,
+            "superficie_km2": "12.00",
+            "latitude_centre": "44.1720009",
+            "longitude_centre": "1.5650001"
+        },
+        {
+            "id": 8761,
+            "code_insee": "82131",
+            "nom_standard": "Montpezat-de-Quercy",
+            "slug_ville": "montpezat-de-quercy",
+            "code_postal": "82270",
+            "population": 1597,
+            "superficie_km2": "44.00",
+            "latitude_centre": "44.2400017",
+            "longitude_centre": "1.4740000"
+        },
+        {
+            "id": 8762,
+            "code_insee": "82132",
+            "nom_standard": "Montricoux",
+            "slug_ville": "montricoux",
+            "code_postal": "82800",
+            "population": 1172,
+            "superficie_km2": "26.00",
+            "latitude_centre": "44.1040001",
+            "longitude_centre": "1.6240000"
+        },
+        {
+            "id": 8763,
+            "code_insee": "82134",
+            "nom_standard": "Nègrepelisse",
+            "slug_ville": "negrepelisse",
+            "code_postal": "82800",
+            "population": 5743,
+            "superficie_km2": "49.00",
+            "latitude_centre": "44.0629997",
+            "longitude_centre": "1.5280000"
+        },
+        {
+            "id": 8764,
+            "code_insee": "82135",
+            "nom_standard": "Nohic",
+            "slug_ville": "nohic",
+            "code_postal": "82370",
+            "population": 1385,
+            "superficie_km2": "13.00",
+            "latitude_centre": "43.8880005",
+            "longitude_centre": "1.4380000"
+        },
+        {
+            "id": 8765,
+            "code_insee": "82136",
+            "nom_standard": "Orgueil",
+            "slug_ville": "orgueil",
+            "code_postal": "82370",
+            "population": 1721,
+            "superficie_km2": "14.00",
+            "latitude_centre": "43.8989983",
+            "longitude_centre": "1.3970000"
+        },
+        {
+            "id": 8766,
+            "code_insee": "82142",
+            "nom_standard": "Pompignan",
+            "slug_ville": "pompignan",
+            "code_postal": "82170",
+            "population": 1721,
+            "superficie_km2": "12.00",
+            "latitude_centre": "43.8199997",
+            "longitude_centre": "1.3290000"
+        },
+        {
+            "id": 8767,
+            "code_insee": "82149",
+            "nom_standard": "Réalville",
+            "slug_ville": "realville",
+            "code_postal": "82440",
+            "population": 1863,
+            "superficie_km2": "25.00",
+            "latitude_centre": "44.1279984",
+            "longitude_centre": "1.4809999"
+        },
+        {
+            "id": 8768,
+            "code_insee": "82155",
+            "nom_standard": "Saint-Antonin-Noble-Val",
+            "slug_ville": "saint-antonin-noble-val",
+            "code_postal": "82140",
+            "population": 1918,
+            "superficie_km2": "106.00",
+            "latitude_centre": "44.1559982",
+            "longitude_centre": "1.7359999"
+        },
+        {
+            "id": 8769,
+            "code_insee": "82161",
+            "nom_standard": "Saint-Étienne-de-Tulmont",
+            "slug_ville": "saint-etienne-de-tulmont",
+            "code_postal": "82410",
+            "population": 4029,
+            "superficie_km2": "21.00",
+            "latitude_centre": "44.0449982",
+            "longitude_centre": "1.4570000"
+        },
+        {
+            "id": 8770,
+            "code_insee": "82167",
+            "nom_standard": "Saint-Nauphary",
+            "slug_ville": "saint-nauphary",
+            "code_postal": "82370",
+            "population": 1921,
+            "superficie_km2": "25.00",
+            "latitude_centre": "43.9589996",
+            "longitude_centre": "1.4490000"
+        },
+        {
+            "id": 8771,
+            "code_insee": "82169",
+            "nom_standard": "Saint-Nicolas-de-la-Grave",
+            "slug_ville": "saint-nicolas-de-la-grave",
+            "code_postal": "82210",
+            "population": 2293,
+            "superficie_km2": "29.00",
+            "latitude_centre": "44.0660019",
+            "longitude_centre": "1.0200000"
+        },
+        {
+            "id": 8772,
+            "code_insee": "82171",
+            "nom_standard": "Saint-Porquier",
+            "slug_ville": "saint-porquier",
+            "code_postal": "82700",
+            "population": 1362,
+            "superficie_km2": "16.00",
+            "latitude_centre": "44.0079994",
+            "longitude_centre": "1.1820000"
+        },
+        {
+            "id": 8773,
+            "code_insee": "82173",
+            "nom_standard": "Saint-Sardos",
+            "slug_ville": "saint-sardos",
+            "code_postal": "82600",
+            "population": 1151,
+            "superficie_km2": "27.00",
+            "latitude_centre": "43.9020004",
+            "longitude_centre": "1.1240000"
+        },
+        {
+            "id": 8774,
+            "code_insee": "82179",
+            "nom_standard": "Septfonds",
+            "slug_ville": "septfonds",
+            "code_postal": "82240",
+            "population": 2248,
+            "superficie_km2": "27.00",
+            "latitude_centre": "44.1769981",
+            "longitude_centre": "1.6170000"
+        },
+        {
+            "id": 8775,
+            "code_insee": "82186",
+            "nom_standard": "Valence",
+            "slug_ville": "valence",
+            "code_postal": "82400",
+            "population": 5256,
+            "superficie_km2": "14.00",
+            "latitude_centre": "44.1069984",
+            "longitude_centre": "0.8980000"
+        },
+        {
+            "id": 8776,
+            "code_insee": "82190",
+            "nom_standard": "Verdun-sur-Garonne",
+            "slug_ville": "verdun-sur-garonne",
+            "code_postal": "82600",
+            "population": 4866,
+            "superficie_km2": "40.00",
+            "latitude_centre": "43.8489990",
+            "longitude_centre": "1.2280000"
+        },
+        {
+            "id": 8777,
+            "code_insee": "82194",
+            "nom_standard": "Villebrumier",
+            "slug_ville": "villebrumier",
+            "code_postal": "82370",
+            "population": 1356,
+            "superficie_km2": "11.00",
+            "latitude_centre": "43.9199982",
+            "longitude_centre": "1.4510000"
+        }
+    ]
+}

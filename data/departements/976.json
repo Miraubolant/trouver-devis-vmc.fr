@@ -1,0 +1,204 @@
+{
+    "departement": {
+        "code": "976",
+        "nom": "Mayotte",
+        "slug": "mayotte"
+    },
+    "region": {
+        "id": 14,
+        "code": "13",
+        "nom": "Mayotte",
+        "slug": "mayotte"
+    },
+    "voisins": [],
+    "villes_count": 17,
+    "villes": [
+        {
+            "id": 9954,
+            "code_insee": "97601",
+            "nom_standard": "Acoua",
+            "slug_ville": "acoua",
+            "code_postal": "97630",
+            "population": 5192,
+            "superficie_km2": "13.00",
+            "latitude_centre": "-12.7240000",
+            "longitude_centre": "45.0690002"
+        },
+        {
+            "id": 9955,
+            "code_insee": "97602",
+            "nom_standard": "Bandraboua",
+            "slug_ville": "bandraboua",
+            "code_postal": "97650",
+            "population": 13989,
+            "superficie_km2": "31.00",
+            "latitude_centre": "-12.7229996",
+            "longitude_centre": "45.1180000"
+        },
+        {
+            "id": 9956,
+            "code_insee": "97603",
+            "nom_standard": "Bandrele",
+            "slug_ville": "bandrele",
+            "code_postal": "97660",
+            "population": 10282,
+            "superficie_km2": "35.00",
+            "latitude_centre": "-12.9300003",
+            "longitude_centre": "45.1780014"
+        },
+        {
+            "id": 9957,
+            "code_insee": "97604",
+            "nom_standard": "Bouéni",
+            "slug_ville": "boueni",
+            "code_postal": "97620",
+            "population": 6189,
+            "superficie_km2": "14.00",
+            "latitude_centre": "-12.9239998",
+            "longitude_centre": "45.0979996"
+        },
+        {
+            "id": 9958,
+            "code_insee": "97605",
+            "nom_standard": "Chiconi",
+            "slug_ville": "chiconi",
+            "code_postal": "97670",
+            "population": 8295,
+            "superficie_km2": "8.00",
+            "latitude_centre": "-12.8219996",
+            "longitude_centre": "45.1129990"
+        },
+        {
+            "id": 9959,
+            "code_insee": "97606",
+            "nom_standard": "Chirongui",
+            "slug_ville": "chirongui",
+            "code_postal": "97620",
+            "population": 8920,
+            "superficie_km2": "26.00",
+            "latitude_centre": "-12.9200001",
+            "longitude_centre": "45.1479988"
+        },
+        {
+            "id": 9960,
+            "code_insee": "97607",
+            "nom_standard": "Dembeni",
+            "slug_ville": "dembeni",
+            "code_postal": "97660",
+            "population": 15848,
+            "superficie_km2": "38.00",
+            "latitude_centre": "-12.8529997",
+            "longitude_centre": "45.1759987"
+        },
+        {
+            "id": 9961,
+            "code_insee": "97608",
+            "nom_standard": "Dzaoudzi",
+            "slug_ville": "dzaoudzi",
+            "code_postal": "97615",
+            "population": 17831,
+            "superficie_km2": "6.00",
+            "latitude_centre": "-12.7790003",
+            "longitude_centre": "45.2820015"
+        },
+        {
+            "id": 9962,
+            "code_insee": "97609",
+            "nom_standard": "Kani-Kéli",
+            "slug_ville": "kani-keli",
+            "code_postal": "97625",
+            "population": 5507,
+            "superficie_km2": "20.00",
+            "latitude_centre": "-12.9720001",
+            "longitude_centre": "45.1250000"
+        },
+        {
+            "id": 9963,
+            "code_insee": "97610",
+            "nom_standard": "Koungou",
+            "slug_ville": "koungou",
+            "code_postal": "97600",
+            "population": 32156,
+            "superficie_km2": "28.00",
+            "latitude_centre": "-12.7469997",
+            "longitude_centre": "45.1870003"
+        },
+        {
+            "id": 9964,
+            "code_insee": "97611",
+            "nom_standard": "Mamoudzou",
+            "slug_ville": "mamoudzou",
+            "code_postal": "97600",
+            "population": 71437,
+            "superficie_km2": "42.00",
+            "latitude_centre": "-12.7900000",
+            "longitude_centre": "45.1930008"
+        },
+        {
+            "id": 9965,
+            "code_insee": "97612",
+            "nom_standard": "Mtsamboro",
+            "slug_ville": "mtsamboro",
+            "code_postal": "97630",
+            "population": 7705,
+            "superficie_km2": "16.00",
+            "latitude_centre": "-12.6879997",
+            "longitude_centre": "45.0740013"
+        },
+        {
+            "id": 9966,
+            "code_insee": "97613",
+            "nom_standard": "M'Tsangamouji",
+            "slug_ville": "m-tsangamouji",
+            "code_postal": "97650",
+            "population": 6432,
+            "superficie_km2": "22.00",
+            "latitude_centre": "-12.7510004",
+            "longitude_centre": "45.0870018"
+        },
+        {
+            "id": 9967,
+            "code_insee": "97614",
+            "nom_standard": "Ouangani",
+            "slug_ville": "ouangani",
+            "code_postal": "97670",
+            "population": 10203,
+            "superficie_km2": "18.00",
+            "latitude_centre": "-12.8369999",
+            "longitude_centre": "45.1380005"
+        },
+        {
+            "id": 9968,
+            "code_insee": "97615",
+            "nom_standard": "Pamandzi",
+            "slug_ville": "pamandzi",
+            "code_postal": "97615",
+            "population": 11442,
+            "superficie_km2": "4.00",
+            "latitude_centre": "-12.7959995",
+            "longitude_centre": "45.2840004"
+        },
+        {
+            "id": 9969,
+            "code_insee": "97616",
+            "nom_standard": "Sada",
+            "slug_ville": "sada",
+            "code_postal": "97640",
+            "population": 11156,
+            "superficie_km2": "11.00",
+            "latitude_centre": "-12.8610001",
+            "longitude_centre": "45.1189995"
+        },
+        {
+            "id": 9970,
+            "code_insee": "97617",
+            "nom_standard": "Tsingoni",
+            "slug_ville": "tsingoni",
+            "code_postal": "97680",
+            "population": 13934,
+            "superficie_km2": "34.00",
+            "latitude_centre": "-12.7819996",
+            "longitude_centre": "45.1339989"
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "departement": {
+        "code": "52",
+        "nom": "Haute-Marne",
+        "slug": "haute-marne"
+    },
+    "region": {
+        "id": 7,
+        "code": "06",
+        "nom": "Grand Est",
+        "slug": "grand-est"
+    },
+    "voisins": [
+        {
+            "dep_code": "08",
+            "dep_nom": "Ardennes",
+            "dep_slug": "ardennes"
+        },
+        {
+            "dep_code": "10",
+            "dep_nom": "Aube",
+            "dep_slug": "aube"
+        },
+        {
+            "dep_code": "51",
+            "dep_nom": "Marne",
+            "dep_slug": "marne"
+        },
+        {
+            "dep_code": "54",
+            "dep_nom": "Meurthe-et-Moselle",
+            "dep_slug": "meurthe-et-moselle"
+        }
+    ],
+    "villes_count": 27,
+    "villes": [
+        {
+            "id": 4988,
+            "code_insee": "52045",
+            "nom_standard": "Bettancourt-la-Ferrée",
+            "slug_ville": "bettancourt-la-ferree",
+            "code_postal": "52100",
+            "population": 1795,
+            "superficie_km2": "5.00",
+            "latitude_centre": "48.6559982",
+            "longitude_centre": "4.9730001"
+        },
+        {
+            "id": 4989,
+            "code_insee": "52050",
+            "nom_standard": "Biesles",
+            "slug_ville": "biesles",
+            "code_postal": "52340",
+            "population": 1325,
+            "superficie_km2": "24.00",
+            "latitude_centre": "48.1030006",
+            "longitude_centre": "5.2859998"
+        },
+        {
+            "id": 4990,
+            "code_insee": "52058",
+            "nom_standard": "Bologne",
+            "slug_ville": "bologne",
+            "code_postal": "52310",
+            "population": 1821,
+            "superficie_km2": "31.00",
+            "latitude_centre": "48.1990013",
+            "longitude_centre": "5.1420002"
+        },
+        {
+            "id": 4991,
+            "code_insee": "52060",
+            "nom_standard": "Bourbonne-les-Bains",
+            "slug_ville": "bourbonne-les-bains",
+            "code_postal": "52400",
+            "population": 1969,
+            "superficie_km2": "65.00",
+            "latitude_centre": "47.9440002",
+            "longitude_centre": "5.7420001"
+        },
+        {
+            "id": 4992,
+            "code_insee": "52093",
+            "nom_standard": "Chalindrey",
+            "slug_ville": "chalindrey",
+            "code_postal": "52600",
+            "population": 2377,
+            "superficie_km2": "20.00",
+            "latitude_centre": "47.7929993",
+            "longitude_centre": "5.4429998"
+        },
+        {
+            "id": 4993,
+            "code_insee": "52104",
+            "nom_standard": "Chancenay",
+            "slug_ville": "chancenay",
+            "code_postal": "52100",
+            "population": 1016,
+            "superficie_km2": "10.00",
+            "latitude_centre": "48.6749992",
+            "longitude_centre": "4.9800000"
+        },
+        {
+            "id": 4994,
+            "code_insee": "52114",
+            "nom_standard": "Châteauvillain",
+            "slug_ville": "chateauvillain",
+            "code_postal": "52120",
+            "population": 1543,
+            "superficie_km2": "107.00",
+            "latitude_centre": "48.0289993",
+            "longitude_centre": "4.9320002"
+        },
+        {
+            "id": 4995,
+            "code_insee": "52121",
+            "nom_standard": "Chaumont",
+            "slug_ville": "chaumont",
+            "code_postal": "52000",
+            "population": 21699,
+            "superficie_km2": "55.00",
+            "latitude_centre": "48.0979996",
+            "longitude_centre": "5.1409998"
+        },
+        {
+            "id": 4996,
+            "code_insee": "52123",
+            "nom_standard": "Chevillon",
+            "slug_ville": "chevillon",
+            "code_postal": "52170",
+            "population": 1312,
+            "superficie_km2": "37.00",
+            "latitude_centre": "48.5309982",
+            "longitude_centre": "5.1440001"
+        },
+        {
+            "id": 4997,
+            "code_insee": "52125",
+            "nom_standard": "Chamarandes-Choignes",
+            "slug_ville": "chamarandes-choignes",
+            "code_postal": "52000",
+            "population": 1029,
+            "superficie_km2": "19.00",
+            "latitude_centre": "48.1020012",
+            "longitude_centre": "5.1900001"
+        },
+        {
+            "id": 4998,
+            "code_insee": "52182",
+            "nom_standard": "Éclaron-Braucourt-Sainte-Livière",
+            "slug_ville": "eclaron-braucourt-sainte-liviere",
+            "code_postal": "52290",
+            "population": 2014,
+            "superficie_km2": "59.00",
+            "latitude_centre": "48.5750008",
+            "longitude_centre": "4.8319998"
+        },
+        {
+            "id": 4999,
+            "code_insee": "52194",
+            "nom_standard": "Eurville-Bienville",
+            "slug_ville": "eurville-bienville",
+            "code_postal": "52410",
+            "population": 2029,
+            "superficie_km2": "21.00",
+            "latitude_centre": "48.5779991",
+            "longitude_centre": "5.0300002"
+        },
+        {
+            "id": 5000,
+            "code_insee": "52197",
+            "nom_standard": "Fayl-Billot",
+            "slug_ville": "fayl-billot",
+            "code_postal": "52500",
+            "population": 1284,
+            "superficie_km2": "43.00",
+            "latitude_centre": "47.7869988",
+            "longitude_centre": "5.6050000"
+        },
+        {
+            "id": 5001,
+            "code_insee": "52211",
+            "nom_standard": "Froncles",
+            "slug_ville": "froncles",
+            "code_postal": "52320",
+            "population": 1387,
+            "superficie_km2": "20.00",
+            "latitude_centre": "48.2999992",
+            "longitude_centre": "5.1399999"
+        },
+        {
+            "id": 5002,
+            "code_insee": "52250",
+            "nom_standard": "Joinville",
+            "slug_ville": "joinville",
+            "code_postal": "52300",
+            "population": 2972,
+            "superficie_km2": "19.00",
+            "latitude_centre": "48.4339981",
+            "longitude_centre": "5.1230001"
+        },
+        {
+            "id": 5003,
+            "code_insee": "52265",
+            "nom_standard": "Bayard-sur-Marne",
+            "slug_ville": "bayard-sur-marne",
+            "code_postal": "52170",
+            "population": 1277,
+            "superficie_km2": "15.00",
+            "latitude_centre": "48.5499992",
+            "longitude_centre": "5.0689998"
+        },
+        {
+            "id": 5004,
+            "code_insee": "52269",
+            "nom_standard": "Langres",
+            "slug_ville": "langres",
+            "code_postal": "52200",
+            "population": 7697,
+            "superficie_km2": "23.00",
+            "latitude_centre": "47.8590012",
+            "longitude_centre": "5.3390002"
+        },
+        {
+            "id": 5005,
+            "code_insee": "52331",
+            "nom_standard": "La Porte du Der",
+            "slug_ville": "la-porte-du-der",
+            "code_postal": "52220",
+            "population": 2169,
+            "superficie_km2": "28.00",
+            "latitude_centre": "48.4879990",
+            "longitude_centre": "4.7870002"
+        },
+        {
+            "id": 5006,
+            "code_insee": "52332",
+            "nom_standard": "Val-de-Meuse",
+            "slug_ville": "val-de-meuse",
+            "code_postal": "52140",
+            "population": 1813,
+            "superficie_km2": "77.00",
+            "latitude_centre": "48.0070000",
+            "longitude_centre": "5.5339999"
+        },
+        {
+            "id": 5007,
+            "code_insee": "52353",
+            "nom_standard": "Nogent",
+            "slug_ville": "nogent",
+            "code_postal": "52800",
+            "population": 3548,
+            "superficie_km2": "55.00",
+            "latitude_centre": "48.0379982",
+            "longitude_centre": "5.3649998"
+        },
+        {
+            "id": 5008,
+            "code_insee": "52405",
+            "nom_standard": "Le Montsaugeonnais",
+            "slug_ville": "le-montsaugeonnais",
+            "code_postal": "52190",
+            "population": 1139,
+            "superficie_km2": "12.00",
+            "latitude_centre": "47.6879997",
+            "longitude_centre": "5.2919998"
+        },
+        {
+            "id": 5009,
+            "code_insee": "52411",
+            "nom_standard": "Rives Dervoises",
+            "slug_ville": "rives-dervoises",
+            "code_postal": "52220",
+            "population": 1314,
+            "superficie_km2": "16.00",
+            "latitude_centre": "48.4889984",
+            "longitude_centre": "4.6869998"
+        },
+        {
+            "id": 5010,
+            "code_insee": "52432",
+            "nom_standard": "Rolampont",
+            "slug_ville": "rolampont",
+            "code_postal": "52260",
+            "population": 1380,
+            "superficie_km2": "49.00",
+            "latitude_centre": "47.9510002",
+            "longitude_centre": "5.3090000"
+        },
+        {
+            "id": 5011,
+            "code_insee": "52448",
+            "nom_standard": "Saint-Dizier",
+            "slug_ville": "saint-dizier",
+            "code_postal": "52100",
+            "population": 23068,
+            "superficie_km2": "48.00",
+            "latitude_centre": "48.6279984",
+            "longitude_centre": "4.9489999"
+        },
+        {
+            "id": 5012,
+            "code_insee": "52449",
+            "nom_standard": "Saints-Geosmes",
+            "slug_ville": "saints-geosmes",
+            "code_postal": "52200",
+            "population": 1096,
+            "superficie_km2": "15.00",
+            "latitude_centre": "47.8279991",
+            "longitude_centre": "5.3169999"
+        },
+        {
+            "id": 5013,
+            "code_insee": "52534",
+            "nom_standard": "Villiers-en-Lieu",
+            "slug_ville": "villiers-en-lieu",
+            "code_postal": "52100",
+            "population": 1476,
+            "superficie_km2": "13.00",
+            "latitude_centre": "48.6679993",
+            "longitude_centre": "4.9060001"
+        },
+        {
+            "id": 5014,
+            "code_insee": "52550",
+            "nom_standard": "Wassy",
+            "slug_ville": "wassy",
+            "code_postal": "52130",
+            "population": 2777,
+            "superficie_km2": "34.00",
+            "latitude_centre": "48.5000000",
+            "longitude_centre": "4.9310002"
+        }
+    ]
+}

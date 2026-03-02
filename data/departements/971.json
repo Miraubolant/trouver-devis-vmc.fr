@@ -1,0 +1,358 @@
+{
+    "departement": {
+        "code": "971",
+        "nom": "Guadeloupe",
+        "slug": "guadeloupe"
+    },
+    "region": {
+        "id": 8,
+        "code": "07",
+        "nom": "Guadeloupe",
+        "slug": "guadeloupe"
+    },
+    "voisins": [],
+    "villes_count": 31,
+    "villes": [
+        {
+            "id": 9848,
+            "code_insee": "97101",
+            "nom_standard": "Les Abymes",
+            "slug_ville": "les-abymes",
+            "code_postal": "97142",
+            "population": 52118,
+            "superficie_km2": "70.00",
+            "latitude_centre": "16.2730007",
+            "longitude_centre": "-61.5019989"
+        },
+        {
+            "id": 9849,
+            "code_insee": "97102",
+            "nom_standard": "Anse-Bertrand",
+            "slug_ville": "anse-bertrand",
+            "code_postal": "97121",
+            "population": 4052,
+            "superficie_km2": "64.00",
+            "latitude_centre": "16.4659996",
+            "longitude_centre": "-61.4620018"
+        },
+        {
+            "id": 9850,
+            "code_insee": "97103",
+            "nom_standard": "Baie-Mahault",
+            "slug_ville": "baie-mahault",
+            "code_postal": "97122",
+            "population": 30909,
+            "superficie_km2": "47.00",
+            "latitude_centre": "16.2509995",
+            "longitude_centre": "-61.5929985"
+        },
+        {
+            "id": 9851,
+            "code_insee": "97104",
+            "nom_standard": "Baillif",
+            "slug_ville": "baillif",
+            "code_postal": "97123",
+            "population": 5035,
+            "superficie_km2": "24.00",
+            "latitude_centre": "16.0459995",
+            "longitude_centre": "-61.7190018"
+        },
+        {
+            "id": 9852,
+            "code_insee": "97105",
+            "nom_standard": "Basse-Terre",
+            "slug_ville": "basse-terre",
+            "code_postal": "97100",
+            "population": 9779,
+            "superficie_km2": "4.00",
+            "latitude_centre": "16.0000000",
+            "longitude_centre": "-61.7280006"
+        },
+        {
+            "id": 9853,
+            "code_insee": "97106",
+            "nom_standard": "Bouillante",
+            "slug_ville": "bouillante",
+            "code_postal": "97125",
+            "population": 6634,
+            "superficie_km2": "43.00",
+            "latitude_centre": "16.1439991",
+            "longitude_centre": "-61.7540016"
+        },
+        {
+            "id": 9854,
+            "code_insee": "97107",
+            "nom_standard": "Capesterre-Belle-Eau",
+            "slug_ville": "capesterre-belle-eau",
+            "code_postal": "97130",
+            "population": 17731,
+            "superficie_km2": "103.00",
+            "latitude_centre": "16.0550003",
+            "longitude_centre": "-61.6119995"
+        },
+        {
+            "id": 9855,
+            "code_insee": "97108",
+            "nom_standard": "Capesterre-de-Marie-Galante",
+            "slug_ville": "capesterre-de-marie-galante",
+            "code_postal": "97140",
+            "population": 3198,
+            "superficie_km2": "46.00",
+            "latitude_centre": "15.9200001",
+            "longitude_centre": "-61.2299995"
+        },
+        {
+            "id": 9856,
+            "code_insee": "97109",
+            "nom_standard": "Gourbeyre",
+            "slug_ville": "gourbeyre",
+            "code_postal": "97113",
+            "population": 7508,
+            "superficie_km2": "23.00",
+            "latitude_centre": "15.9940004",
+            "longitude_centre": "-61.6860008"
+        },
+        {
+            "id": 9857,
+            "code_insee": "97110",
+            "nom_standard": "La Désirade",
+            "slug_ville": "la-desirade",
+            "code_postal": "97127",
+            "population": 1391,
+            "superficie_km2": "22.00",
+            "latitude_centre": "16.3120003",
+            "longitude_centre": "-61.0530014"
+        },
+        {
+            "id": 9858,
+            "code_insee": "97111",
+            "nom_standard": "Deshaies",
+            "slug_ville": "deshaies",
+            "code_postal": "97126",
+            "population": 3922,
+            "superficie_km2": "31.00",
+            "latitude_centre": "16.3040009",
+            "longitude_centre": "-61.7799988"
+        },
+        {
+            "id": 9859,
+            "code_insee": "97112",
+            "nom_standard": "Grand-Bourg",
+            "slug_ville": "grand-bourg",
+            "code_postal": "97112",
+            "population": 4741,
+            "superficie_km2": "56.00",
+            "latitude_centre": "15.9060001",
+            "longitude_centre": "-61.2939987"
+        },
+        {
+            "id": 9860,
+            "code_insee": "97113",
+            "nom_standard": "Le Gosier",
+            "slug_ville": "le-gosier",
+            "code_postal": "97190",
+            "population": 27184,
+            "superficie_km2": "45.00",
+            "latitude_centre": "16.2250004",
+            "longitude_centre": "-61.4700012"
+        },
+        {
+            "id": 9861,
+            "code_insee": "97114",
+            "nom_standard": "Goyave",
+            "slug_ville": "goyave",
+            "code_postal": "97128",
+            "population": 7638,
+            "superficie_km2": "60.00",
+            "latitude_centre": "16.1219997",
+            "longitude_centre": "-61.6139984"
+        },
+        {
+            "id": 9862,
+            "code_insee": "97115",
+            "nom_standard": "Lamentin",
+            "slug_ville": "lamentin",
+            "code_postal": "97129",
+            "population": 18527,
+            "superficie_km2": "65.00",
+            "latitude_centre": "16.2409992",
+            "longitude_centre": "-61.6679993"
+        },
+        {
+            "id": 9863,
+            "code_insee": "97116",
+            "nom_standard": "Morne-à-l'Eau",
+            "slug_ville": "morne-a-l-eau",
+            "code_postal": "97111",
+            "population": 15898,
+            "superficie_km2": "68.00",
+            "latitude_centre": "16.3239994",
+            "longitude_centre": "-61.4700012"
+        },
+        {
+            "id": 9864,
+            "code_insee": "97117",
+            "nom_standard": "Le Moule",
+            "slug_ville": "le-moule",
+            "code_postal": "97160",
+            "population": 22645,
+            "superficie_km2": "83.00",
+            "latitude_centre": "16.3199997",
+            "longitude_centre": "-61.3720017"
+        },
+        {
+            "id": 9865,
+            "code_insee": "97118",
+            "nom_standard": "Petit-Bourg",
+            "slug_ville": "petit-bourg",
+            "code_postal": "97170",
+            "population": 24272,
+            "superficie_km2": "131.00",
+            "latitude_centre": "16.1720009",
+            "longitude_centre": "-61.6570015"
+        },
+        {
+            "id": 9866,
+            "code_insee": "97119",
+            "nom_standard": "Petit-Canal",
+            "slug_ville": "petit-canal",
+            "code_postal": "97131",
+            "population": 8201,
+            "superficie_km2": "74.00",
+            "latitude_centre": "16.3889999",
+            "longitude_centre": "-61.4500008"
+        },
+        {
+            "id": 9867,
+            "code_insee": "97120",
+            "nom_standard": "Pointe-à-Pitre",
+            "slug_ville": "pointe-a-pitre",
+            "code_postal": "97110",
+            "population": 14486,
+            "superficie_km2": "3.00",
+            "latitude_centre": "16.2390003",
+            "longitude_centre": "-61.5359993"
+        },
+        {
+            "id": 9868,
+            "code_insee": "97121",
+            "nom_standard": "Pointe-Noire",
+            "slug_ville": "pointe-noire",
+            "code_postal": "97116",
+            "population": 5888,
+            "superficie_km2": "60.00",
+            "latitude_centre": "16.2269993",
+            "longitude_centre": "-61.7630005"
+        },
+        {
+            "id": 9869,
+            "code_insee": "97122",
+            "nom_standard": "Port-Louis",
+            "slug_ville": "port-louis",
+            "code_postal": "97117",
+            "population": 5576,
+            "superficie_km2": "44.00",
+            "latitude_centre": "16.4260006",
+            "longitude_centre": "-61.4959984"
+        },
+        {
+            "id": 9870,
+            "code_insee": "97124",
+            "nom_standard": "Saint-Claude",
+            "slug_ville": "saint-claude",
+            "code_postal": "97120",
+            "population": 10700,
+            "superficie_km2": "34.00",
+            "latitude_centre": "16.0340004",
+            "longitude_centre": "-61.6899986"
+        },
+        {
+            "id": 9871,
+            "code_insee": "97125",
+            "nom_standard": "Saint-François",
+            "slug_ville": "saint-francois",
+            "code_postal": "97118",
+            "population": 13004,
+            "superficie_km2": "61.00",
+            "latitude_centre": "16.2730007",
+            "longitude_centre": "-61.2820015"
+        },
+        {
+            "id": 9872,
+            "code_insee": "97126",
+            "nom_standard": "Saint-Louis",
+            "slug_ville": "saint-louis",
+            "code_postal": "97134",
+            "population": 2528,
+            "superficie_km2": "58.00",
+            "latitude_centre": "15.9659996",
+            "longitude_centre": "-61.2750015"
+        },
+        {
+            "id": 9873,
+            "code_insee": "97128",
+            "nom_standard": "Sainte-Anne",
+            "slug_ville": "sainte-anne",
+            "code_postal": "97180",
+            "population": 24281,
+            "superficie_km2": "81.00",
+            "latitude_centre": "16.2570000",
+            "longitude_centre": "-61.3880005"
+        },
+        {
+            "id": 9874,
+            "code_insee": "97129",
+            "nom_standard": "Sainte-Rose",
+            "slug_ville": "sainte-rose",
+            "code_postal": "97115",
+            "population": 17630,
+            "superficie_km2": "124.00",
+            "latitude_centre": "16.2940006",
+            "longitude_centre": "-61.7099991"
+        },
+        {
+            "id": 9875,
+            "code_insee": "97131",
+            "nom_standard": "Terre-de-Haut",
+            "slug_ville": "terre-de-haut",
+            "code_postal": "97137",
+            "population": 1496,
+            "superficie_km2": "6.00",
+            "latitude_centre": "15.8649998",
+            "longitude_centre": "-61.5839996"
+        },
+        {
+            "id": 9876,
+            "code_insee": "97132",
+            "nom_standard": "Trois-Rivières",
+            "slug_ville": "trois-rivieres",
+            "code_postal": "97114",
+            "population": 7625,
+            "superficie_km2": "31.00",
+            "latitude_centre": "15.9910002",
+            "longitude_centre": "-61.6479988"
+        },
+        {
+            "id": 9877,
+            "code_insee": "97133",
+            "nom_standard": "Vieux-Fort",
+            "slug_ville": "vieux-fort",
+            "code_postal": "97141",
+            "population": 1787,
+            "superficie_km2": "7.00",
+            "latitude_centre": "15.9600000",
+            "longitude_centre": "-61.6940002"
+        },
+        {
+            "id": 9878,
+            "code_insee": "97134",
+            "nom_standard": "Vieux-Habitants",
+            "slug_ville": "vieux-habitants",
+            "code_postal": "97119",
+            "population": 7014,
+            "superficie_km2": "60.00",
+            "latitude_centre": "16.0869999",
+            "longitude_centre": "-61.7260017"
+        }
+    ]
+}
