@@ -1,0 +1,12 @@
+{
+  "name": "vintseo",
+  "version": "1.0.0",
+  "description": "Annuaire Portes - SEO optimized",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./assets/css/style.css --minify",
+    "watch:css": "tailwindcss -i ./src/input.css -o ./assets/css/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}

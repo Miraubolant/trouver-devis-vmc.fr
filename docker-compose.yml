@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    container_name: vint-vmc
+    ports:
+      - "8007:80"
+    volumes:
+      - .:/var/www/html:rw
+    restart: unless-stopped

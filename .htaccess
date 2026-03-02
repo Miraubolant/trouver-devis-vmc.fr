@@ -1,0 +1,115 @@
+# Annuaire Portes - Configuration Apache
+# ==========================================
+
+# Activer la réécriture d'URL
+RewriteEngine On
+
+# Définir la base
+RewriteBase /
+
+# Forcer HTTPS (décommenter en production)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Supprimer www (ou ajouter www selon préférence)
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Empêcher l'accès aux fichiers sensibles
+<FilesMatch "(^\.htaccess|\.json$|\.md$|^config\.php$|^functions\.php$)">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Autoriser l'accès aux sitemaps XML
+<FilesMatch "sitemap.*\.xml$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
+# Empêcher l'accès au dossier data
+RewriteRule ^data/ - [F,L]
+
+# Empêcher l'accès aux dossiers templates, components, pages
+RewriteRule ^templates/ - [F,L]
+RewriteRule ^components/ - [F,L]
+RewriteRule ^pages/ - [F,L]
+
+# Fichiers statiques - passer directement
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule \.(css|js|jpg|jpeg|png|gif|ico|svg|woff|woff2|ttf|eot|webp|mp4|pdf)$ - [L]
+
+# Sitemaps
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+RewriteRule ^sitemap-main\.xml$ sitemap.php?type=main [L]
+RewriteRule ^sitemap-villes-([0-9A-Za-z]+)\.xml$ sitemap.php?type=villes&dept=$1 [L]
+RewriteRule ^sitemap-modeles-([0-9A-Za-z]+)\.xml$ sitemap.php?type=modeles&dept=$1 [L]
+RewriteRule ^sitemap-artisans-([0-9A-Za-z]+)\.xml$ sitemap.php?type=artisans&dept=$1 [L]
+
+# API Recherche
+RewriteRule ^api/search\.php$ api/search.php [L]
+
+# Robots.txt
+RewriteRule ^robots\.txt$ robots.php [L]
+
+# Page accueil
+RewriteRule ^$ index.php [L]
+
+# Pages statiques
+RewriteRule ^mentions-legales/?$ router.php?route=mentions-legales [L]
+RewriteRule ^politique-confidentialite/?$ router.php?route=politique-confidentialite [L]
+RewriteRule ^contact/?$ router.php?route=contact [L]
+
+# Page service: /services/{modele-slug}/
+RewriteRule ^services/([a-z0-9-]+)/?$ router.php?route=service&service=$1 [L,QSA]
+
+# Routes dynamiques - Ordre important (du plus spécifique au plus général)
+
+# Fiche artisan: /{region}/{dept}/{ville-CP}/artisans/{slug}/
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-]+)/([a-z0-9-]+-[0-9]{5})/artisans/([a-z0-9-]+)/?$ router.php?route=artisan&region=$1&departement=$2&ville=$3&artisan=$4 [L,QSA]
+
+# Page modèle: /{region}/{dept}/{ville-CP}/{modele}/
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-]+)/([a-z0-9-]+-[0-9]{5})/([a-z0-9-]+)/?$ router.php?route=modele&region=$1&departement=$2&ville=$3&modele=$4 [L,QSA]
+
+# Page ville: /{region}/{dept}/{ville-CP}/
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-]+)/([a-z0-9-]+-[0-9]{5})/?$ router.php?route=ville&region=$1&departement=$2&ville=$3 [L,QSA]
+
+# Page département: /{region}/{dept}/
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-]+)/?$ router.php?route=departement&region=$1&departement=$2 [L,QSA]
+
+# Page région: /{region}/
+RewriteRule ^([a-z0-9-]+)/?$ router.php?route=region&region=$1 [L,QSA]
+
+# Compression GZIP
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json application/xml
+</IfModule>
+
+# Cache navigateur
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/svg+xml "access plus 1 month"
+    ExpiresByType image/webp "access plus 1 month"
+    ExpiresByType image/x-icon "access plus 1 year"
+    ExpiresByType application/font-woff "access plus 1 month"
+    ExpiresByType application/font-woff2 "access plus 1 month"
+</IfModule>
+
+# Sécurité headers
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Pages d'erreur personnalisées
+ErrorDocument 404 /router.php?route=404
+ErrorDocument 500 /router.php?route=500
