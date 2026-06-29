@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * ============================================
  * ANNUAIRE-VMC.FR - CONFIGURATION
@@ -8,7 +8,7 @@
 define('SITE_NAME', 'trouver-devis-vmc.fr');
 define('SITE_DOMAIN', 'trouver-devis-vmc.fr');
 define('SITE_URL', 'https://trouver-devis-vmc.fr');
-define('SITE_EMAIL', 'contact@trouver-devis-vmc.fr');
+define('SITE_EMAIL', 'admin@miraubolant.com');
 define('SITE_TAGLINE', "VMC & Ventilation Partout en France");
 define('SITE_DESCRIPTION', "Trouvez un installateur de VMC simple ou double flux pour assainir l\'air de votre logement.");
 
